@@ -21,23 +21,16 @@ This generator currently creates playlists for
       "br": "Brazil"
       "ca": "Canada"
       "cl": "Chile"
-      "co": "Colombia",
-      "cr": "Costa Rica"
       "de": "Germany"
       "dk": "Denmark"
-      "do": "Dominican Republic"
-      "ec": "Ecuador"
       "es": "Spain"
       "fr": "France"
       "gb": "United Kingdom"
-      "gt": "Guatemala",
       "it": "Italy"
       "mx": "Mexico"
       "no": "Norway"
-      "pe": "Peru"
       "se": "Sweden"
       "us": "United States"
-      "latam": "Latin America"
      ```
 
 
