@@ -65,6 +65,11 @@ This generator currently creates playlists for
 *   **Roku TV** (`roku_all.m3u`) 
 *   **Stirr TV** (`stirr_all.m3u`) 👉 Might be removing. No working EPG.
 
+*   **Two more services from other repos**
+
+*   https://github.com/BuddyChewChew/xumo-playlist-generator
+*   https://github.com/BuddyChewChew/localnow-playlist-generator
+
 
 **Example URLs:**
 
