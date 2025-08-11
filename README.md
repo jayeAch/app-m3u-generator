@@ -29,14 +29,14 @@ This generator currently creates playlists for
         "de": "Germany", "ch": "Switzerland", "it": "Italy", "fr": "France",
         "at": "Austria", "ie": "Ireland", "za": "South Africa"
     
-*   **Samsung TV Plus**  = { samsungtvplus_all.m3u }
+*  ``` **Samsung TV Plus**  = { samsungtvplus_all.m3u }
        "ca": "Canada"
        "de": "Germany"
        "es": "Spain"
        "fr": "France"
        "gb": "United Kingdom"
        "it": "Italy"
-       "us": "United States"
+       "us": "United States" ```
 
 *   **Tubi TV** (`tubi_all.m3u`)
 *   **Roku TV** (`roku_all.m3u`) 
