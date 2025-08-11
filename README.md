@@ -15,17 +15,33 @@ This repository automatically generates M3U playlist files for various free ad-s
 
 This generator currently creates playlists for
 
-*   **Pluto TV Region Map** = {
-        "ar": "Argentina", "br": "Brazil", "ca": "Canada", "cl": "Chile", "co": "Colombia",
-        "cr": "Costa Rica", "de": "Germany", "dk": "Denmark", "do": "Dominican Republic",
-        "ec": "Ecuador", "es": "Spain", "fr": "France", "gb": "United Kingdom", "gt": "Guatemala",
-        "it": "Italy", "mx": "Mexico", "no": "Norway", "pe": "Peru", "se": "Sweden",
-        "us": "United States", "latam": "Latin America"
+*   **Pluto TV Region Map** = ( `plutotv_all.m3u` )
+      "ar": "Argentina"
+      "br": "Brazil"
+      "ca": "Canada"
+      "cl": "Chile"
+      "co": "Colombia",
+      "cr": "Costa Rica"
+      "de": "Germany"
+      "dk": "Denmark"
+      "do": "Dominican Republic"
+      "ec": "Ecuador"
+      "es": "Spain"
+      "fr": "France"
+      "gb": "United Kingdom"
+      "gt": "Guatemala",
+      "it": "Italy"
+      "mx": "Mexico"
+      "no": "Norway"
+      "pe": "Peru"
+      "se": "Sweden"
+      "us": "United States"
+      "latam": "Latin America"
 
 
-*   **Plex TV Region Map**  = ( plexs_all.m3u )
+*   **Plex TV Region Map**  = ( `plexs_all.m3u` )
       ```
-      "au": "Australia"
+       "au": "Australia"
        "br": "Brazil"
        "ca": "Canad"
        "de": "Germany"
@@ -39,7 +55,7 @@ This generator currently creates playlists for
      ```
        
     
-*   **Samsung TV Plus**  = ( samsungtvplus_all.m3u )
+*   **Samsung TV Plus**  = ( `samsungtvplus_all.m3u` )
       ```
        "ca": "Canada"
        "de": "Germany"
