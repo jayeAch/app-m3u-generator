@@ -13,14 +13,35 @@ This repository automatically generates M3U playlist files for various free ad-s
 
 ## ▶️ Services Included
 
-This generator currently creates playlists for:
+This generator currently creates playlists for
 
-*   **Pluto TV** (`plutotv_us.m3u`, `plutotv_all.m3u`)
-*   **Plex Live TV** (`plex_us.m3u`, `plex_all.m3u`)
-*   **Samsung TV Plus** (`samsungtvplus_us.m3u`, `samsungtvplus_all.m3u`)
-*   **Stirr TV** (`stirr_all.m3u`) 👉 Might be removing. No working EPG.
+*   **Pluto TV Region Map** = {
+        "ar": "Argentina", "br": "Brazil", "ca": "Canada", "cl": "Chile", "co": "Colombia",
+        "cr": "Costa Rica", "de": "Germany", "dk": "Denmark", "do": "Dominican Republic",
+        "ec": "Ecuador", "es": "Spain", "fr": "France", "gb": "United Kingdom", "gt": "Guatemala",
+        "it": "Italy", "mx": "Mexico", "no": "Norway", "pe": "Peru", "se": "Sweden",
+        "us": "United States", "latam": "Latin America"
+
+
+*   **Plex TV Region Map** = {
+        "us": "United States", "mx": "Mexico", "es": "Spain", "ca": "Canada",
+        "au": "Australia", "nz": "New Zealand", "br": "Brazil", "gb": "United Kingdom",
+        "de": "Germany", "ch": "Switzerland", "it": "Italy", "fr": "France",
+        "at": "Austria", "ie": "Ireland", "za": "South Africa"
+    
+*   **Samsung TV Plus**  = { samsungtvplus_all.m3u }
+       "ca": "Canada"
+       "de": "Germany"
+       "es": "Spain"
+       "fr": "France"
+       "gb": "United Kingdom"
+       "it": "Italy"
+       "us": "United States"
+
 *   **Tubi TV** (`tubi_all.m3u`)
 *   **Roku TV** (`roku_all.m3u`) 
+*   **Stirr TV** (`stirr_all.m3u`) 👉 Might be removing. No working EPG.
+
 
 **Example URLs:**
 
