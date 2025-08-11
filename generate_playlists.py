@@ -472,7 +472,7 @@ if __name__ == "__main__":
     ]
     
     # Default regions for services that support them
-    regions = ['us', 'ca', 'gb', 'au', 'all']
+    regions = ['nl', 'ie', 'th', 'be', 'lu', 'pt', 'fi', 'se', 'th', 'sg', 'ph', 'ar', 'br', 'ca', 'cl', 'co', 'cr', 'de', 'dk', 'do','ec', 'es', 'fr', 'gb', 'gt', 'it', 'mx' , 'no', 'pe', 'se', 'us', 'latam', 'all']
     
     # Generate playlists for each service
     for service in services:
