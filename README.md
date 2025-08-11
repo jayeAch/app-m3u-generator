@@ -16,6 +16,7 @@ This repository automatically generates M3U playlist files for various free ad-s
 This generator currently creates playlists for
 
 *   **Pluto TV Region Map** = ( `plutotv_all.m3u` )
+      ```
       "ar": "Argentina"
       "br": "Brazil"
       "ca": "Canada"
@@ -37,6 +38,7 @@ This generator currently creates playlists for
       "se": "Sweden"
       "us": "United States"
       "latam": "Latin America"
+     ```
 
 
 *   **Plex TV Region Map**  = ( `plexs_all.m3u` )
