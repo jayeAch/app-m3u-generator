@@ -23,21 +23,32 @@ This generator currently creates playlists for
         "us": "United States", "latam": "Latin America"
 
 
-*   **Plex TV Region Map** = {
-        "us": "United States", "mx": "Mexico", "es": "Spain", "ca": "Canada",
-        "au": "Australia", "nz": "New Zealand", "br": "Brazil", "gb": "United Kingdom",
-        "de": "Germany", "ch": "Switzerland", "it": "Italy", "fr": "France",
-        "at": "Austria", "ie": "Ireland", "za": "South Africa"
+*   **Plex TV Region Map**  = ( plexs_all.m3u )
+   ```
+       "au": "Australia"
+       "br": "Brazil"
+       "ca": "Canad"
+       "de": "Germany"
+       "es": "Spain"
+       "fr": "France"
+       "gb": "United Kingdom"
+       "ie": "Ireland"
+       "it": "Italy"
+       "mx": "Mexico"
+       "us": "United States"
+  ```
+       
     
-*   **Samsung TV Plus**  = { samsungtvplus_all.m3u }
+*   **Samsung TV Plus**  = ( samsungtvplus_all.m3u )
       ```
-      "ca": "Canada"
+       "ca": "Canada"
        "de": "Germany"
        "es": "Spain"
        "fr": "France"
        "gb": "United Kingdom"
        "it": "Italy"
-       "us": "United States" ```
+       "us": "United States"
+      ```
 
 *   **Tubi TV** (`tubi_all.m3u`)
 *   **Roku TV** (`roku_all.m3u`) 
