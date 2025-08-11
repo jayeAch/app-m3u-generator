@@ -25,7 +25,7 @@ This generator currently creates playlists for
 
 *   **Plex TV Region Map**  = ( plexs_all.m3u )
    ```
-       "au": "Australia"
+      "au": "Australia"
        "br": "Brazil"
        "ca": "Canad"
        "de": "Germany"
