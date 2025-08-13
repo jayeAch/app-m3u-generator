@@ -270,7 +270,7 @@ def generate_plex_m3u(regions=['us', 'ca', 'gb', 'au', 'all'], sort='name'):
 def generate_samsungtvplus_m3u(regions=['us', 'ca', 'gb', 'au', 'de', 'all'], sort='name'):
     """Generates M3U playlists for SamsungTVPlus."""
     SAMSUNG_URL = 'https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/.channels.json.gz'
-    STREAM_URL_TEMPLATE = 'https://jmp2.uk/sam-{id}.m3u8'
+    STREAM_URL_TEMPLATE = 'https://jmp2.uk/{slug}'
     EPG_URL_TEMPLATE = 'https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/{region}.xml.gz'
 
     data = fetch_url(SAMSUNG_URL, is_json=True, is_gzipped=True)
@@ -330,7 +330,7 @@ def generate_samsungtvplus_m3u(regions=['us', 'ca', 'gb', 'au', 'de', 'all'], so
             tvg_id = original_id # Use the base ID for EPG matching
 
             extinf = format_extinf(channel_id, tvg_id, chno, name, logo, group, name)
-            stream_url = STREAM_URL_TEMPLATE.replace('{id}', original_id)
+            stream_url = STREAM_URL_TEMPLATE.format(slug=data['slug'].format(id=original_id))
             output_lines.append(extinf)
             output_lines.append(stream_url + '\n')
 
