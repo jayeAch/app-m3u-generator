@@ -31,6 +31,8 @@ https://jmp2.uk/plu-65819e62b228b70008570e9f.m3u8
 https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8
 #EXTINF:-1 channel-id="630348a54c48ce00077eb6c7" tvg-id="630348a54c48ce00077eb6c7" tvg-chno="17" tvg-name="Becker" tvg-logo="https://images.pluto.tv/channels/630348a54c48ce00077eb6c7/colorLogoPNG.png" group-title="Sitcoms",Becker
 https://jmp2.uk/plu-630348a54c48ce00077eb6c7.m3u8
+#EXTINF:-1 channel-id="67fe498f9ebfe4142424c55d" tvg-id="67fe498f9ebfe4142424c55d" tvg-chno="65" tvg-name="Beelzebub" tvg-logo="https://images.pluto.tv/channels/67fe498f9ebfe4142424c55d/colorLogoPNG_1752723475037.png" group-title="Anime",Beelzebub
+https://jmp2.uk/plu-67fe498f9ebfe4142424c55d.m3u8
 #EXTINF:-1 channel-id="60afb576053df900076fa2f0" tvg-id="60afb576053df900076fa2f0" tvg-chno="42" tvg-name="Beverly Hills 90210" tvg-logo="https://images.pluto.tv/channels/60afb576053df900076fa2f0/colorLogoPNG.png" group-title="Serien-Marathon",Beverly Hills 90210
 https://jmp2.uk/plu-60afb576053df900076fa2f0.m3u8
 #EXTINF:-1 channel-id="663e09e4b18d700008e48dcf" tvg-id="663e09e4b18d700008e48dcf" tvg-chno="383" tvg-name="BIG BROTHER CLASSIC" tvg-logo="https://images.pluto.tv/channels/663e09e4b18d700008e48dcf/colorLogoPNG.png" group-title="Reality",BIG BROTHER CLASSIC
@@ -53,11 +55,11 @@ https://jmp2.uk/plu-66337e365a402e00087eccaf.m3u8
 https://jmp2.uk/plu-66c45b1803e3b20008d8c200.m3u8
 #EXTINF:-1 channel-id="60c716084d842c00085f6e64" tvg-id="60c716084d842c00085f6e64" tvg-chno="71" tvg-name="Comedy Central South Park" tvg-logo="https://images.pluto.tv/channels/60c716084d842c00085f6e64/colorLogoPNG_1748434979824.png" group-title="South Park",Comedy Central South Park
 https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8
-#EXTINF:-1 channel-id="64b67f0424ade50008a3be17" tvg-id="64b67f0424ade50008a3be17" tvg-chno="141" tvg-name="DAZN Darts x Pluto TV" tvg-logo="https://images.pluto.tv/channels/64b67f0424ade50008a3be17/colorLogoPNG.png" group-title="Live Sports",DAZN Darts x Pluto TV
+#EXTINF:-1 channel-id="64b67f0424ade50008a3be17" tvg-id="64b67f0424ade50008a3be17" tvg-chno="142" tvg-name="DAZN Darts x Pluto TV" tvg-logo="https://images.pluto.tv/channels/64b67f0424ade50008a3be17/colorLogoPNG.png" group-title="Live Sports",DAZN Darts x Pluto TV
 https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
-#EXTINF:-1 channel-id="6683f7fe36a2f9000804940c" tvg-id="6683f7fe36a2f9000804940c" tvg-chno="144" tvg-name="DAZN Handball x Pluto TV" tvg-logo="https://images.pluto.tv/channels/6683f7fe36a2f9000804940c/colorLogoPNG.png" group-title="Live Sports",DAZN Handball x Pluto TV
+#EXTINF:-1 channel-id="6683f7fe36a2f9000804940c" tvg-id="6683f7fe36a2f9000804940c" tvg-chno="145" tvg-name="DAZN Handball x Pluto TV" tvg-logo="https://images.pluto.tv/channels/6683f7fe36a2f9000804940c/colorLogoPNG.png" group-title="Live Sports",DAZN Handball x Pluto TV
 https://jmp2.uk/plu-6683f7fe36a2f9000804940c.m3u8
-#EXTINF:-1 channel-id="64afe50c5dc16600087f3227" tvg-id="64afe50c5dc16600087f3227" tvg-chno="145" tvg-name="DAZN Heldinnen x Pluto TV" tvg-logo="https://images.pluto.tv/channels/64afe50c5dc16600087f3227/colorLogoPNG.png" group-title="Live Sports",DAZN Heldinnen x Pluto TV
+#EXTINF:-1 channel-id="64afe50c5dc16600087f3227" tvg-id="64afe50c5dc16600087f3227" tvg-chno="146" tvg-name="DAZN Heldinnen x Pluto TV" tvg-logo="https://images.pluto.tv/channels/64afe50c5dc16600087f3227/colorLogoPNG.png" group-title="Live Sports",DAZN Heldinnen x Pluto TV
 https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
 #EXTINF:-1 channel-id="62cebd7302478b00073a6b71" tvg-id="62cebd7302478b00073a6b71" tvg-chno="48" tvg-name="Der Denver-Clan" tvg-logo="https://images.pluto.tv/channels/62cebd7302478b00073a6b71/colorLogoPNG.png" group-title="Serien-Marathon",Der Denver-Clan
 https://jmp2.uk/plu-62cebd7302478b00073a6b71.m3u8
@@ -145,7 +147,7 @@ https://jmp2.uk/plu-66c6fcfc6838ee00085beb1a.m3u8
 https://jmp2.uk/plu-64be745340962900080b55e7.m3u8
 #EXTINF:-1 channel-id="634fe5afece2e60007c9d8b8" tvg-id="634fe5afece2e60007c9d8b8" tvg-chno="232" tvg-name="Mission Impossible" tvg-logo="https://images.pluto.tv/channels/634fe5afece2e60007c9d8b8/colorLogoPNG.png" group-title="Action",Mission Impossible
 https://jmp2.uk/plu-634fe5afece2e60007c9d8b8.m3u8
-#EXTINF:-1 channel-id="66337e6ba0a74e000889563b" tvg-id="66337e6ba0a74e000889563b" tvg-chno="142" tvg-name="MODUS Super Series Darts" tvg-logo="https://images.pluto.tv/channels/66337e6ba0a74e000889563b/colorLogoPNG_1732093439335.png" group-title="Live Sports",MODUS Super Series Darts
+#EXTINF:-1 channel-id="66337e6ba0a74e000889563b" tvg-id="66337e6ba0a74e000889563b" tvg-chno="143" tvg-name="MODUS Super Series Darts" tvg-logo="https://images.pluto.tv/channels/66337e6ba0a74e000889563b/colorLogoPNG_1732093439335.png" group-title="Live Sports",MODUS Super Series Darts
 https://jmp2.uk/plu-66337e6ba0a74e000889563b.m3u8
 #EXTINF:-1 channel-id="615c1e5ce3039400070a0547" tvg-id="615c1e5ce3039400070a0547" tvg-chno="180" tvg-name="MOVIEDOME" tvg-logo="https://images.pluto.tv/channels/615c1e5ce3039400070a0547/colorLogoPNG.png" group-title="Filme",MOVIEDOME
 https://jmp2.uk/plu-615c1e5ce3039400070a0547.m3u8
@@ -213,7 +215,7 @@ https://jmp2.uk/plu-661801e871e8c30008a73f7b.m3u8
 https://jmp2.uk/plu-67ff7d487fc25e0e72450adf.m3u8
 #EXTINF:-1 channel-id="5e7b6c60fd20c50007910bf5" tvg-id="5e7b6c60fd20c50007910bf5" tvg-chno="105" tvg-name="Pluto TV Crime" tvg-logo="https://images.pluto.tv/channels/5e7b6c60fd20c50007910bf5/colorLogoPNG.png" group-title="Crime",Pluto TV Crime
 https://jmp2.uk/plu-5e7b6c60fd20c50007910bf5.m3u8
-#EXTINF:-1 channel-id="67b481cc1a5ca760801c6c5e" tvg-id="67b481cc1a5ca760801c6c5e" tvg-chno="143" tvg-name="Pluto TV Darts" tvg-logo="https://images.pluto.tv/channels/67b481cc1a5ca760801c6c5e/colorLogoPNG.png" group-title="Live Sports",Pluto TV Darts
+#EXTINF:-1 channel-id="67b481cc1a5ca760801c6c5e" tvg-id="67b481cc1a5ca760801c6c5e" tvg-chno="144" tvg-name="Pluto TV Darts" tvg-logo="https://images.pluto.tv/channels/67b481cc1a5ca760801c6c5e/colorLogoPNG.png" group-title="Live Sports",Pluto TV Darts
 https://jmp2.uk/plu-67b481cc1a5ca760801c6c5e.m3u8
 #EXTINF:-1 channel-id="6672f49f61a39900089db68e" tvg-id="6672f49f61a39900089db68e" tvg-chno="243" tvg-name="Pluto TV Deutsche Comedy" tvg-logo="https://images.pluto.tv/channels/6672f49f61a39900089db68e/colorLogoPNG_1748857141516.png" group-title="Comedy",Pluto TV Deutsche Comedy
 https://jmp2.uk/plu-6672f49f61a39900089db68e.m3u8
@@ -283,7 +285,7 @@ https://jmp2.uk/plu-638f2bc7bc363100072f02dd.m3u8
 https://jmp2.uk/plu-638f2983dcd9100008c2374d.m3u8
 #EXTINF:-1 channel-id="65f9b2dc0d45610008505eac" tvg-id="65f9b2dc0d45610008505eac" tvg-chno="296" tvg-name="Realmadrid TV" tvg-logo="https://images.pluto.tv/channels/65f9b2dc0d45610008505eac/colorLogoPNG.png" group-title="Sport",Realmadrid TV
 https://jmp2.uk/plu-65f9b2dc0d45610008505eac.m3u8
-#EXTINF:-1 channel-id="5e7cb84a172a0f0007da69e4" tvg-id="5e7cb84a172a0f0007da69e4" tvg-chno="140" tvg-name="Red Bull TV" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="Live Sports",Red Bull TV
+#EXTINF:-1 channel-id="5e7cb84a172a0f0007da69e4" tvg-id="5e7cb84a172a0f0007da69e4" tvg-chno="141" tvg-name="Red Bull TV" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="Live Sports",Red Bull TV
 https://jmp2.uk/plu-5e7cb84a172a0f0007da69e4.m3u8
 #EXTINF:-1 channel-id="645a0ddfe1979c00086d83ff" tvg-id="645a0ddfe1979c00086d83ff" tvg-chno="33" tvg-name="Red Shoe Diaries" tvg-logo="https://images.pluto.tv/channels/645a0ddfe1979c00086d83ff/colorLogoPNG.png" group-title="Sinnliche Fantasien",Red Shoe Diaries
 https://jmp2.uk/plu-645a0ddfe1979c00086d83ff.m3u8
