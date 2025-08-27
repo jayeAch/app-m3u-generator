@@ -147,7 +147,7 @@ https://jmp2.uk/plu-64e771ac9b414d000841080c.m3u8
 https://jmp2.uk/plu-619e4a3518d6970008bebc95.m3u8
 #EXTINF:-1 channel-id="671b4e8bc7626f00089b7194" tvg-id="671b4e8bc7626f00089b7194" tvg-chno="110" tvg-name="Horse & Country" tvg-logo="https://images.pluto.tv/channels/671b4e8bc7626f00089b7194/colorLogoPNG.png" group-title="Sport",Horse & Country
 https://jmp2.uk/plu-671b4e8bc7626f00089b7194.m3u8
-#EXTINF:-1 channel-id="655caa815812e80008884322" tvg-id="655caa815812e80008884322" tvg-chno="664" tvg-name="Hot Ones" tvg-logo="https://images.pluto.tv/channels/655caa815812e80008884322/colorLogoPNG-1756127243234.png" group-title="Talkshow",Hot Ones
+#EXTINF:-1 channel-id="655caa815812e80008884322" tvg-id="655caa815812e80008884322" tvg-chno="664" tvg-name="Hot Ones" tvg-logo="https://images.pluto.tv/channels/655caa815812e80008884322/colorLogoPNG_1756234606437.png" group-title="Talkshow",Hot Ones
 https://jmp2.uk/plu-655caa815812e80008884322.m3u8
 #EXTINF:-1 channel-id="6537abf42cf1310008441686" tvg-id="6537abf42cf1310008441686" tvg-chno="60" tvg-name="Högspänning" tvg-logo="https://images.pluto.tv/channels/6537abf42cf1310008441686/colorLogoPNG.png" group-title="Svensk reality och underhållning",Högspänning
 https://jmp2.uk/plu-6537abf42cf1310008441686.m3u8
@@ -223,6 +223,8 @@ https://jmp2.uk/plu-65c340983ba51e00083988e8.m3u8
 https://jmp2.uk/plu-61780d4267bf4d00077ddd73.m3u8
 #EXTINF:-1 channel-id="6329cf28ef924b00078a9dc1" tvg-id="6329cf28ef924b00078a9dc1" tvg-chno="832" tvg-name="MTV Classic" tvg-logo="https://images.pluto.tv/channels/6329cf28ef924b00078a9dc1/colorLogoPNG.png" group-title="Musik",MTV Classic
 https://jmp2.uk/plu-6329cf28ef924b00078a9dc1.m3u8
+#EXTINF:-1 channel-id="685140f121f49d1b9d178249" tvg-id="685140f121f49d1b9d178249" tvg-chno="1" tvg-name="MTV Dating" tvg-logo="https://images.pluto.tv/channels/685140f121f49d1b9d178249/colorLogoPNG_1750843258864.png" group-title="Nytt på Pluto TV",MTV Dating
+https://jmp2.uk/plu-685140f121f49d1b9d178249.m3u8
 #EXTINF:-1 channel-id="638f2e6c7a07960007e52913" tvg-id="638f2e6c7a07960007e52913" tvg-chno="838" tvg-name="MTV Love Music" tvg-logo="https://images.pluto.tv/channels/638f2e6c7a07960007e52913/colorLogoPNG.png" group-title="Musik",MTV Love Music
 https://jmp2.uk/plu-638f2e6c7a07960007e52913.m3u8
 #EXTINF:-1 channel-id="6331a5f83eb57800074d4a0d" tvg-id="6331a5f83eb57800074d4a0d" tvg-chno="842" tvg-name="MTV Movie Hits" tvg-logo="https://images.pluto.tv/channels/6331a5f83eb57800074d4a0d/colorLogoPNG.png" group-title="Musik",MTV Movie Hits
@@ -231,7 +233,7 @@ https://jmp2.uk/plu-6331a5f83eb57800074d4a0d.m3u8
 https://jmp2.uk/plu-65ba4b563af63d0008504d4f.m3u8
 #EXTINF:-1 channel-id="645a6296ee6a2f00080b8c6d" tvg-id="645a6296ee6a2f00080b8c6d" tvg-chno="833" tvg-name="MTV Pride" tvg-logo="https://images.pluto.tv/channels/645a6296ee6a2f00080b8c6d/colorLogoPNG.png" group-title="Musik",MTV Pride
 https://jmp2.uk/plu-645a6296ee6a2f00080b8c6d.m3u8
-#EXTINF:-1 channel-id="685139b0f7d8b74b62f41c96" tvg-id="685139b0f7d8b74b62f41c96" tvg-chno="1" tvg-name="MTV Reality" tvg-logo="https://images.pluto.tv/channels/685139b0f7d8b74b62f41c96/colorLogoPNG_1750947104659.png" group-title="Nytt på Pluto TV",MTV Reality
+#EXTINF:-1 channel-id="685139b0f7d8b74b62f41c96" tvg-id="685139b0f7d8b74b62f41c96" tvg-chno="2" tvg-name="MTV Reality" tvg-logo="https://images.pluto.tv/channels/685139b0f7d8b74b62f41c96/colorLogoPNG_1750947104659.png" group-title="Nytt på Pluto TV",MTV Reality
 https://jmp2.uk/plu-685139b0f7d8b74b62f41c96.m3u8
 #EXTINF:-1 channel-id="62cda0dfddc1040008fccacc" tvg-id="62cda0dfddc1040008fccacc" tvg-chno="462" tvg-name="MTV Ridiculousness" tvg-logo="https://images.pluto.tv/channels/62cda0dfddc1040008fccacc/colorLogoPNG.png" group-title="Det bästa från MTV",MTV Ridiculousness
 https://jmp2.uk/plu-62cda0dfddc1040008fccacc.m3u8

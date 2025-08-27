@@ -41,7 +41,7 @@ https://jmp2.uk/plu-62beb692cda2b10007d5fd76.m3u8
 https://jmp2.uk/plu-61c1939b8929e40007ff6382.m3u8
 #EXTINF:-1 channel-id="6405d444d200410008009419" tvg-id="6405d444d200410008009419" tvg-chno="207" tvg-name="BET25 LIVE" tvg-logo="https://images.pluto.tv/channels/6405d444d200410008009419/colorLogoPNG.png" group-title="Sport",BET25 LIVE
 https://jmp2.uk/plu-6405d444d200410008009419.m3u8
-#EXTINF:-1 channel-id="675c0762f433320008707f68" tvg-id="675c0762f433320008707f68" tvg-chno="3" tvg-name="BET25 Live+" tvg-logo="https://images.pluto.tv/channels/675c0762f433320008707f68/colorLogoPNG.png" group-title="Nyt på Pluto TV",BET25 Live+
+#EXTINF:-1 channel-id="675c0762f433320008707f68" tvg-id="675c0762f433320008707f68" tvg-chno="4" tvg-name="BET25 Live+" tvg-logo="https://images.pluto.tv/channels/675c0762f433320008707f68/colorLogoPNG.png" group-title="Nyt på Pluto TV",BET25 Live+
 https://jmp2.uk/plu-675c0762f433320008707f68.m3u8
 #EXTINF:-1 channel-id="65df112b66eec8000897b965" tvg-id="65df112b66eec8000897b965" tvg-chno="247" tvg-name="Billiard TV" tvg-logo="https://images.pluto.tv/channels/65df112b66eec8000897b965/colorLogoPNG.png" group-title="Sport",Billiard TV
 https://jmp2.uk/plu-65df112b66eec8000897b965.m3u8
@@ -57,7 +57,7 @@ https://jmp2.uk/plu-660d6c0094db140008fe2f74.m3u8
 https://jmp2.uk/plu-67a09ddc21af380008088dc3.m3u8
 #EXTINF:-1 channel-id="65cba73611ced700082123bc" tvg-id="65cba73611ced700082123bc" tvg-chno="1051" tvg-name="Broad City" tvg-logo="https://images.pluto.tv/channels/65cba73611ced700082123bc/colorLogoPNG.png" group-title="Humor",Broad City
 https://jmp2.uk/plu-65cba73611ced700082123bc.m3u8
-#EXTINF:-1 channel-id="685029cda1e091e16ff57fc8" tvg-id="685029cda1e091e16ff57fc8" tvg-chno="3" tvg-name="Brøndby TV" tvg-logo="https://images.pluto.tv/channels/685029cda1e091e16ff57fc8/colorLogoPNG_1750246109707.png" group-title="Nyt på Pluto TV",Brøndby TV
+#EXTINF:-1 channel-id="685029cda1e091e16ff57fc8" tvg-id="685029cda1e091e16ff57fc8" tvg-chno="6" tvg-name="Brøndby TV" tvg-logo="https://images.pluto.tv/channels/685029cda1e091e16ff57fc8/colorLogoPNG_1750246109707.png" group-title="Nyt på Pluto TV",Brøndby TV
 https://jmp2.uk/plu-685029cda1e091e16ff57fc8.m3u8
 #EXTINF:-1 channel-id="65a93b0607e03a000895abda" tvg-id="65a93b0607e03a000895abda" tvg-chno="457" tvg-name="Car Chase" tvg-logo="https://images.pluto.tv/channels/65a93b0607e03a000895abda/colorLogoPNG.png" group-title="Realityserier",Car Chase
 https://jmp2.uk/plu-65a93b0607e03a000895abda.m3u8
@@ -251,6 +251,8 @@ https://jmp2.uk/plu-65c33fd4dc10a40008f26af8.m3u8
 https://jmp2.uk/plu-6177fe76691b2e000702c7fc.m3u8
 #EXTINF:-1 channel-id="6329ceeac55af500083077e3" tvg-id="6329ceeac55af500083077e3" tvg-chno="957" tvg-name="MTV Classic" tvg-logo="https://images.pluto.tv/channels/6329ceeac55af500083077e3/colorLogoPNG.png" group-title="Musik",MTV Classic
 https://jmp2.uk/plu-6329ceeac55af500083077e3.m3u8
+#EXTINF:-1 channel-id="6851407c21f49d1b9d177493" tvg-id="6851407c21f49d1b9d177493" tvg-chno="2" tvg-name="MTV Dating" tvg-logo="https://images.pluto.tv/channels/6851407c21f49d1b9d177493/colorLogoPNG_1750843393149.png" group-title="Nyt på Pluto TV",MTV Dating
+https://jmp2.uk/plu-6851407c21f49d1b9d177493.m3u8
 #EXTINF:-1 channel-id="62beb7a0f9db450007a123c5" tvg-id="62beb7a0f9db450007a123c5" tvg-chno="963" tvg-name="MTV Love Music" tvg-logo="https://images.pluto.tv/channels/62beb7a0f9db450007a123c5/colorLogoPNG.png" group-title="Musik",MTV Love Music
 https://jmp2.uk/plu-62beb7a0f9db450007a123c5.m3u8
 #EXTINF:-1 channel-id="6331a4df44111b00076b15f7" tvg-id="6331a4df44111b00076b15f7" tvg-chno="960" tvg-name="MTV Movie Hits" tvg-logo="https://images.pluto.tv/channels/6331a4df44111b00076b15f7/colorLogoPNG.png" group-title="Musik",MTV Movie Hits
@@ -259,7 +261,7 @@ https://jmp2.uk/plu-6331a4df44111b00076b15f7.m3u8
 https://jmp2.uk/plu-65ba492b0cb1a100088d2960.m3u8
 #EXTINF:-1 channel-id="645a61a3d3fdde00081e2206" tvg-id="645a61a3d3fdde00081e2206" tvg-chno="958" tvg-name="MTV Pride" tvg-logo="https://images.pluto.tv/channels/645a61a3d3fdde00081e2206/colorLogoPNG.png" group-title="Musik",MTV Pride
 https://jmp2.uk/plu-645a61a3d3fdde00081e2206.m3u8
-#EXTINF:-1 channel-id="685137f4a1e091e16f2dd471" tvg-id="685137f4a1e091e16f2dd471" tvg-chno="2" tvg-name="MTV Reality" tvg-logo="https://images.pluto.tv/channels/685137f4a1e091e16f2dd471/colorLogoPNG_1750947002198.png" group-title="Nyt på Pluto TV",MTV Reality
+#EXTINF:-1 channel-id="685137f4a1e091e16f2dd471" tvg-id="685137f4a1e091e16f2dd471" tvg-chno="3" tvg-name="MTV Reality" tvg-logo="https://images.pluto.tv/channels/685137f4a1e091e16f2dd471/colorLogoPNG_1750947002198.png" group-title="Nyt på Pluto TV",MTV Reality
 https://jmp2.uk/plu-685137f4a1e091e16f2dd471.m3u8
 #EXTINF:-1 channel-id="62cd9641393d8400076f34db" tvg-id="62cd9641393d8400076f34db" tvg-chno="507" tvg-name="MTV Ridiculousness" tvg-logo="https://images.pluto.tv/channels/62cd9641393d8400076f34db/colorLogoPNG.png" group-title="Det bedste fra MTV",MTV Ridiculousness
 https://jmp2.uk/plu-62cd9641393d8400076f34db.m3u8
@@ -349,7 +351,7 @@ https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8
 https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8
 #EXTINF:-1 channel-id="67f3fb1cdea1c5e0d588ac1b" tvg-id="67f3fb1cdea1c5e0d588ac1b" tvg-chno="1001" tvg-name="Pluto TV Ungdomsserier" tvg-logo="https://images.pluto.tv/channels/67f3fb1cdea1c5e0d588ac1b/colorLogoPNG_1748270797322.png" group-title="For børn",Pluto TV Ungdomsserier
 https://jmp2.uk/plu-67f3fb1cdea1c5e0d588ac1b.m3u8
-#EXTINF:-1 channel-id="67f79fdb3481170e68c0bc38" tvg-id="67f79fdb3481170e68c0bc38" tvg-chno="4" tvg-name="PodRadio på Pluto TV" tvg-logo="https://images.pluto.tv/channels/67f79fdb3481170e68c0bc38/colorLogoPNG_1748943874109.png" group-title="Nyt på Pluto TV",PodRadio på Pluto TV
+#EXTINF:-1 channel-id="67f79fdb3481170e68c0bc38" tvg-id="67f79fdb3481170e68c0bc38" tvg-chno="5" tvg-name="PodRadio på Pluto TV" tvg-logo="https://images.pluto.tv/channels/67f79fdb3481170e68c0bc38/colorLogoPNG_1748943874109.png" group-title="Nyt på Pluto TV",PodRadio på Pluto TV
 https://jmp2.uk/plu-67f79fdb3481170e68c0bc38.m3u8
 #EXTINF:-1 channel-id="627254d6ba35210007e5d4ca" tvg-id="627254d6ba35210007e5d4ca" tvg-chno="565" tvg-name="Project Runway" tvg-logo="https://images.pluto.tv/channels/627254d6ba35210007e5d4ca/colorLogoPNG.png" group-title="Mad & livsstil",Project Runway
 https://jmp2.uk/plu-627254d6ba35210007e5d4ca.m3u8
