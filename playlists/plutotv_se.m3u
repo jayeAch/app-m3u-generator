@@ -121,8 +121,10 @@ https://jmp2.uk/plu-660bfcd07bcd860008796ae8.m3u8
 https://jmp2.uk/plu-67a39221f1031000088882ae.m3u8
 #EXTINF:-1 channel-id="618124b2e53c8d00077b37f8" tvg-id="618124b2e53c8d00077b37f8" tvg-chno="718" tvg-name="Forensic Files" tvg-logo="https://images.pluto.tv/channels/618124b2e53c8d00077b37f8/colorLogoPNG.png" group-title="True Crime",Forensic Files
 https://jmp2.uk/plu-618124b2e53c8d00077b37f8.m3u8
-#EXTINF:-1 channel-id="66c7012d489bab0008b6fdf2" tvg-id="66c7012d489bab0008b6fdf2" tvg-chno="320" tvg-name="Fredagen den 13:e" tvg-logo="https://images.pluto.tv/channels/66c7012d489bab0008b6fdf2/colorLogoPNG.png" group-title="Filmer",Fredagen den 13:e
+#EXTINF:-1 channel-id="66c7012d489bab0008b6fdf2" tvg-id="66c7012d489bab0008b6fdf2" tvg-chno="71" tvg-name="Fredagen den 13:e" tvg-logo="https://images.pluto.tv/channels/66c7012d489bab0008b6fdf2/colorLogoPNG.png" group-title="Skräcktember",Fredagen den 13:e
 https://jmp2.uk/plu-66c7012d489bab0008b6fdf2.m3u8
+#EXTINF:-1 channel-id="66d1adb761dbf00008e0cb5e" tvg-id="66d1adb761dbf00008e0cb5e" tvg-chno="72" tvg-name="Friday the 13th - The TV series" tvg-logo="https://images.pluto.tv/channels/66d1adb761dbf00008e0cb5e/colorLogoPNG.png" group-title="Skräcktember",Friday the 13th - The TV series
+https://jmp2.uk/plu-66d1adb761dbf00008e0cb5e.m3u8
 #EXTINF:-1 channel-id="65b3d7b7c798e8000852ff0a" tvg-id="65b3d7b7c798e8000852ff0a" tvg-chno="93" tvg-name="From South Park with Love" tvg-logo="https://images.pluto.tv/channels/65b3d7b7c798e8000852ff0a/colorLogoPNG.png" group-title="South Park",From South Park with Love
 https://jmp2.uk/plu-65b3d7b7c798e8000852ff0a.m3u8
 #EXTINF:-1 channel-id="61c19099bf8c520007a93cff" tvg-id="61c19099bf8c520007a93cff" tvg-chno="56" tvg-name="Frusna Vägar" tvg-logo="https://images.pluto.tv/channels/61c19099bf8c520007a93cff/colorLogoPNG.png" group-title="Svensk reality och underhållning",Frusna Vägar
@@ -285,11 +287,9 @@ https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8
 https://jmp2.uk/plu-61c0afa0a09bbe00078f8378.m3u8
 #EXTINF:-1 channel-id="619e408b5ec8d400086539fc" tvg-id="619e408b5ec8d400086539fc" tvg-chno="156" tvg-name="Pluto TV Fishing" tvg-logo="https://images.pluto.tv/channels/619e408b5ec8d400086539fc/colorLogoPNG.png" group-title="Sport",Pluto TV Fishing
 https://jmp2.uk/plu-619e408b5ec8d400086539fc.m3u8
-#EXTINF:-1 channel-id="66704379efa2a10008b8121e" tvg-id="66704379efa2a10008b8121e" tvg-chno="328" tvg-name="Pluto TV Hajfilmer" tvg-logo="https://images.pluto.tv/channels/66704379efa2a10008b8121e/colorLogoPNG.png" group-title="Filmer",Pluto TV Hajfilmer
-https://jmp2.uk/plu-66704379efa2a10008b8121e.m3u8
-#EXTINF:-1 channel-id="63a19e1b9ab2df0007bef7a7" tvg-id="63a19e1b9ab2df0007bef7a7" tvg-chno="318" tvg-name="Pluto TV Horror" tvg-logo="https://images.pluto.tv/channels/63a19e1b9ab2df0007bef7a7/colorLogoPNG.png" group-title="Filmer",Pluto TV Horror
+#EXTINF:-1 channel-id="63a19e1b9ab2df0007bef7a7" tvg-id="63a19e1b9ab2df0007bef7a7" tvg-chno="70" tvg-name="Pluto TV Horror" tvg-logo="https://images.pluto.tv/channels/63a19e1b9ab2df0007bef7a7/colorLogoPNG.png" group-title="Skräcktember",Pluto TV Horror
 https://jmp2.uk/plu-63a19e1b9ab2df0007bef7a7.m3u8
-#EXTINF:-1 channel-id="679b5feb97bed7000809ce13" tvg-id="679b5feb97bed7000809ce13" tvg-chno="324" tvg-name="Pluto TV Hus från helvetet" tvg-logo="https://images.pluto.tv/channels/679b5feb97bed7000809ce13/colorLogoPNG_1749452395513.png" group-title="Filmer",Pluto TV Hus från helvetet
+#EXTINF:-1 channel-id="679b5feb97bed7000809ce13" tvg-id="679b5feb97bed7000809ce13" tvg-chno="73" tvg-name="Pluto TV Hus från helvetet" tvg-logo="https://images.pluto.tv/channels/679b5feb97bed7000809ce13/colorLogoPNG_1749452395513.png" group-title="Skräcktember",Pluto TV Hus från helvetet
 https://jmp2.uk/plu-679b5feb97bed7000809ce13.m3u8
 #EXTINF:-1 channel-id="61c0b7eb8929e40007ff5125" tvg-id="61c0b7eb8929e40007ff5125" tvg-chno="916" tvg-name="Pluto TV Juniorklubben" tvg-logo="https://images.pluto.tv/channels/61c0b7eb8929e40007ff5125/colorLogoPNG_1748329630766.png" group-title="Barn",Pluto TV Juniorklubben
 https://jmp2.uk/plu-61c0b7eb8929e40007ff5125.m3u8
@@ -297,7 +297,7 @@ https://jmp2.uk/plu-61c0b7eb8929e40007ff5125.m3u8
 https://jmp2.uk/plu-61c0b36d18447e000717d686.m3u8
 #EXTINF:-1 channel-id="63dbe8c8a9957100087798a3" tvg-id="63dbe8c8a9957100087798a3" tvg-chno="314" tvg-name="Pluto TV Kultfilmer" tvg-logo="https://images.pluto.tv/channels/63dbe8c8a9957100087798a3/colorLogoPNG.png" group-title="Filmer",Pluto TV Kultfilmer
 https://jmp2.uk/plu-63dbe8c8a9957100087798a3.m3u8
-#EXTINF:-1 channel-id="684819555693c7ded44544c8" tvg-id="684819555693c7ded44544c8" tvg-chno="322" tvg-name="Pluto TV Monster och demoner" tvg-logo="https://images.pluto.tv/channels/684819555693c7ded44544c8/colorLogoPNG_1754029235949.png" group-title="Filmer",Pluto TV Monster och demoner
+#EXTINF:-1 channel-id="684819555693c7ded44544c8" tvg-id="684819555693c7ded44544c8" tvg-chno="74" tvg-name="Pluto TV Monster och demoner" tvg-logo="https://images.pluto.tv/channels/684819555693c7ded44544c8/colorLogoPNG_1754029235949.png" group-title="Skräcktember",Pluto TV Monster och demoner
 https://jmp2.uk/plu-684819555693c7ded44544c8.m3u8
 #EXTINF:-1 channel-id="62b1e4189f5db20007ff03be" tvg-id="62b1e4189f5db20007ff03be" tvg-chno="636" tvg-name="Pluto TV Paranormal" tvg-logo="https://images.pluto.tv/channels/62b1e4189f5db20007ff03be/colorLogoPNG.png" group-title="Övernaturligt",Pluto TV Paranormal
 https://jmp2.uk/plu-62b1e4189f5db20007ff03be.m3u8
@@ -305,8 +305,6 @@ https://jmp2.uk/plu-62b1e4189f5db20007ff03be.m3u8
 https://jmp2.uk/plu-63a19da6847a090007f230da.m3u8
 #EXTINF:-1 channel-id="61f9597e78607000074f6c2a" tvg-id="61f9597e78607000074f6c2a" tvg-chno="604" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/61f9597e78607000074f6c2a/colorLogoPNG_1730322597670.png" group-title="Sci-fi & anime",Pluto TV Sci-Fi
 https://jmp2.uk/plu-61f9597e78607000074f6c2a.m3u8
-#EXTINF:-1 channel-id="67d962cb62a62059dd023dda" tvg-id="67d962cb62a62059dd023dda" tvg-chno="326" tvg-name="Pluto TV Slutet är nära" tvg-logo="https://images.pluto.tv/channels/67d962cb62a62059dd023dda/colorLogoPNG_1749796127222.png" group-title="Filmer",Pluto TV Slutet är nära
-https://jmp2.uk/plu-67d962cb62a62059dd023dda.m3u8
 #EXTINF:-1 channel-id="61b87a155deef000075a4579" tvg-id="61b87a155deef000075a4579" tvg-chno="756" tvg-name="Pluto TV Space" tvg-logo="https://images.pluto.tv/channels/61b87a155deef000075a4579/colorLogoPNG.png" group-title="Dokumentärer",Pluto TV Space
 https://jmp2.uk/plu-61b87a155deef000075a4579.m3u8
 #EXTINF:-1 channel-id="62cd74e38f6f0d000798cd93" tvg-id="62cd74e38f6f0d000798cd93" tvg-chno="101" tvg-name="Pluto TV Sport" tvg-logo="https://images.pluto.tv/channels/62cd74e38f6f0d000798cd93/colorLogoPNG_1746816954969.png" group-title="Sport",Pluto TV Sport
@@ -351,7 +349,7 @@ https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8
 https://jmp2.uk/plu-61c0b627e3ed94000793c18a.m3u8
 #EXTINF:-1 channel-id="660bff7dc8311c0008b4bdb4" tvg-id="660bff7dc8311c0008b4bdb4" tvg-chno="88" tvg-name="South Park Armageddon" tvg-logo="https://images.pluto.tv/channels/660bff7dc8311c0008b4bdb4/colorLogoPNG.png" group-title="South Park",South Park Armageddon
 https://jmp2.uk/plu-660bff7dc8311c0008b4bdb4.m3u8
-#EXTINF:-1 channel-id="6501c86dbd341e000829a1cc" tvg-id="6501c86dbd341e000829a1cc" tvg-chno="92" tvg-name="South Park Halloween" tvg-logo="https://images.pluto.tv/channels/6501c86dbd341e000829a1cc/colorLogoPNG.png" group-title="South Park",South Park Halloween
+#EXTINF:-1 channel-id="6501c86dbd341e000829a1cc" tvg-id="6501c86dbd341e000829a1cc" tvg-chno="75" tvg-name="South Park Halloween" tvg-logo="https://images.pluto.tv/channels/6501c86dbd341e000829a1cc/colorLogoPNG.png" group-title="Skräcktember",South Park Halloween
 https://jmp2.uk/plu-6501c86dbd341e000829a1cc.m3u8
 #EXTINF:-1 channel-id="664f13aff9992200084a3532" tvg-id="664f13aff9992200084a3532" tvg-chno="90" tvg-name="South Park Rockin' Out" tvg-logo="https://images.pluto.tv/channels/664f13aff9992200084a3532/colorLogoPNG.png" group-title="South Park",South Park Rockin' Out
 https://jmp2.uk/plu-664f13aff9992200084a3532.m3u8
