@@ -219,7 +219,9 @@ https://jmp2.uk/plu-657c0954dfed030008d82ea1.m3u8
 https://jmp2.uk/plu-654a3fe6986ad20008a42add.m3u8
 #EXTINF:-1 channel-id="654a4cc3f91d250008ac11f6" tvg-id="654a4cc3f91d250008ac11f6" tvg-chno="619" tvg-name="Love Boat" tvg-logo="https://images.pluto.tv/channels/654a4cc3f91d250008ac11f6/colorLogoPNG.png" group-title="Klassiske tv-serier",Love Boat
 https://jmp2.uk/plu-654a4cc3f91d250008ac11f6.m3u8
-#EXTINF:-1 channel-id="61c19bfb3bf4940007804d32" tvg-id="61c19bfb3bf4940007804d32" tvg-chno="1" tvg-name="Love Island Danmark" tvg-logo="https://images.pluto.tv/channels/61c19bfb3bf4940007804d32/colorLogoPNG.png" group-title="Nyt på Pluto TV",Love Island Danmark
+#EXTINF:-1 channel-id="68ad8bececd330dcb0f050b5" tvg-id="68ad8bececd330dcb0f050b5" tvg-chno="1" tvg-name="Love Island All Stars" tvg-logo="https://images.pluto.tv/channels/68ad8bececd330dcb0f050b5/colorLogoPNG_1756794871691.png" group-title="Nyt på Pluto TV",Love Island All Stars
+https://jmp2.uk/plu-68ad8bececd330dcb0f050b5.m3u8
+#EXTINF:-1 channel-id="61c19bfb3bf4940007804d32" tvg-id="61c19bfb3bf4940007804d32" tvg-chno="2" tvg-name="Love Island Danmark" tvg-logo="https://images.pluto.tv/channels/61c19bfb3bf4940007804d32/colorLogoPNG.png" group-title="Nyt på Pluto TV",Love Island Danmark
 https://jmp2.uk/plu-61c19bfb3bf4940007804d32.m3u8
 #EXTINF:-1 channel-id="65c243143ef47d00084c90a9" tvg-id="65c243143ef47d00084c90a9" tvg-chno="911" tvg-name="Love the Planet" tvg-logo="https://images.pluto.tv/channels/65c243143ef47d00084c90a9/colorLogoPNG.png" group-title="Dokumentarer",Love the Planet
 https://jmp2.uk/plu-65c243143ef47d00084c90a9.m3u8
@@ -277,7 +279,7 @@ https://jmp2.uk/plu-61c09489197fe600073c0570.m3u8
 https://jmp2.uk/plu-61eeb4a701020c00075676ef.m3u8
 #EXTINF:-1 channel-id="6319ec31c62c3f00075c90b1" tvg-id="6319ec31c62c3f00075c90b1" tvg-chno="303" tvg-name="NCIS" tvg-logo="https://images.pluto.tv/channels/6319ec31c62c3f00075c90b1/colorLogoPNG.png" group-title="Drama",NCIS
 https://jmp2.uk/plu-6319ec31c62c3f00075c90b1.m3u8
-#EXTINF:-1 channel-id="68921b2f4fa995eff24df6c8" tvg-id="68921b2f4fa995eff24df6c8" tvg-chno="2" tvg-name="NCIS: Det bedste med Tony & Ziva" tvg-logo="https://images.pluto.tv/channels/68921b2f4fa995eff24df6c8/colorLogoPNG_1756105299557.png" group-title="Nyt på Pluto TV",NCIS: Det bedste med Tony & Ziva
+#EXTINF:-1 channel-id="68921b2f4fa995eff24df6c8" tvg-id="68921b2f4fa995eff24df6c8" tvg-chno="3" tvg-name="NCIS: Det bedste med Tony & Ziva" tvg-logo="https://images.pluto.tv/channels/68921b2f4fa995eff24df6c8/colorLogoPNG_1756105299557.png" group-title="Nyt på Pluto TV",NCIS: Det bedste med Tony & Ziva
 https://jmp2.uk/plu-68921b2f4fa995eff24df6c8.m3u8
 #EXTINF:-1 channel-id="66fbf4d3d7de140008d41f5b" tvg-id="66fbf4d3d7de140008d41f5b" tvg-chno="304" tvg-name="NCIS: Los Angeles" tvg-logo="https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png" group-title="Drama",NCIS: Los Angeles
 https://jmp2.uk/plu-66fbf4d3d7de140008d41f5b.m3u8
