@@ -113,8 +113,6 @@ https://jmp2.uk/plu-65787fb36e4f6a0008740127.m3u8
 https://jmp2.uk/plu-67a23b4e15d6eb000827a20d.m3u8
 #EXTINF:-1 channel-id="65787e8232c1b300089a8482" tvg-id="65787e8232c1b300089a8482" tvg-chno="469" tvg-name="Duck Dynasty" tvg-logo="https://images.pluto.tv/channels/65787e8232c1b300089a8482/colorLogoPNG.png" group-title="Realityserier",Duck Dynasty
 https://jmp2.uk/plu-65787e8232c1b300089a8482.m3u8
-#EXTINF:-1 channel-id="67e124ca17c292dfd532ddee" tvg-id="67e124ca17c292dfd532ddee" tvg-chno="216" tvg-name="Døds World Championship" tvg-logo="https://images.pluto.tv/channels/67e124ca17c292dfd532ddee/colorLogoPNG_1748929409900.png" group-title="Sport",Døds World Championship
-https://jmp2.uk/plu-67e124ca17c292dfd532ddee.m3u8
 #EXTINF:-1 channel-id="66d712fdabec540008ba66cd" tvg-id="66d712fdabec540008ba66cd" tvg-chno="575" tvg-name="Escape to the Country" tvg-logo="https://images.pluto.tv/channels/66d712fdabec540008ba66cd/colorLogoPNG.png" group-title="Mad & livsstil",Escape to the Country
 https://jmp2.uk/plu-66d712fdabec540008ba66cd.m3u8
 #EXTINF:-1 channel-id="61de96114757070008d33cae" tvg-id="61de96114757070008d33cae" tvg-chno="937" tvg-name="Euronews" tvg-logo="https://images.pluto.tv/channels/61de96114757070008d33cae/colorLogoPNG.png" group-title="News",Euronews
@@ -219,10 +217,10 @@ https://jmp2.uk/plu-657c0954dfed030008d82ea1.m3u8
 https://jmp2.uk/plu-654a3fe6986ad20008a42add.m3u8
 #EXTINF:-1 channel-id="654a4cc3f91d250008ac11f6" tvg-id="654a4cc3f91d250008ac11f6" tvg-chno="619" tvg-name="Love Boat" tvg-logo="https://images.pluto.tv/channels/654a4cc3f91d250008ac11f6/colorLogoPNG.png" group-title="Klassiske tv-serier",Love Boat
 https://jmp2.uk/plu-654a4cc3f91d250008ac11f6.m3u8
-#EXTINF:-1 channel-id="68ad8bececd330dcb0f050b5" tvg-id="68ad8bececd330dcb0f050b5" tvg-chno="1" tvg-name="Love Island All Stars" tvg-logo="https://images.pluto.tv/channels/68ad8bececd330dcb0f050b5/colorLogoPNG_1756794871691.png" group-title="Nyt på Pluto TV",Love Island All Stars
-https://jmp2.uk/plu-68ad8bececd330dcb0f050b5.m3u8
 #EXTINF:-1 channel-id="61c19bfb3bf4940007804d32" tvg-id="61c19bfb3bf4940007804d32" tvg-chno="2" tvg-name="Love Island Danmark" tvg-logo="https://images.pluto.tv/channels/61c19bfb3bf4940007804d32/colorLogoPNG.png" group-title="Nyt på Pluto TV",Love Island Danmark
 https://jmp2.uk/plu-61c19bfb3bf4940007804d32.m3u8
+#EXTINF:-1 channel-id="68ad8bececd330dcb0f050b5" tvg-id="68ad8bececd330dcb0f050b5" tvg-chno="1" tvg-name="Love Island: All Stars" tvg-logo="https://images.pluto.tv/channels/68ad8bececd330dcb0f050b5/colorLogoPNG_1756794871691.png" group-title="Nyt på Pluto TV",Love Island: All Stars
+https://jmp2.uk/plu-68ad8bececd330dcb0f050b5.m3u8
 #EXTINF:-1 channel-id="65c243143ef47d00084c90a9" tvg-id="65c243143ef47d00084c90a9" tvg-chno="911" tvg-name="Love the Planet" tvg-logo="https://images.pluto.tv/channels/65c243143ef47d00084c90a9/colorLogoPNG.png" group-title="Dokumentarer",Love the Planet
 https://jmp2.uk/plu-65c243143ef47d00084c90a9.m3u8
 #EXTINF:-1 channel-id="61c19b7785706b00072d421a" tvg-id="61c19b7785706b00072d421a" tvg-chno="108" tvg-name="Luksusfælden" tvg-logo="https://images.pluto.tv/channels/61c19b7785706b00072d421a/colorLogoPNG.png" group-title="Dansk reality & underholdning",Luksusfælden
