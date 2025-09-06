@@ -107,6 +107,8 @@ https://jmp2.uk/plu-608aa7d8359b270007861489.m3u8
 https://jmp2.uk/plu-6786235bd648bf0008c2780a.m3u8
 #EXTINF:-1 channel-id="608aa718a8ec810007d87fee" tvg-id="608aa718a8ec810007d87fee" tvg-chno="805" tvg-name="Pluto TV Cucina" tvg-logo="https://images.pluto.tv/channels/608aa718a8ec810007d87fee/colorLogoPNG.png" group-title="Lifestyle",Pluto TV Cucina
 https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8
+#EXTINF:-1 channel-id="6875080e3484d607323641f8" tvg-id="6875080e3484d607323641f8" tvg-chno="50" tvg-name="Pluto TV Dive Italiane" tvg-logo="https://images.pluto.tv/channels/6875080e3484d607323641f8/colorLogoPNG_1755261736890.png" group-title="Novità su Pluto TV",Pluto TV Dive Italiane
+https://jmp2.uk/plu-6875080e3484d607323641f8.m3u8
 #EXTINF:-1 channel-id="608aa8a5709d6b0007b132fe" tvg-id="608aa8a5709d6b0007b132fe" tvg-chno="835" tvg-name="Pluto TV Documentari" tvg-logo="https://images.pluto.tv/channels/608aa8a5709d6b0007b132fe/colorLogoPNG.png" group-title="Documentari",Pluto TV Documentari
 https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8
 #EXTINF:-1 channel-id="66335489307fa300082bd6e4" tvg-id="66335489307fa300082bd6e4" tvg-chno="275" tvg-name="Pluto TV Eros" tvg-logo="https://images.pluto.tv/channels/66335489307fa300082bd6e4/colorLogoPNG.png" group-title="Film",Pluto TV Eros
@@ -123,7 +125,7 @@ https://jmp2.uk/plu-608aa512d67fd900072323db.m3u8
 https://jmp2.uk/plu-608aa4a4cc92820007b663af.m3u8
 #EXTINF:-1 channel-id="608aa5e995132a00075f7005" tvg-id="608aa5e995132a00075f7005" tvg-chno="220" tvg-name="Pluto TV Film Thriller" tvg-logo="https://images.pluto.tv/channels/608aa5e995132a00075f7005/colorLogoPNG.png" group-title="Film",Pluto TV Film Thriller
 https://jmp2.uk/plu-608aa5e995132a00075f7005.m3u8
-#EXTINF:-1 channel-id="62e8d3c2c2db99000787b786" tvg-id="62e8d3c2c2db99000787b786" tvg-chno="50" tvg-name="Pluto TV Halloween" tvg-logo="https://images.pluto.tv/channels/62e8d3c2c2db99000787b786/colorLogoPNG_1751971574499.png" group-title="Novità su Pluto TV",Pluto TV Halloween
+#EXTINF:-1 channel-id="62e8d3c2c2db99000787b786" tvg-id="62e8d3c2c2db99000787b786" tvg-chno="51" tvg-name="Pluto TV Halloween" tvg-logo="https://images.pluto.tv/channels/62e8d3c2c2db99000787b786/colorLogoPNG_1751971574499.png" group-title="Novità su Pluto TV",Pluto TV Halloween
 https://jmp2.uk/plu-62e8d3c2c2db99000787b786.m3u8
 #EXTINF:-1 channel-id="61c09e3ac210ed0007606620" tvg-id="61c09e3ac210ed0007606620" tvg-chno="215" tvg-name="Pluto TV Horror" tvg-logo="https://images.pluto.tv/channels/61c09e3ac210ed0007606620/colorLogoPNG.png" group-title="Film",Pluto TV Horror
 https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8
