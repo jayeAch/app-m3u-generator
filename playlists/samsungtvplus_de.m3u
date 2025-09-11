@@ -7,6 +7,8 @@ https://jmp2.uk/stvp-DE300020D3
 https://jmp2.uk/stvp-DE16000042J
 #EXTINF:-1 channel-id="DEBD2700002MZ" tvg-id="DEBD2700002MZ" tvg-chno="4945" tvg-name="alleskino" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD2700002MZ_20250107T024453SQUARE.png" group-title="Filme",alleskino
 https://jmp2.uk/stvp-DEBD2700002MZ
+#EXTINF:-1 channel-id="DE3000009SE" tvg-id="DE3000009SE" tvg-chno="4235" tvg-name="AMC Stories" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3000009SE_20250909T014602SQUARE.png" group-title="Serien",AMC Stories
+https://jmp2.uk/stvp-DE3000009SE
 #EXTINF:-1 channel-id="DEBD390000181" tvg-id="DEBD390000181" tvg-chno="4188" tvg-name="Aniverse TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD390000181_20250527T015732SQUARE.png" group-title="Anime",Aniverse TV
 https://jmp2.uk/stvp-DEBD390000181
 #EXTINF:-1 channel-id="DE4300001HK" tvg-id="DE4300001HK" tvg-chno="4298" tvg-name="ARD Plus Krimi" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4300001HK_20250624T021202SQUARE.png" group-title="Crime",ARD Plus Krimi
@@ -183,6 +185,8 @@ https://jmp2.uk/stvp-DEAJ700002N8
 https://jmp2.uk/stvp-DEBA15000227H
 #EXTINF:-1 channel-id="DEBD2400001PC" tvg-id="DEBD2400001PC" tvg-chno="4209" tvg-name="Out TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD2400001PC_20250107T024356SQUARE.png" group-title="Entertainment",Out TV
 https://jmp2.uk/stvp-DEBD2400001PC
+#EXTINF:-1 channel-id="DE3200016QF" tvg-id="DE3200016QF" tvg-chno="4254" tvg-name="Pastewka" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3200016QF_20250909T014605SQUARE.png" group-title="Serien",Pastewka
+https://jmp2.uk/stvp-DE3200016QF
 #EXTINF:-1 channel-id="DEAJ3500005RK" tvg-id="DEAJ3500005RK" tvg-chno="4166" tvg-name="People Are Awesome" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ3500005RK_20250107T023947SQUARE.png" group-title="Entertainment",People Are Awesome
 https://jmp2.uk/stvp-DEAJ3500005RK
 #EXTINF:-1 channel-id="DEBA33000038I" tvg-id="DEBA33000038I" tvg-chno="4249" tvg-name="Pluto TV - Star Trek" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA33000038I_20250107T024905SQUARE.png" group-title="Serien",Pluto TV - Star Trek
