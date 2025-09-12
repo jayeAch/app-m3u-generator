@@ -99,6 +99,8 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-6674b68af04cf4bb9233c916.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-634dddc8a319c6df243f521f.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-67828ebf37cd7764c53489b3" tvg-id="643054b1fc3be59477853717-67828ebf37cd7764c53489b3" tvg-chno="" tvg-name="DFB Play TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a0ddf222-f909-4390-844c-b0547916be3f/1500x1000_DFBPlay_DarkBackground.png" group-title="Uncategorized",DFB Play TV
 https://jmp2.uk/plex-643054b1fc3be59477853717-67828ebf37cd7764c53489b3.m3u8
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-6449369eb3ff17382cae5801" tvg-id="643054b1fc3be59477853717-6449369eb3ff17382cae5801" tvg-chno="" tvg-name="Dick Van Dyke" tvg-logo="https://provider-static.plex.tv/epg/cms/production/03fe73df-6585-49b7-bdd5-5ea605c4086f/FilmRise_DickVanDykeShow_Logo_Color.png" group-title="Classic TV",Dick Van Dyke
+https://jmp2.uk/plex-643054b1fc3be59477853717-6449369eb3ff17382cae5801.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-614e286b2bac097ffd6fd6ab" tvg-id="643054b1fc3be59477853717-614e286b2bac097ffd6fd6ab" tvg-chno="" tvg-name="Documentary+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24df67bc-967c-4662-a975-6f54c9c0657a/documentaryplus_logo_dark_1_WHT.png" group-title="Movies",Documentary+
 https://jmp2.uk/plex-643054b1fc3be59477853717-614e286b2bac097ffd6fd6ab.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-66e4cbef38de9754b6b13e90" tvg-id="643054b1fc3be59477853717-66e4cbef38de9754b6b13e90" tvg-chno="" tvg-name="Dr. Phil" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a07750e7-11a2-4563-a402-40ad1d9e7392/xPlex_DrPhil_Channel_Logo_v01RDX.png" group-title="Daytime TV",Dr. Phil
