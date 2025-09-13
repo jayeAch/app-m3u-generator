@@ -172,7 +172,7 @@ def generate_pluto_m3u(regions=['us', 'ca', 'gb', 'au', 'all'], sort='name'):
 
         write_m3u_file(f"plutotv_{region}.m3u", "".join(output_lines))
 
-def generate_plex_m3u(regions=['us', 'ca', 'gb', 'au', 'all'], sort='name'):
+def generate_plex_m3u(regions=['us', 'ca', 'gb', 'au', 'nz', 'all'], sort='name'):
     """Generates M3U playlists for Plex."""
     PLEX_URL = 'https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Plex/.channels.json.gz'
     CHANNELS_JSON_URL = 'https://raw.githubusercontent.com/Mikoshi-nyudo/plex-channels-list/refs/heads/main/plex/channels.json' # For genre mapping
