@@ -141,6 +141,8 @@ https://jmp2.uk/stvp-DE3900002R1
 https://jmp2.uk/stvp-DE2600006H2
 #EXTINF:-1 channel-id="DE400012YD" tvg-id="DE400012YD" tvg-chno="4299" tvg-name="KultKrimi" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE400012YD_20250624T021205SQUARE.png" group-title="Crime",KultKrimi
 https://jmp2.uk/stvp-DE400012YD
+#EXTINF:-1 channel-id="DE3200015MJ" tvg-id="DE3200015MJ" tvg-chno="4158" tvg-name="Ladykracher" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3200015MJ_20250916T003526SQUARE.png" group-title="Entertainment",Ladykracher
+https://jmp2.uk/stvp-DE3200015MJ
 #EXTINF:-1 channel-id="DE1100001CQ" tvg-id="DE1100001CQ" tvg-chno="4213" tvg-name="Landlust TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1100001CQ_20250107T024855SQUARE.png" group-title="Entertainment",Landlust TV
 https://jmp2.uk/stvp-DE1100001CQ
 #EXTINF:-1 channel-id="DE33000013J" tvg-id="DE33000013J" tvg-chno="4263" tvg-name="Lindenstraße" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE33000013J_20250513T005307SQUARE.png" group-title="Serien",Lindenstraße
@@ -249,6 +251,8 @@ https://jmp2.uk/stvp-DEAJ0500429A
 https://jmp2.uk/stvp-DEBC2200003Z3
 #EXTINF:-1 channel-id="DE3200003U8" tvg-id="DE3200003U8" tvg-chno="4779" tvg-name="StoryZoo & Friends" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3200003U8_20250107T024734SQUARE.png" group-title="Kids",StoryZoo & Friends
 https://jmp2.uk/stvp-DE3200003U8
+#EXTINF:-1 channel-id="DE32000175T" tvg-id="DE32000175T" tvg-chno="4256" tvg-name="Stromberg" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE32000175T_20250916T003529SQUARE.png" group-title="Serien",Stromberg
+https://jmp2.uk/stvp-DE32000175T
 #EXTINF:-1 channel-id="DEBA3300016EV" tvg-id="DEBA3300016EV" tvg-chno="4673" tvg-name="Strongman Champions League" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300016EV_20250107T024420SQUARE.png" group-title="Sport",Strongman Champions League
 https://jmp2.uk/stvp-DEBA3300016EV
 #EXTINF:-1 channel-id="DEBD5100001XP" tvg-id="DEBD5100001XP" tvg-chno="4801" tvg-name="SuperToons TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD5100001XP_20250729T044917SQUARE.png" group-title="Kids",SuperToons TV
