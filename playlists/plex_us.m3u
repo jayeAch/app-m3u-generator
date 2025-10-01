@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/us.xml.gz"
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-67c7ba04799b4ecdbb4e9a71" tvg-id="5e20b730f2f8d5003d739db7-67c7ba04799b4ecdbb4e9a71" tvg-chno="" tvg-name="#SayWhat?!" tvg-logo="https://provider-static.plex.tv/epg/cms/production/62a74eeb-7421-4b19-bd1e-e85a89adb565/SayWhat_1500x1000_ColorLogo_TransparentRDX.png" group-title="Uncategorized",#SayWhat?!
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-67c7ba04799b4ecdbb4e9a71.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-63eecb32ac23d1ee072087cb" tvg-id="5e20b730f2f8d5003d739db7-63eecb32ac23d1ee072087cb" tvg-chno="" tvg-name="123GO!" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png" group-title="Kids & Family",123GO!
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63eecb32ac23d1ee072087cb.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-66f6b947515e742745f5ca34" tvg-id="5e20b730f2f8d5003d739db7-66f6b947515e742745f5ca34" tvg-chno="" tvg-name="21 Jump Street" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png" group-title="Classic TV",21 Jump Street
@@ -287,6 +285,8 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-671c2353572427bfa1eb7ed3.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63c97410187b3c9f3581fdf4.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" tvg-id="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" tvg-chno="" tvg-name="Curiosity NOW" tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/9cd5ae861f257ae45332af9b63addf18.png" group-title="History & Science",Curiosity NOW
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240.m3u8
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-67c7ba04799b4ecdbb4e9a71" tvg-id="5e20b730f2f8d5003d739db7-67c7ba04799b4ecdbb4e9a71" tvg-chno="" tvg-name="CUT" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5df35482-6676-47cf-9e6f-c9f7dc92bcfa/1500x1000_CUTLogo_WhiteTransparent..png" group-title="Uncategorized",CUT
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-67c7ba04799b4ecdbb4e9a71.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-66635fc0ca7b22f4c3a2d743" tvg-id="5e20b730f2f8d5003d739db7-66635fc0ca7b22f4c3a2d743" tvg-chno="" tvg-name="CW Forever" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9418a5d-f191-4b8a-bf3a-2eda3d2cd137/PLEX_CWFOREVER_UPDATEDLOGO_RDX.png" group-title="Hit TV",CW Forever
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66635fc0ca7b22f4c3a2d743.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-66635e41ca7b22f4c3a2d741" tvg-id="5e20b730f2f8d5003d739db7-66635e41ca7b22f4c3a2d741" tvg-chno="" tvg-name="CW Gold" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e03763f1-e83b-46f1-aaaa-8052d316bbc9/PLEX_CWGOLD_UPDATEDLOGO_RDX.png" group-title="Hit TV",CW Gold
@@ -523,8 +523,6 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-634700569d64afa6830d1521.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5fd115bdb7ef8d002dcf1820.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" tvg-id="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" tvg-chno="" tvg-name="HBCUGO SPORTS" tvg-logo="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/ef631804cdf478bca5ba96eaee4bc241.png" group-title="Sports",HBCUGO SPORTS
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5806" tvg-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5806" tvg-chno="" tvg-name="Heartland" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a87dadc3-df1e-49ea-af31-2f2dc7305b23/FilmRise_Heartland_Logo_Color.png" group-title="Drama TV",Heartland
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5806.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae580c" tvg-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae580c" tvg-chno="" tvg-name="Hell's Kitchen & Kitchen Nightmares" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e05a81b4-ab4d-4c29-aba8-aa8cd9c10c2c/FilmRise_HellsKitchenKitchenNightmares_Color_Logo.png" group-title="Reality",Hell's Kitchen & Kitchen Nightmares
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6449369eb3ff17382cae580c.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" tvg-id="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" tvg-chno="" tvg-name="HerSphere by Lionsgate" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3ed082aa-5659-4fd0-8775-22613a65f924/HerSphere_1500x1000_Logo_Dark.png" group-title="Drama TV",HerSphere by Lionsgate
