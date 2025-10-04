@@ -69,6 +69,8 @@ https://jmp2.uk/plu-664f0ddbf78a8500092dcffa.m3u8
 https://jmp2.uk/plu-66c35c0c92b1af0008c8e83a.m3u8
 #EXTINF:-1 channel-id="62442f28afe626000747f195" tvg-id="62442f28afe626000747f195" tvg-chno="105" tvg-name="I Jefferson" tvg-logo="https://images.pluto.tv/channels/62442f28afe626000747f195/colorLogoPNG-1652710570039.png" group-title="Serie",I Jefferson
 https://jmp2.uk/plu-62442f28afe626000747f195.m3u8
+#EXTINF:-1 channel-id="68adb5853efb41cd97ce413d" tvg-id="68adb5853efb41cd97ce413d" tvg-chno="50" tvg-name="I Puffi" tvg-logo="https://images.pluto.tv/channels/68adb5853efb41cd97ce413d/colorLogoPNG_1759447100016.png" group-title="Novità su Pluto TV",I Puffi
+https://jmp2.uk/plu-68adb5853efb41cd97ce413d.m3u8
 #EXTINF:-1 channel-id="6602acadb2abe500081cf28a" tvg-id="6602acadb2abe500081cf28a" tvg-chno="615" tvg-name="I soliti idioti" tvg-logo="https://images.pluto.tv/channels/6602acadb2abe500081cf28a/colorLogoPNG.png" group-title="Comedy",I soliti idioti
 https://jmp2.uk/plu-6602acadb2abe500081cf28a.m3u8
 #EXTINF:-1 channel-id="60e4507a06171800072339a3" tvg-id="60e4507a06171800072339a3" tvg-chno="400" tvg-name="Il Banco dei Pugni" tvg-logo="https://images.pluto.tv/channels/60e4507a06171800072339a3/colorLogoPNG.png" group-title="Intrattenimento",Il Banco dei Pugni
@@ -103,8 +105,12 @@ https://jmp2.uk/plu-661f8f01801af800083d9d81.m3u8
 https://jmp2.uk/plu-65b90daed77d450008a43345.m3u8
 #EXTINF:-1 channel-id="66867b9919311200085313d9" tvg-id="66867b9919311200085313d9" tvg-chno="820" tvg-name="Pluto TV ASMR" tvg-logo="https://images.pluto.tv/channels/66867b9919311200085313d9/colorLogoPNG.png" group-title="Lifestyle",Pluto TV ASMR
 https://jmp2.uk/plu-66867b9919311200085313d9.m3u8
+#EXTINF:-1 channel-id="688244e00a154253b39f3e44" tvg-id="688244e00a154253b39f3e44" tvg-chno="52" tvg-name="Pluto TV Christmas Family" tvg-logo="https://images.pluto.tv/channels/688244e00a154253b39f3e44/colorLogoPNG_1758127822850.png" group-title="Novità su Pluto TV",Pluto TV Christmas Family
+https://jmp2.uk/plu-688244e00a154253b39f3e44.m3u8
 #EXTINF:-1 channel-id="608aa42b5c2b8f0007197529" tvg-id="608aa42b5c2b8f0007197529" tvg-chno="235" tvg-name="Pluto TV Cinema Emozione" tvg-logo="https://images.pluto.tv/channels/608aa42b5c2b8f0007197529/colorLogoPNG_1746815914026.png" group-title="Film",Pluto TV Cinema Emozione
 https://jmp2.uk/plu-608aa42b5c2b8f0007197529.m3u8
+#EXTINF:-1 channel-id="688244971027d56590287356" tvg-id="688244971027d56590287356" tvg-chno="51" tvg-name="Pluto TV Cinema Family" tvg-logo="https://images.pluto.tv/channels/688244971027d56590287356/colorLogoPNG_1758087871167.png" group-title="Novità su Pluto TV",Pluto TV Cinema Family
+https://jmp2.uk/plu-688244971027d56590287356.m3u8
 #EXTINF:-1 channel-id="608aa7d8359b270007861489" tvg-id="608aa7d8359b270007861489" tvg-chno="260" tvg-name="Pluto TV Cinema Italiano" tvg-logo="https://images.pluto.tv/channels/608aa7d8359b270007861489/colorLogoPNG.png" group-title="Film",Pluto TV Cinema Italiano
 https://jmp2.uk/plu-608aa7d8359b270007861489.m3u8
 #EXTINF:-1 channel-id="6786235bd648bf0008c2780a" tvg-id="6786235bd648bf0008c2780a" tvg-chno="280" tvg-name="Pluto TV Cinema Orientale" tvg-logo="https://images.pluto.tv/channels/6786235bd648bf0008c2780a/colorLogoPNG.png" group-title="Film",Pluto TV Cinema Orientale

@@ -189,6 +189,8 @@ https://jmp2.uk/plu-686f7fa794a8f8fdc6db806a.m3u8
 https://jmp2.uk/plu-625eb3e245f5bc0007810046.m3u8
 #EXTINF:-1 channel-id="624303598e45140007d765c1" tvg-id="624303598e45140007d765c1" tvg-chno="905" tvg-name="MTV Rocks" tvg-logo="https://images.pluto.tv/channels/624303598e45140007d765c1/colorLogoPNG.png" group-title="Music",MTV Rocks
 https://jmp2.uk/plu-624303598e45140007d765c1.m3u8
+#EXTINF:-1 channel-id="65a6939b4a10d800085cee92" tvg-id="65a6939b4a10d800085cee92" tvg-chno="904" tvg-name="MTV: Best of" tvg-logo="https://images.pluto.tv/channels/65a6939b4a10d800085cee92/colorLogoPNG.png" group-title="Music",MTV: Best of
+https://jmp2.uk/plu-65a6939b4a10d800085cee92.m3u8
 #EXTINF:-1 channel-id="61c4a09d6c959f0007189c93" tvg-id="61c4a09d6c959f0007189c93" tvg-chno="58" tvg-name="Mystery TV" tvg-logo="https://images.pluto.tv/channels/61c4a09d6c959f0007189c93/colorLogoPNG.png" group-title="Halloween",Mystery TV
 https://jmp2.uk/plu-61c4a09d6c959f0007189c93.m3u8
 #EXTINF:-1 channel-id="5bd833b41843b56328bac189" tvg-id="5bd833b41843b56328bac189" tvg-chno="456" tvg-name="Mythbusters" tvg-logo="https://images.pluto.tv/channels/5bd833b41843b56328bac189/colorLogoPNG.png" group-title="Entertainment",Mythbusters
