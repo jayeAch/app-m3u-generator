@@ -149,6 +149,8 @@ https://jmp2.uk/plu-6633551323e24f00084744aa.m3u8
 https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
 #EXTINF:-1 channel-id="66c70033b1a34600087bb09a" tvg-id="66c70033b1a34600087bb09a" tvg-chno="66" tvg-name="Pluto TV Paranormal" tvg-logo="https://images.pluto.tv/channels/66c70033b1a34600087bb09a/colorLogoPNG.png" group-title="Plutoween",Pluto TV Paranormal
 https://jmp2.uk/plu-66c70033b1a34600087bb09a.m3u8
+#EXTINF:-1 channel-id="685a7fc00cba305fd20ed869" tvg-id="685a7fc00cba305fd20ed869" tvg-chno="62" tvg-name="Pluto TV Psycho" tvg-logo="https://images.pluto.tv/channels/685a7fc00cba305fd20ed869/colorLogoPNG_1750761490769.png" group-title="Plutoween",Pluto TV Psycho
+https://jmp2.uk/plu-685a7fc00cba305fd20ed869.m3u8
 #EXTINF:-1 channel-id="60801976f92a750007a0699c" tvg-id="60801976f92a750007a0699c" tvg-chno="810" tvg-name="Pluto TV Real Life" tvg-logo="https://images.pluto.tv/channels/60801976f92a750007a0699c/colorLogoPNG.png" group-title="Lifestyle",Pluto TV Real Life
 https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8
 #EXTINF:-1 channel-id="61925f874b1ec000075e700a" tvg-id="61925f874b1ec000075e700a" tvg-chno="510" tvg-name="Pluto TV Reality" tvg-logo="https://images.pluto.tv/channels/61925f874b1ec000075e700a/colorLogoPNG.png" group-title="Reality Show",Pluto TV Reality
@@ -253,6 +255,8 @@ https://jmp2.uk/plu-63724270c7c2360007b170e8.m3u8
 https://jmp2.uk/plu-6690f892d51259000880d1c4.m3u8
 #EXTINF:-1 channel-id="65e5d9d2ec9fda0008c35f91" tvg-id="65e5d9d2ec9fda0008c35f91" tvg-chno="935" tvg-name="VH1+ Dance" tvg-logo="https://images.pluto.tv/channels/65e5d9d2ec9fda0008c35f91/colorLogoPNG.png" group-title="Musica",VH1+ Dance
 https://jmp2.uk/plu-65e5d9d2ec9fda0008c35f91.m3u8
+#EXTINF:-1 channel-id="639b4e5373423d00071ce330" tvg-id="639b4e5373423d00071ce330" tvg-chno="67" tvg-name="VH1+ Halloween" tvg-logo="https://images.pluto.tv/channels/639b4e5373423d00071ce330/colorLogoPNG.png" group-title="Plutoween",VH1+ Halloween
+https://jmp2.uk/plu-639b4e5373423d00071ce330.m3u8
 #EXTINF:-1 channel-id="62e8cc10ca869f00078efca8" tvg-id="62e8cc10ca869f00078efca8" tvg-chno="920" tvg-name="VH1+ Music Legends" tvg-logo="https://images.pluto.tv/channels/62e8cc10ca869f00078efca8/colorLogoPNG.png" group-title="Musica",VH1+ Music Legends
 https://jmp2.uk/plu-62e8cc10ca869f00078efca8.m3u8
 #EXTINF:-1 channel-id="636a4173e34fd50007534542" tvg-id="636a4173e34fd50007534542" tvg-chno="930" tvg-name="VH1+ Rock!" tvg-logo="https://images.pluto.tv/channels/636a4173e34fd50007534542/colorLogoPNG.png" group-title="Musica",VH1+ Rock!

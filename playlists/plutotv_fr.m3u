@@ -99,6 +99,8 @@ https://jmp2.uk/plu-6357aeb2b51d2d000779078b.m3u8
 https://jmp2.uk/plu-660c2a2d2433010008df7e92.m3u8
 #EXTINF:-1 channel-id="66d71ff86b63480008cf15c5" tvg-id="66d71ff86b63480008cf15c5" tvg-chno="25" tvg-name="Flashpoint" tvg-logo="https://images.pluto.tv/channels/66d71ff86b63480008cf15c5/colorLogoPNG.png" group-title="Séries Policières",Flashpoint
 https://jmp2.uk/plu-66d71ff86b63480008cf15c5.m3u8
+#EXTINF:-1 channel-id="67b4b44a8344dd93339d3757" tvg-id="67b4b44a8344dd93339d3757" tvg-chno="10" tvg-name="Forensic Files" tvg-logo="https://images.pluto.tv/channels/67b4b44a8344dd93339d3757/colorLogoPNG_1756550807332.png" group-title="Nouveau sur Pluto TV",Forensic Files
+https://jmp2.uk/plu-67b4b44a8344dd93339d3757.m3u8
 #EXTINF:-1 channel-id="60afb203ec391c00070ea1bf" tvg-id="60afb203ec391c00070ea1bf" tvg-chno="260" tvg-name="Génération Sitcoms" tvg-logo="https://images.pluto.tv/channels/60afb203ec391c00070ea1bf/colorLogoPNG.png" group-title="100% Français",Génération Sitcoms
 https://jmp2.uk/plu-60afb203ec391c00070ea1bf.m3u8
 #EXTINF:-1 channel-id="63921a3d00c96100082a3cb4" tvg-id="63921a3d00c96100082a3cb4" tvg-chno="440" tvg-name="Homicide" tvg-logo="https://images.pluto.tv/channels/63921a3d00c96100082a3cb4/colorLogoPNG.png" group-title="Crime & Mystère",Homicide
@@ -123,7 +125,7 @@ https://jmp2.uk/plu-65ccd26060eb870008db95fc.m3u8
 https://jmp2.uk/plu-6304f20c941c5d00089634e7.m3u8
 #EXTINF:-1 channel-id="60afa1508284e60007163c08" tvg-id="60afa1508284e60007163c08" tvg-chno="1100" tvg-name="Juste pour Rire GAGS" tvg-logo="https://images.pluto.tv/channels/60afa1508284e60007163c08/colorLogoPNG_1746816067794.png" group-title="Comédie",Juste pour Rire GAGS
 https://jmp2.uk/plu-60afa1508284e60007163c08.m3u8
-#EXTINF:-1 channel-id="685a999bd33909bdd7d2fb1e" tvg-id="685a999bd33909bdd7d2fb1e" tvg-chno="10" tvg-name="La maison France 5" tvg-logo="https://images.pluto.tv/channels/685a999bd33909bdd7d2fb1e/colorLogoPNG_1751876562614.png" group-title="Nouveau sur Pluto TV",La maison France 5
+#EXTINF:-1 channel-id="685a999bd33909bdd7d2fb1e" tvg-id="685a999bd33909bdd7d2fb1e" tvg-chno="806" tvg-name="La maison France 5" tvg-logo="https://images.pluto.tv/channels/685a999bd33909bdd7d2fb1e/colorLogoPNG_1751876562614.png" group-title="Divertissement",La maison France 5
 https://jmp2.uk/plu-685a999bd33909bdd7d2fb1e.m3u8
 #EXTINF:-1 channel-id="650aff3398020f00086380cd" tvg-id="650aff3398020f00086380cd" tvg-chno="1400" tvg-name="Le Figaro TV" tvg-logo="https://images.pluto.tv/channels/650aff3398020f00086380cd/colorLogoPNG.png" group-title="News",Le Figaro TV
 https://jmp2.uk/plu-650aff3398020f00086380cd.m3u8
