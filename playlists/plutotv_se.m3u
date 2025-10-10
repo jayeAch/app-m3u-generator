@@ -99,6 +99,8 @@ https://jmp2.uk/plu-657886bfb9adc40008025554.m3u8
 https://jmp2.uk/plu-67a23bb777796f00080edaec.m3u8
 #EXTINF:-1 channel-id="65788611a620e30008fe36ff" tvg-id="65788611a620e30008fe36ff" tvg-chno="378" tvg-name="Duck Dynasty" tvg-logo="https://images.pluto.tv/channels/65788611a620e30008fe36ff/colorLogoPNG.png" group-title="Reality",Duck Dynasty
 https://jmp2.uk/plu-65788611a620e30008fe36ff.m3u8
+#EXTINF:-1 channel-id="646ce0e2e1979c0008983939" tvg-id="646ce0e2e1979c0008983939" tvg-chno="4" tvg-name="Efterlyst" tvg-logo="https://images.pluto.tv/channels/646ce0e2e1979c0008983939/colorLogoPNG.png" group-title="Nytt på Pluto TV",Efterlyst
+https://jmp2.uk/plu-646ce0e2e1979c0008983939.m3u8
 #EXTINF:-1 channel-id="66d714d815d2c60008cec6d2" tvg-id="66d714d815d2c60008cec6d2" tvg-chno="512" tvg-name="Escape to the Country" tvg-logo="https://images.pluto.tv/channels/66d714d815d2c60008cec6d2/colorLogoPNG.png" group-title="Mat & livsstil",Escape to the Country
 https://jmp2.uk/plu-66d714d815d2c60008cec6d2.m3u8
 #EXTINF:-1 channel-id="61de90a47365340007f77c27" tvg-id="61de90a47365340007f77c27" tvg-chno="808" tvg-name="Euronews" tvg-logo="https://images.pluto.tv/channels/61de90a47365340007f77c27/colorLogoPNG.png" group-title="Nyheter",Euronews
