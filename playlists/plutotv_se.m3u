@@ -141,7 +141,7 @@ https://jmp2.uk/plu-654a52254d6d8f00084eacfc.m3u8
 https://jmp2.uk/plu-61c1871dac860c0007684974.m3u8
 #EXTINF:-1 channel-id="61e064b4fbbcc60007ffbecd" tvg-id="61e064b4fbbcc60007ffbecd" tvg-chno="912" tvg-name="Henry Danger" tvg-logo="https://images.pluto.tv/channels/61e064b4fbbcc60007ffbecd/colorLogoPNG.png" group-title="Barn",Henry Danger
 https://jmp2.uk/plu-61e064b4fbbcc60007ffbecd.m3u8
-#EXTINF:-1 channel-id="68c015dc6523408b14f54dee" tvg-id="68c015dc6523408b14f54dee" tvg-chno="11" tvg-name="Highway to Heaven" tvg-logo="https://images.pluto.tv/channels/68c015dc6523408b14f54dee/colorLogoPNG-1757419071963.png" group-title="Nytt på Pluto TV",Highway to Heaven
+#EXTINF:-1 channel-id="68c015dc6523408b14f54dee" tvg-id="68c015dc6523408b14f54dee" tvg-chno="218" tvg-name="Highway to Heaven" tvg-logo="https://images.pluto.tv/channels/68c015dc6523408b14f54dee/colorLogoPNG-1757419071963.png" group-title="Drama",Highway to Heaven
 https://jmp2.uk/plu-68c015dc6523408b14f54dee.m3u8
 #EXTINF:-1 channel-id="64e771ac9b414d000841080c" tvg-id="64e771ac9b414d000841080c" tvg-chno="363" tvg-name="Hoarders & Dirty Home Rescue" tvg-logo="https://images.pluto.tv/channels/64e771ac9b414d000841080c/colorLogoPNG.png" group-title="Reality",Hoarders & Dirty Home Rescue
 https://jmp2.uk/plu-64e771ac9b414d000841080c.m3u8
@@ -339,8 +339,6 @@ https://jmp2.uk/plu-62724c8465731f0007b6cd86.m3u8
 https://jmp2.uk/plu-660d7232635c75000828c95a.m3u8
 #EXTINF:-1 channel-id="65e9781a2873090008b48d8a" tvg-id="65e9781a2873090008b48d8a" tvg-chno="964" tvg-name="Reno 911" tvg-logo="https://images.pluto.tv/channels/65e9781a2873090008b48d8a/colorLogoPNG.png" group-title="Komedi",Reno 911
 https://jmp2.uk/plu-65e9781a2873090008b48d8a.m3u8
-#EXTINF:-1 channel-id="65c119dfd77d450008b82b46" tvg-id="65c119dfd77d450008b82b46" tvg-chno="804" tvg-name="Reuters" tvg-logo="https://images.pluto.tv/channels/65c119dfd77d450008b82b46/colorLogoPNG.png" group-title="Nyheter",Reuters
-https://jmp2.uk/plu-65c119dfd77d450008b82b46.m3u8
 #EXTINF:-1 channel-id="662a26cb5a402e00086b2801" tvg-id="662a26cb5a402e00086b2801" tvg-chno="770" tvg-name="River Monsters" tvg-logo="https://images.pluto.tv/channels/662a26cb5a402e00086b2801/colorLogoPNG.png" group-title="Dokumentärer",River Monsters
 https://jmp2.uk/plu-662a26cb5a402e00086b2801.m3u8
 #EXTINF:-1 channel-id="6512d791d1f20c000867eeaa" tvg-id="6512d791d1f20c000867eeaa" tvg-chno="162" tvg-name="Robot Wars by MECH+" tvg-logo="https://images.pluto.tv/channels/6512d791d1f20c000867eeaa/colorLogoPNG.png" group-title="Sport",Robot Wars by MECH+
