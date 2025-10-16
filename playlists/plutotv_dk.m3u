@@ -225,7 +225,7 @@ https://jmp2.uk/plu-654a3fe6986ad20008a42add.m3u8
 https://jmp2.uk/plu-68adabdb5190a45dc9c4d8d4.m3u8
 #EXTINF:-1 channel-id="654a4cc3f91d250008ac11f6" tvg-id="654a4cc3f91d250008ac11f6" tvg-chno="619" tvg-name="Love Boat" tvg-logo="https://images.pluto.tv/channels/654a4cc3f91d250008ac11f6/colorLogoPNG.png" group-title="Klassiske tv-serier",Love Boat
 https://jmp2.uk/plu-654a4cc3f91d250008ac11f6.m3u8
-#EXTINF:-1 channel-id="61c19bfb3bf4940007804d32" tvg-id="61c19bfb3bf4940007804d32" tvg-chno="4" tvg-name="Love Island Danmark" tvg-logo="https://images.pluto.tv/channels/61c19bfb3bf4940007804d32/colorLogoPNG-1757063056399.png" group-title="Nyt på Pluto TV",Love Island Danmark
+#EXTINF:-1 channel-id="61c19bfb3bf4940007804d32" tvg-id="61c19bfb3bf4940007804d32" tvg-chno="118" tvg-name="Love Island Danmark" tvg-logo="https://images.pluto.tv/channels/61c19bfb3bf4940007804d32/colorLogoPNG-1757063056399.png" group-title="Dansk reality & underholdning",Love Island Danmark
 https://jmp2.uk/plu-61c19bfb3bf4940007804d32.m3u8
 #EXTINF:-1 channel-id="62bed7cb3279cb0007735327" tvg-id="62bed7cb3279cb0007735327" tvg-chno="1" tvg-name="Love Island UK" tvg-logo="https://images.pluto.tv/channels/62bed7cb3279cb0007735327/colorLogoPNG_1760363255404.png" group-title="Nyt på Pluto TV",Love Island UK
 https://jmp2.uk/plu-62bed7cb3279cb0007735327.m3u8
@@ -353,7 +353,7 @@ https://jmp2.uk/plu-62b30beb81f89900071fc7b9.m3u8
 https://jmp2.uk/plu-63a1c954d3897300079fcb12.m3u8
 #EXTINF:-1 channel-id="61f9598588f86000078ee7d6" tvg-id="61f9598588f86000078ee7d6" tvg-chno="753" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/61f9598588f86000078ee7d6/colorLogoPNG.png" group-title="Sci-Fi & anime",Pluto TV Sci-Fi
 https://jmp2.uk/plu-61f9598588f86000078ee7d6.m3u8
-#EXTINF:-1 channel-id="68ac55bb3efb41cd979a65ec" tvg-id="68ac55bb3efb41cd979a65ec" tvg-chno="2" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/68ac55bb3efb41cd979a65ec/colorLogoPNG_1758271131728.png" group-title="Nyt på Pluto TV",Pluto TV Snooker 900
+#EXTINF:-1 channel-id="68ac55bb3efb41cd979a65ec" tvg-id="68ac55bb3efb41cd979a65ec" tvg-chno="2" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/68ac55bb3efb41cd979a65ec/colorLogoPNG_1760517441951.png" group-title="Nyt på Pluto TV",Pluto TV Snooker 900
 https://jmp2.uk/plu-68ac55bb3efb41cd979a65ec.m3u8
 #EXTINF:-1 channel-id="61b86c6ef30f5d0007e4c6d1" tvg-id="61b86c6ef30f5d0007e4c6d1" tvg-chno="905" tvg-name="Pluto TV Space" tvg-logo="https://images.pluto.tv/channels/61b86c6ef30f5d0007e4c6d1/colorLogoPNG.png" group-title="Dokumentarer",Pluto TV Space
 https://jmp2.uk/plu-61b86c6ef30f5d0007e4c6d1.m3u8
@@ -425,6 +425,8 @@ https://jmp2.uk/plu-65d879bd0d4561000805d190.m3u8
 https://jmp2.uk/plu-65d87a908145cb0008265c6d.m3u8
 #EXTINF:-1 channel-id="65d879e266eec8000887e91b" tvg-id="65d879e266eec8000887e91b" tvg-chno="158" tvg-name="South Park: Stan Collection" tvg-logo="https://images.pluto.tv/channels/65d879e266eec8000887e91b/colorLogoPNG.png" group-title="South Park",South Park: Stan Collection
 https://jmp2.uk/plu-65d879e266eec8000887e91b.m3u8
+#EXTINF:-1 channel-id="68d66a37508ba507f075bd8c" tvg-id="68d66a37508ba507f075bd8c" tvg-chno="3" tvg-name="SUMO London 2025" tvg-logo="https://images.pluto.tv/channels/68d66a37508ba507f075bd8c/colorLogoPNG_1760530309899.png" group-title="Nyt på Pluto TV",SUMO London 2025
+https://jmp2.uk/plu-68d66a37508ba507f075bd8c.m3u8
 #EXTINF:-1 channel-id="61c09ac98a80a4000703f992" tvg-id="61c09ac98a80a4000703f992" tvg-chno="993" tvg-name="SvampeBob Firkant" tvg-logo="https://images.pluto.tv/channels/61c09ac98a80a4000703f992/colorLogoPNG.png" group-title="For børn",SvampeBob Firkant
 https://jmp2.uk/plu-61c09ac98a80a4000703f992.m3u8
 #EXTINF:-1 channel-id="65143052a1217e0009308b5e" tvg-id="65143052a1217e0009308b5e" tvg-chno="759" tvg-name="Tales from the Darkside" tvg-logo="https://images.pluto.tv/channels/65143052a1217e0009308b5e/colorLogoPNG.png" group-title="Sci-Fi & anime",Tales from the Darkside

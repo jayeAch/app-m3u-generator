@@ -315,7 +315,7 @@ https://jmp2.uk/plu-62b1e4189f5db20007ff03be.m3u8
 https://jmp2.uk/plu-63a19da6847a090007f230da.m3u8
 #EXTINF:-1 channel-id="61f9597e78607000074f6c2a" tvg-id="61f9597e78607000074f6c2a" tvg-chno="604" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/61f9597e78607000074f6c2a/colorLogoPNG_1730322597670.png" group-title="Sci-fi & anime",Pluto TV Sci-Fi
 https://jmp2.uk/plu-61f9597e78607000074f6c2a.m3u8
-#EXTINF:-1 channel-id="68ac56363efb41cd979a8005" tvg-id="68ac56363efb41cd979a8005" tvg-chno="1" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/68ac56363efb41cd979a8005/colorLogoPNG_1758271127098.png" group-title="Nytt på Pluto TV",Pluto TV Snooker 900
+#EXTINF:-1 channel-id="68ac56363efb41cd979a8005" tvg-id="68ac56363efb41cd979a8005" tvg-chno="1" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/68ac56363efb41cd979a8005/colorLogoPNG_1760517057647.png" group-title="Nytt på Pluto TV",Pluto TV Snooker 900
 https://jmp2.uk/plu-68ac56363efb41cd979a8005.m3u8
 #EXTINF:-1 channel-id="61b87a155deef000075a4579" tvg-id="61b87a155deef000075a4579" tvg-chno="756" tvg-name="Pluto TV Space" tvg-logo="https://images.pluto.tv/channels/61b87a155deef000075a4579/colorLogoPNG.png" group-title="Dokumentärer",Pluto TV Space
 https://jmp2.uk/plu-61b87a155deef000075a4579.m3u8
@@ -379,6 +379,8 @@ https://jmp2.uk/plu-65d882394e01740008a36768.m3u8
 https://jmp2.uk/plu-65d881914e01740008a36603.m3u8
 #EXTINF:-1 channel-id="61c18ec6ac860c0007684981" tvg-id="61c18ec6ac860c0007684981" tvg-chno="502" tvg-name="Stugfixarna Norge" tvg-logo="https://images.pluto.tv/channels/61c18ec6ac860c0007684981/colorLogoPNG.png" group-title="Mat & livsstil",Stugfixarna Norge
 https://jmp2.uk/plu-61c18ec6ac860c0007684981.m3u8
+#EXTINF:-1 channel-id="68d66a98508ba507f075c8da" tvg-id="68d66a98508ba507f075c8da" tvg-chno="3" tvg-name="SUMO London 2025" tvg-logo="https://images.pluto.tv/channels/68d66a98508ba507f075c8da/colorLogoPNG_1760528416666.png" group-title="Nytt på Pluto TV",SUMO London 2025
+https://jmp2.uk/plu-68d66a98508ba507f075c8da.m3u8
 #EXTINF:-1 channel-id="61c0ba0816e2fd00086cb6b1" tvg-id="61c0ba0816e2fd00086cb6b1" tvg-chno="910" tvg-name="SvampBob Fyrkant" tvg-logo="https://images.pluto.tv/channels/61c0ba0816e2fd00086cb6b1/colorLogoPNG.png" group-title="Barn",SvampBob Fyrkant
 https://jmp2.uk/plu-61c0ba0816e2fd00086cb6b1.m3u8
 #EXTINF:-1 channel-id="61c1921610d254000727eebd" tvg-id="61c1921610d254000727eebd" tvg-chno="64" tvg-name="Svenska Hollywoodfruar" tvg-logo="https://images.pluto.tv/channels/61c1921610d254000727eebd/colorLogoPNG.png" group-title="Svensk reality och underhållning",Svenska Hollywoodfruar
