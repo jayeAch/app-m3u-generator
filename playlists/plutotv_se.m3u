@@ -99,7 +99,7 @@ https://jmp2.uk/plu-657886bfb9adc40008025554.m3u8
 https://jmp2.uk/plu-67a23bb777796f00080edaec.m3u8
 #EXTINF:-1 channel-id="65788611a620e30008fe36ff" tvg-id="65788611a620e30008fe36ff" tvg-chno="378" tvg-name="Duck Dynasty" tvg-logo="https://images.pluto.tv/channels/65788611a620e30008fe36ff/colorLogoPNG.png" group-title="Reality",Duck Dynasty
 https://jmp2.uk/plu-65788611a620e30008fe36ff.m3u8
-#EXTINF:-1 channel-id="646ce0e2e1979c0008983939" tvg-id="646ce0e2e1979c0008983939" tvg-chno="4" tvg-name="Efterlyst" tvg-logo="https://images.pluto.tv/channels/646ce0e2e1979c0008983939/colorLogoPNG.png" group-title="Nytt på Pluto TV",Efterlyst
+#EXTINF:-1 channel-id="646ce0e2e1979c0008983939" tvg-id="646ce0e2e1979c0008983939" tvg-chno="6" tvg-name="Efterlyst" tvg-logo="https://images.pluto.tv/channels/646ce0e2e1979c0008983939/colorLogoPNG.png" group-title="Nytt på Pluto TV",Efterlyst
 https://jmp2.uk/plu-646ce0e2e1979c0008983939.m3u8
 #EXTINF:-1 channel-id="66d714d815d2c60008cec6d2" tvg-id="66d714d815d2c60008cec6d2" tvg-chno="512" tvg-name="Escape to the Country" tvg-logo="https://images.pluto.tv/channels/66d714d815d2c60008cec6d2/colorLogoPNG.png" group-title="Mat & livsstil",Escape to the Country
 https://jmp2.uk/plu-66d714d815d2c60008cec6d2.m3u8
@@ -277,8 +277,6 @@ https://jmp2.uk/plu-6745b127e40c4a0008ebe16d.m3u8
 https://jmp2.uk/plu-679b94c897bed700080aad4d.m3u8
 #EXTINF:-1 channel-id="679b953715d6eb00081a97a7" tvg-id="679b953715d6eb00081a97a7" tvg-chno="116" tvg-name="Pluto TV AIK Matcher vi minns" tvg-logo="https://images.pluto.tv/channels/679b953715d6eb00081a97a7/colorLogoPNG.png" group-title="Sport",Pluto TV AIK Matcher vi minns
 https://jmp2.uk/plu-679b953715d6eb00081a97a7.m3u8
-#EXTINF:-1 channel-id="65099b366a841400083bd353" tvg-id="65099b366a841400083bd353" tvg-chno="44" tvg-name="Pluto TV Alien Invasion" tvg-logo="https://images.pluto.tv/channels/65099b366a841400083bd353/colorLogoPNG.png" group-title="Övernaturligt",Pluto TV Alien Invasion
-https://jmp2.uk/plu-65099b366a841400083bd353.m3u8
 #EXTINF:-1 channel-id="65b91b53dc10a40008d54777" tvg-id="65b91b53dc10a40008d54777" tvg-chno="204" tvg-name="Pluto TV Brittisk Crime & Drama" tvg-logo="https://images.pluto.tv/channels/65b91b53dc10a40008d54777/colorLogoPNG.png" group-title="Drama",Pluto TV Brittisk Crime & Drama
 https://jmp2.uk/plu-65b91b53dc10a40008d54777.m3u8
 #EXTINF:-1 channel-id="65b917720d9ab4000833f323" tvg-id="65b917720d9ab4000833f323" tvg-chno="302" tvg-name="Pluto TV Bud & Terence" tvg-logo="https://images.pluto.tv/channels/65b917720d9ab4000833f323/colorLogoPNG.png" group-title="Filmer",Pluto TV Bud & Terence
@@ -341,6 +339,8 @@ https://jmp2.uk/plu-65e9781a2873090008b48d8a.m3u8
 https://jmp2.uk/plu-662a26cb5a402e00086b2801.m3u8
 #EXTINF:-1 channel-id="6512d791d1f20c000867eeaa" tvg-id="6512d791d1f20c000867eeaa" tvg-chno="162" tvg-name="Robot Wars by MECH+" tvg-logo="https://images.pluto.tv/channels/6512d791d1f20c000867eeaa/colorLogoPNG.png" group-title="Sport",Robot Wars by MECH+
 https://jmp2.uk/plu-6512d791d1f20c000867eeaa.m3u8
+#EXTINF:-1 channel-id="65ba4e7bdc10a40008da084a" tvg-id="65ba4e7bdc10a40008da084a" tvg-chno="4" tvg-name="Rock Channel" tvg-logo="https://images.pluto.tv/channels/65ba4e7bdc10a40008da084a/colorLogoPNG_1758264796928.png" group-title="Nytt på Pluto TV",Rock Channel
+https://jmp2.uk/plu-65ba4e7bdc10a40008da084a.m3u8
 #EXTINF:-1 channel-id="6512d72b473a540008592be5" tvg-id="6512d72b473a540008592be5" tvg-chno="262" tvg-name="Sabrina the Teenage Witch" tvg-logo="https://images.pluto.tv/channels/6512d72b473a540008592be5/colorLogoPNG.png" group-title="Sitcoms",Sabrina the Teenage Witch
 https://jmp2.uk/plu-6512d72b473a540008592be5.m3u8
 #EXTINF:-1 channel-id="68adab05247c66a11153e037" tvg-id="68adab05247c66a11153e037" tvg-chno="32" tvg-name="Saw" tvg-logo="https://images.pluto.tv/channels/68adab05247c66a11153e037/colorLogoPNG_1759137446917.png" group-title="Skräcktober",Saw

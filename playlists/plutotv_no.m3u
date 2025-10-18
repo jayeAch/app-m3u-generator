@@ -69,8 +69,6 @@ https://jmp2.uk/plu-651e6607575f660008d2cb7f.m3u8
 https://jmp2.uk/plu-63e389dcc111bc0008ee5b8c.m3u8
 #EXTINF:-1 channel-id="65d7243c4e017400089e14a8" tvg-id="65d7243c4e017400089e14a8" tvg-chno="554" tvg-name="Come Dine with Me" tvg-logo="https://images.pluto.tv/channels/65d7243c4e017400089e14a8/colorLogoPNG.png" group-title="Mat & livsstil",Come Dine with Me
 https://jmp2.uk/plu-65d7243c4e017400089e14a8.m3u8
-#EXTINF:-1 channel-id="61c1e7f38413090007c640db" tvg-id="61c1e7f38413090007c640db" tvg-chno="908" tvg-name="Comedy Central" tvg-logo="https://images.pluto.tv/channels/61c1e7f38413090007c640db/colorLogoPNG.png" group-title="Komedie",Comedy Central
-https://jmp2.uk/plu-61c1e7f38413090007c640db.m3u8
 #EXTINF:-1 channel-id="6641fddef9992200082c57de" tvg-id="6641fddef9992200082c57de" tvg-chno="906" tvg-name="Comedy Central Roast" tvg-logo="https://images.pluto.tv/channels/6641fddef9992200082c57de/colorLogoPNG.png" group-title="Komedie",Comedy Central Roast
 https://jmp2.uk/plu-6641fddef9992200082c57de.m3u8
 #EXTINF:-1 channel-id="6400bdb1219c4c00081751aa" tvg-id="6400bdb1219c4c00081751aa" tvg-chno="724" tvg-name="COPS" tvg-logo="https://images.pluto.tv/channels/6400bdb1219c4c00081751aa/colorLogoPNG.png" group-title="True Crime",COPS
@@ -257,16 +255,8 @@ https://jmp2.uk/plu-66c86fff9ba9e800080d8ebe.m3u8
 https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8
 #EXTINF:-1 channel-id="66bb374ba4ee27000841a62c" tvg-id="66bb374ba4ee27000841a62c" tvg-chno="192" tvg-name="Pixel.tv" tvg-logo="https://images.pluto.tv/channels/66bb374ba4ee27000841a62c/colorLogoPNG.png" group-title="Sport",Pixel.tv
 https://jmp2.uk/plu-66bb374ba4ee27000841a62c.m3u8
-#EXTINF:-1 channel-id="61c1e270489a9c000874d209" tvg-id="61c1e270489a9c000874d209" tvg-chno="358" tvg-name="Pluto TV Action" tvg-logo="https://images.pluto.tv/channels/61c1e270489a9c000874d209/colorLogoPNG.png" group-title="Film",Pluto TV Action
-https://jmp2.uk/plu-61c1e270489a9c000874d209.m3u8
-#EXTINF:-1 channel-id="65099a80d1f20c000853605d" tvg-id="65099a80d1f20c000853605d" tvg-chno="42" tvg-name="Pluto TV Alien Invasion" tvg-logo="https://images.pluto.tv/channels/65099a80d1f20c000853605d/colorLogoPNG.png" group-title="Overnaturlig",Pluto TV Alien Invasion
-https://jmp2.uk/plu-65099a80d1f20c000853605d.m3u8
 #EXTINF:-1 channel-id="65b916ec3af63d00084c5841" tvg-id="65b916ec3af63d00084c5841" tvg-chno="352" tvg-name="Pluto TV Bud & Terence" tvg-logo="https://images.pluto.tv/channels/65b916ec3af63d00084c5841/colorLogoPNG.png" group-title="Film",Pluto TV Bud & Terence
 https://jmp2.uk/plu-65b916ec3af63d00084c5841.m3u8
-#EXTINF:-1 channel-id="6728bf533a61d40008629e4b" tvg-id="6728bf533a61d40008629e4b" tvg-chno="909" tvg-name="Pluto TV Buskis" tvg-logo="https://images.pluto.tv/channels/6728bf533a61d40008629e4b/colorLogoPNG_1730723879626.png" group-title="Komedie",Pluto TV Buskis
-https://jmp2.uk/plu-6728bf533a61d40008629e4b.m3u8
-#EXTINF:-1 channel-id="62b1df543afd12000790947d" tvg-id="62b1df543afd12000790947d" tvg-chno="752" tvg-name="Pluto TV Dokumentar" tvg-logo="https://images.pluto.tv/channels/62b1df543afd12000790947d/colorLogoPNG.png" group-title="Dokumentarer",Pluto TV Dokumentar
-https://jmp2.uk/plu-62b1df543afd12000790947d.m3u8
 #EXTINF:-1 channel-id="61c1e1e55deef000075aed0c" tvg-id="61c1e1e55deef000075aed0c" tvg-chno="356" tvg-name="Pluto TV Film" tvg-logo="https://images.pluto.tv/channels/61c1e1e55deef000075aed0c/colorLogoPNG.png" group-title="Film",Pluto TV Film
 https://jmp2.uk/plu-61c1e1e55deef000075aed0c.m3u8
 #EXTINF:-1 channel-id="619e22d81782bd00077f0dbd" tvg-id="619e22d81782bd00077f0dbd" tvg-chno="202" tvg-name="Pluto TV Fishing" tvg-logo="https://images.pluto.tv/channels/619e22d81782bd00077f0dbd/colorLogoPNG.png" group-title="Sport",Pluto TV Fishing
@@ -297,8 +287,6 @@ https://jmp2.uk/plu-61f957e051cca800076f2358.m3u8
 https://jmp2.uk/plu-68ac55fe3efb41cd979a6877.m3u8
 #EXTINF:-1 channel-id="61b877eedb088700083246f8" tvg-id="61b877eedb088700083246f8" tvg-chno="760" tvg-name="Pluto TV Space" tvg-logo="https://images.pluto.tv/channels/61b877eedb088700083246f8/colorLogoPNG.png" group-title="Dokumentarer",Pluto TV Space
 https://jmp2.uk/plu-61b877eedb088700083246f8.m3u8
-#EXTINF:-1 channel-id="61c1e30f738ecd0008825184" tvg-id="61c1e30f738ecd0008825184" tvg-chno="362" tvg-name="Pluto TV Spenning" tvg-logo="https://images.pluto.tv/channels/61c1e30f738ecd0008825184/colorLogoPNG.png" group-title="Film",Pluto TV Spenning
-https://jmp2.uk/plu-61c1e30f738ecd0008825184.m3u8
 #EXTINF:-1 channel-id="6357f33cb51d2d00077927c6" tvg-id="6357f33cb51d2d00077927c6" tvg-chno="152" tvg-name="Pluto TV Sport" tvg-logo="https://images.pluto.tv/channels/6357f33cb51d2d00077927c6/colorLogoPNG_1746816938002.png" group-title="Sport",Pluto TV Sport
 https://jmp2.uk/plu-6357f33cb51d2d00077927c6.m3u8
 #EXTINF:-1 channel-id="61c1e914bf8c520007a93ff1" tvg-id="61c1e914bf8c520007a93ff1" tvg-chno="868" tvg-name="Pluto TV Tegnefilm" tvg-logo="https://images.pluto.tv/channels/61c1e914bf8c520007a93ff1/colorLogoPNG_1749627563431.png" group-title="For barn",Pluto TV Tegnefilm
@@ -327,8 +315,6 @@ https://jmp2.uk/plu-68adaacec9b5923e05b6fa64.m3u8
 https://jmp2.uk/plu-63a1c959d9dd51000825d659.m3u8
 #EXTINF:-1 channel-id="643810f2e8a4aa0008ccf575" tvg-id="643810f2e8a4aa0008ccf575" tvg-chno="426" tvg-name="Skjønnhetsfellen Danmark" tvg-logo="https://images.pluto.tv/channels/643810f2e8a4aa0008ccf575/colorLogoPNG.png" group-title="Realityserier",Skjønnhetsfellen Danmark
 https://jmp2.uk/plu-643810f2e8a4aa0008ccf575.m3u8
-#EXTINF:-1 channel-id="61fb98674f7dd00007fdc2ee" tvg-id="61fb98674f7dd00007fdc2ee" tvg-chno="764" tvg-name="Smithsonian Channel Selects" tvg-logo="https://images.pluto.tv/channels/61fb98674f7dd00007fdc2ee/colorLogoPNG.png" group-title="Dokumentarer",Smithsonian Channel Selects
-https://jmp2.uk/plu-61fb98674f7dd00007fdc2ee.m3u8
 #EXTINF:-1 channel-id="61c1e88cd168ea0007068133" tvg-id="61c1e88cd168ea0007068133" tvg-chno="132" tvg-name="South Park" tvg-logo="https://images.pluto.tv/channels/61c1e88cd168ea0007068133/colorLogoPNG_1754471329396.png" group-title="South Park",South Park
 https://jmp2.uk/plu-61c1e88cd168ea0007068133.m3u8
 #EXTINF:-1 channel-id="660bff5724e1d000085b7c07" tvg-id="660bff5724e1d000085b7c07" tvg-chno="138" tvg-name="South Park Armageddon" tvg-logo="https://images.pluto.tv/channels/660bff5724e1d000085b7c07/colorLogoPNG.png" group-title="South Park",South Park Armageddon
