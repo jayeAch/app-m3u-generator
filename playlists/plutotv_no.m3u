@@ -351,6 +351,8 @@ https://jmp2.uk/plu-63c95451d3485c0007734f55.m3u8
 https://jmp2.uk/plu-62bd991fc0ecf10007d2cb18.m3u8
 #EXTINF:-1 channel-id="66b22b748561260008dae057" tvg-id="66b22b748561260008dae057" tvg-chno="306" tvg-name="Taxi" tvg-logo="https://images.pluto.tv/channels/66b22b748561260008dae057/colorLogoPNG.png" group-title="Sitcoms",Taxi
 https://jmp2.uk/plu-66b22b748561260008dae057.m3u8
+#EXTINF:-1 channel-id="6870c97b759366af055fe371" tvg-id="6870c97b759366af055fe371" tvg-chno="2" tvg-name="Tennis Channel" tvg-logo="https://images.pluto.tv/channels/6870c97b759366af055fe371/colorLogoPNG_1756969580463.png" group-title="Nytt på Pluto TV",Tennis Channel
+https://jmp2.uk/plu-6870c97b759366af055fe371.m3u8
 #EXTINF:-1 channel-id="65c0973311ced7000808d255" tvg-id="65c0973311ced7000808d255" tvg-chno="702" tvg-name="The Daily Show" tvg-logo="https://images.pluto.tv/channels/65c0973311ced7000808d255/colorLogoPNG.png" group-title="Talkshow",The Daily Show
 https://jmp2.uk/plu-65c0973311ced7000808d255.m3u8
 #EXTINF:-1 channel-id="61c1d56f28e94c0007827bdb" tvg-id="61c1d56f28e94c0007827bdb" tvg-chno="518" tvg-name="The Hills" tvg-logo="https://images.pluto.tv/channels/61c1d56f28e94c0007827bdb/colorLogoPNG.png" group-title="Det beste fra MTV",The Hills
