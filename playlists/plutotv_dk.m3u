@@ -183,6 +183,8 @@ https://jmp2.uk/plu-619e21b213ef6b0007d8c17a.m3u8
 https://jmp2.uk/plu-671b4dc049c4060008f91d3a.m3u8
 #EXTINF:-1 channel-id="655ca7405812e80008883d4e" tvg-id="655ca7405812e80008883d4e" tvg-chno="835" tvg-name="Hot Ones" tvg-logo="https://images.pluto.tv/channels/655ca7405812e80008883d4e/colorLogoPNG_1756127398344.png" group-title="Talkshow",Hot Ones
 https://jmp2.uk/plu-655ca7405812e80008883d4e.m3u8
+#EXTINF:-1 channel-id="6501af923a0d700008b71b53" tvg-id="6501af923a0d700008b71b53" tvg-chno="3" tvg-name="Hundehviskeren" tvg-logo="https://images.pluto.tv/channels/6501af923a0d700008b71b53/colorLogoPNG.png" group-title="Nyt på Pluto TV",Hundehviskeren
+https://jmp2.uk/plu-6501af923a0d700008b71b53.m3u8
 #EXTINF:-1 channel-id="657881c46e4f6a00087414c2" tvg-id="657881c46e4f6a00087414c2" tvg-chno="909" tvg-name="I Survived" tvg-logo="https://images.pluto.tv/channels/657881c46e4f6a00087414c2/colorLogoPNG.png" group-title="Dokumentarer",I Survived
 https://jmp2.uk/plu-657881c46e4f6a00087414c2.m3u8
 #EXTINF:-1 channel-id="61c0b9aab7facb0007913908" tvg-id="61c0b9aab7facb0007913908" tvg-chno="998" tvg-name="iCarly" tvg-logo="https://images.pluto.tv/channels/61c0b9aab7facb0007913908/colorLogoPNG.png" group-title="For børn",iCarly

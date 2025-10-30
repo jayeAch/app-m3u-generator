@@ -145,6 +145,8 @@ https://jmp2.uk/plu-619e286e093e7c0007489e6a.m3u8
 https://jmp2.uk/plu-671b4e47daad7f000868b840.m3u8
 #EXTINF:-1 channel-id="655ca968c917a5000830f8f5" tvg-id="655ca968c917a5000830f8f5" tvg-chno="704" tvg-name="Hot Ones" tvg-logo="https://images.pluto.tv/channels/655ca968c917a5000830f8f5/colorLogoPNG_1756259939441.png" group-title="Talkshow",Hot Ones
 https://jmp2.uk/plu-655ca968c917a5000830f8f5.m3u8
+#EXTINF:-1 channel-id="6501ad3a98020f0008503dba" tvg-id="6501ad3a98020f0008503dba" tvg-chno="2" tvg-name="Hundehviskeren" tvg-logo="https://images.pluto.tv/channels/6501ad3a98020f0008503dba/colorLogoPNG.png" group-title="Nytt på Pluto TV",Hundehviskeren
+https://jmp2.uk/plu-6501ad3a98020f0008503dba.m3u8
 #EXTINF:-1 channel-id="6578852bcbd0d60008f876d7" tvg-id="6578852bcbd0d60008f876d7" tvg-chno="758" tvg-name="I Survived" tvg-logo="https://images.pluto.tv/channels/6578852bcbd0d60008f876d7/colorLogoPNG.png" group-title="Dokumentarer",I Survived
 https://jmp2.uk/plu-6578852bcbd0d60008f876d7.m3u8
 #EXTINF:-1 channel-id="61c1d9b31a9c310008f8ee57" tvg-id="61c1d9b31a9c310008f8ee57" tvg-chno="860" tvg-name="iCarly" tvg-logo="https://images.pluto.tv/channels/61c1d9b31a9c310008f8ee57/colorLogoPNG.png" group-title="For barn",iCarly
@@ -333,7 +335,7 @@ https://jmp2.uk/plu-65d87f53ec9fda0008a5b810.m3u8
 https://jmp2.uk/plu-65d88004ec9fda0008a5b8b3.m3u8
 #EXTINF:-1 channel-id="65d87f7a28730900088e7fbf" tvg-id="65d87f7a28730900088e7fbf" tvg-chno="135" tvg-name="South Park: Stan Collection" tvg-logo="https://images.pluto.tv/channels/65d87f7a28730900088e7fbf/colorLogoPNG.png" group-title="South Park",South Park: Stan Collection
 https://jmp2.uk/plu-65d87f7a28730900088e7fbf.m3u8
-#EXTINF:-1 channel-id="68d66a69508ba507f075c185" tvg-id="68d66a69508ba507f075c185" tvg-chno="3" tvg-name="SUMO London 2025" tvg-logo="https://images.pluto.tv/channels/68d66a69508ba507f075c185/colorLogoPNG_1760525327856.png" group-title="Nytt på Pluto TV",SUMO London 2025
+#EXTINF:-1 channel-id="68d66a69508ba507f075c185" tvg-id="68d66a69508ba507f075c185" tvg-chno="4" tvg-name="SUMO London 2025" tvg-logo="https://images.pluto.tv/channels/68d66a69508ba507f075c185/colorLogoPNG_1760525327856.png" group-title="Nytt på Pluto TV",SUMO London 2025
 https://jmp2.uk/plu-68d66a69508ba507f075c185.m3u8
 #EXTINF:-1 channel-id="61c1d59a244e500007581861" tvg-id="61c1d59a244e500007581861" tvg-chno="854" tvg-name="SvampeBob Firkant" tvg-logo="https://images.pluto.tv/channels/61c1d59a244e500007581861/colorLogoPNG.png" group-title="For barn",SvampeBob Firkant
 https://jmp2.uk/plu-61c1d59a244e500007581861.m3u8
@@ -347,7 +349,7 @@ https://jmp2.uk/plu-63c95451d3485c0007734f55.m3u8
 https://jmp2.uk/plu-62bd991fc0ecf10007d2cb18.m3u8
 #EXTINF:-1 channel-id="66b22b748561260008dae057" tvg-id="66b22b748561260008dae057" tvg-chno="306" tvg-name="Taxi" tvg-logo="https://images.pluto.tv/channels/66b22b748561260008dae057/colorLogoPNG.png" group-title="Sitcoms",Taxi
 https://jmp2.uk/plu-66b22b748561260008dae057.m3u8
-#EXTINF:-1 channel-id="6870c97b759366af055fe371" tvg-id="6870c97b759366af055fe371" tvg-chno="2" tvg-name="Tennis Channel" tvg-logo="https://images.pluto.tv/channels/6870c97b759366af055fe371/colorLogoPNG_1756969580463.png" group-title="Nytt på Pluto TV",Tennis Channel
+#EXTINF:-1 channel-id="6870c97b759366af055fe371" tvg-id="6870c97b759366af055fe371" tvg-chno="3" tvg-name="Tennis Channel" tvg-logo="https://images.pluto.tv/channels/6870c97b759366af055fe371/colorLogoPNG_1756969580463.png" group-title="Nytt på Pluto TV",Tennis Channel
 https://jmp2.uk/plu-6870c97b759366af055fe371.m3u8
 #EXTINF:-1 channel-id="65c0973311ced7000808d255" tvg-id="65c0973311ced7000808d255" tvg-chno="702" tvg-name="The Daily Show" tvg-logo="https://images.pluto.tv/channels/65c0973311ced7000808d255/colorLogoPNG.png" group-title="Talkshow",The Daily Show
 https://jmp2.uk/plu-65c0973311ced7000808d255.m3u8
