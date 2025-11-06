@@ -11,6 +11,8 @@ https://jmp2.uk/plex-6430aa45fc3be5947780904e-63504925a97bd70eaef54f01.m3u8
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-66be944f8711311880995280.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-60e737a4ebef9d002c4d0a0c" tvg-id="6430aa45fc3be5947780904e-60e737a4ebef9d002c4d0a0c" tvg-chno="" tvg-name="AfroLandTV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png" group-title="Black Entertainment",AfroLandTV
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-60e737a4ebef9d002c4d0a0c.m3u8
+#EXTINF:-1 channel-id="6430aa45fc3be5947780904e-68e03cb418c739b4d91a6a59" tvg-id="6430aa45fc3be5947780904e-68e03cb418c739b4d91a6a59" tvg-chno="" tvg-name="Alerte à Malibu TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fb65dea3-d6c1-403e-830f-361a01204fa1/All_White_Alerte-A-Malibu.png" group-title="Uncategorized",Alerte à Malibu TV
+https://jmp2.uk/plex-6430aa45fc3be5947780904e-68e03cb418c739b4d91a6a59.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-66e360bf6f29628ccb0dfc93" tvg-id="6430aa45fc3be5947780904e-66e360bf6f29628ccb0dfc93" tvg-chno="" tvg-name="Allociné" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1a5dc011-4963-4e49-9c28-0bf5d295ee50/Plex_Allocine_WHT_COLOR.png" group-title="Uncategorized",Allociné
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-66e360bf6f29628ccb0dfc93.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-62efbb8652f7d73061eec498" tvg-id="6430aa45fc3be5947780904e-62efbb8652f7d73061eec498" tvg-chno="" tvg-name="Alternative" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf09a995-48fe-45f6-abb3-56b442494c12/Rock_alternatives_Rdx.png" group-title="Music",Alternative
@@ -67,8 +69,6 @@ https://jmp2.uk/plex-6430aa45fc3be5947780904e-5f07e9fdf313eb0041bbecda.m3u8
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-626c1753ffda6789d20a452e.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-635c61cc797a33fa4193cc93" tvg-id="6430aa45fc3be5947780904e-635c61cc797a33fa4193cc93" tvg-chno="" tvg-name="Cosmic Frontiers" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a514ca78-cb8d-4c2f-9d21-cdb8e6ed8197/Plex_CosmicFrontiers__Logo_DarkBackground_.png" group-title="Uncategorized",Cosmic Frontiers
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-635c61cc797a33fa4193cc93.m3u8
-#EXTINF:-1 channel-id="6430aa45fc3be5947780904e-652875586425fdb1f32d2169" tvg-id="6430aa45fc3be5947780904e-652875586425fdb1f32d2169" tvg-chno="" tvg-name="Court Sports Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/01a1743b-ef22-4549-84a5-84d044fe11a8/Sports-Court-Network_WHITE_-_Douglas_NeimanRDX.png" group-title="Sports",Court Sports Network
-https://jmp2.uk/plex-6430aa45fc3be5947780904e-652875586425fdb1f32d2169.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-6365779dde08f8eec6c3f21f" tvg-id="6430aa45fc3be5947780904e-6365779dde08f8eec6c3f21f" tvg-chno="" tvg-name="CraftsyTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7887d400-2355-41eb-9e9f-3ea13b3f949c/Craftsy_logo_color.png" group-title="Food & Home",CraftsyTV
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-6365779dde08f8eec6c3f21f.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-67884bd6d37f2fd48d6220db" tvg-id="6430aa45fc3be5947780904e-67884bd6d37f2fd48d6220db" tvg-chno="" tvg-name="Creator Television" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f33d90dc-14d4-4034-8959-30dac5ed085c/CTV-WHITE_PINK_4RDXx.png" group-title="Uncategorized",Creator Television
@@ -153,7 +153,7 @@ https://jmp2.uk/plex-6430aa45fc3be5947780904e-62ffc5cfa6cad6f2991745c2.m3u8
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-63d08694ab0965e49583e3b2.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-621672e42c2627c068e73ad8" tvg-id="6430aa45fc3be5947780904e-621672e42c2627c068e73ad8" tvg-chno="" tvg-name="Galxy TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dc452291-62d8-4f01-8e5b-b1fef79fb37d/GalxyTV_logo_dark.png" group-title="Sci-Fi & Action",Galxy TV
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-621672e42c2627c068e73ad8.m3u8
-#EXTINF:-1 channel-id="6430aa45fc3be5947780904e-67c247c345ae99120c071586" tvg-id="6430aa45fc3be5947780904e-67c247c345ae99120c071586" tvg-chno="" tvg-name="GFN Soccer TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e30da7d3-0309-470c-bbd2-fa49f0ee1b7a/Channel_Logo_WHITE_-_RDX.png" group-title="Uncategorized",GFN Soccer TV
+#EXTINF:-1 channel-id="6430aa45fc3be5947780904e-67c247c345ae99120c071586" tvg-id="6430aa45fc3be5947780904e-67c247c345ae99120c071586" tvg-chno="" tvg-name="GFN Soccer TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ca224838-7eaa-4196-8f0a-f874207a1307/Channel_Logo_WHITE_-_RDX.png" group-title="Uncategorized",GFN Soccer TV
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-67c247c345ae99120c071586.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-5eea605474085f0040ddc76d" tvg-id="6430aa45fc3be5947780904e-5eea605474085f0040ddc76d" tvg-chno="" tvg-name="Glewed TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6025660-0b4a-4851-a805-4c61545642f9/glewed-tv.png" group-title="Lifestyle",Glewed TV
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-5eea605474085f0040ddc76d.m3u8
@@ -167,6 +167,8 @@ https://jmp2.uk/plex-6430aa45fc3be5947780904e-6757689a30e1e3d0bb138d6b.m3u8
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-63489a771159f6a5ce819b7b.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-5f8746eabd529300418246d9" tvg-id="6430aa45fc3be5947780904e-5f8746eabd529300418246d9" tvg-chno="" tvg-name="GUSTOTV" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dab1a7cb1336ecbd21e804d506b3ba61.png" group-title="Food & Home",GUSTOTV
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-5f8746eabd529300418246d9.m3u8
+#EXTINF:-1 channel-id="6430aa45fc3be5947780904e-68e03d842cbc7a5d3189394a" tvg-id="6430aa45fc3be5947780904e-68e03d842cbc7a5d3189394a" tvg-chno="" tvg-name="Génération Sitcoms TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c72448e1-59be-4c04-b2c8-461cb3bb5bac/All_White_Generation-Sitcom.png" group-title="Uncategorized",Génération Sitcoms TV
+https://jmp2.uk/plex-6430aa45fc3be5947780904e-68e03d842cbc7a5d3189394a.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-6864588f19cc2e163e38d15f" tvg-id="6430aa45fc3be5947780904e-6864588f19cc2e163e38d15f" tvg-chno="" tvg-name="Hantise" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6ade1303-c4f6-4e79-8bef-111335acd36e/Hantise_whiteRDX.png" group-title="Uncategorized",Hantise
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-6864588f19cc2e163e38d15f.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-5fd115bdb7ef8d002dcf1820" tvg-id="6430aa45fc3be5947780904e-5fd115bdb7ef8d002dcf1820" tvg-chno="" tvg-name="Hard Knocks" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/hardknocks_logo_dark.png" group-title="Sports",Hard Knocks
@@ -189,6 +191,8 @@ https://jmp2.uk/plex-6430aa45fc3be5947780904e-66f6b6baac1a1890ef197a4b.m3u8
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-666e1820ce73ed6023b55a11.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-64a355697d24564fba37bab8" tvg-id="6430aa45fc3be5947780904e-64a355697d24564fba37bab8" tvg-chno="" tvg-name="Ideas En 5 Minutos" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dfe80db0-76d2-4437-bae4-470236b57cfb/1500x1000_dark_-_Irina_Larionova.png" group-title="En Español",Ideas En 5 Minutos
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-64a355697d24564fba37bab8.m3u8
+#EXTINF:-1 channel-id="6430aa45fc3be5947780904e-69011e71d320237a5a2d9f63" tvg-id="6430aa45fc3be5947780904e-69011e71d320237a5a2d9f63" tvg-chno="" tvg-name="INTER 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png" group-title="Uncategorized",INTER 24/7
+https://jmp2.uk/plex-6430aa45fc3be5947780904e-69011e71d320237a5a2d9f63.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-67db068f92cb453db28ab017" tvg-id="6430aa45fc3be5947780904e-67db068f92cb453db28ab017" tvg-chno="" tvg-name="IntoCrime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/82ee42cc-ff1b-4faa-97df-d99ff9b9b7e2/INTOCRIMELRED_WHITE_TEXTRDX.png" group-title="Uncategorized",IntoCrime
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-67db068f92cb453db28ab017.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-688d3402a6fe30698ab42007" tvg-id="6430aa45fc3be5947780904e-688d3402a6fe30698ab42007" tvg-chno="" tvg-name="ITV Deportes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a158aa7c-26b6-4c00-af9d-6fe52cab555a/iTV_LOGO-DarkBG_-_Alejandro_N.png" group-title="Uncategorized",ITV Deportes
@@ -443,6 +447,8 @@ https://jmp2.uk/plex-6430aa45fc3be5947780904e-608a2c722957c9002c6a617b.m3u8
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-630fa9e577ec3866def38fa2.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-68b9f334fc12601028c5651e" tvg-id="6430aa45fc3be5947780904e-68b9f334fc12601028c5651e" tvg-chno="" tvg-name="World Billiards TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/55d069fe-0219-447a-a712-e3ecaed26241/_Plex__WBT_Logo_Dark_Mode.png" group-title="Uncategorized",World Billiards TV
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-68b9f334fc12601028c5651e.m3u8
+#EXTINF:-1 channel-id="6430aa45fc3be5947780904e-652875586425fdb1f32d2169" tvg-id="6430aa45fc3be5947780904e-652875586425fdb1f32d2169" tvg-chno="" tvg-name="World Surf League 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b4cf623f-e45e-4706-ba5c-fdf92a9e1e44/WSL_WHITE_LOGO.png" group-title="Uncategorized",World Surf League 24/7
+https://jmp2.uk/plex-6430aa45fc3be5947780904e-652875586425fdb1f32d2169.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-621670feab2095ca85353ad4" tvg-id="6430aa45fc3be5947780904e-621670feab2095ca85353ad4" tvg-chno="" tvg-name="XFC TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/90cd03c9-281a-4eea-964b-6a9ce5c8d07c/XFCTV_channel_logo_dark_-_Dana_Foster.png" group-title="Sports",XFC TV
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-621670feab2095ca85353ad4.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-62ee72cc271f393d2d9f7098" tvg-id="6430aa45fc3be5947780904e-62ee72cc271f393d2d9f7098" tvg-chno="" tvg-name="Y2K" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ca8ce15a-6f58-4602-9d8c-d66bb894d7a2/Y2K.png" group-title="Music",Y2K
