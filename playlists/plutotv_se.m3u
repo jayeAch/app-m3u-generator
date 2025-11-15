@@ -361,8 +361,6 @@ https://jmp2.uk/plu-65d882394e01740008a36768.m3u8
 https://jmp2.uk/plu-65d881914e01740008a36603.m3u8
 #EXTINF:-1 channel-id="61c18ec6ac860c0007684981" tvg-id="61c18ec6ac860c0007684981" tvg-chno="502" tvg-name="Stugfixarna Norge" tvg-logo="https://images.pluto.tv/channels/61c18ec6ac860c0007684981/colorLogoPNG.png" group-title="Mat & livsstil",Stugfixarna Norge
 https://jmp2.uk/plu-61c18ec6ac860c0007684981.m3u8
-#EXTINF:-1 channel-id="68d66a98508ba507f075c8da" tvg-id="68d66a98508ba507f075c8da" tvg-chno="11" tvg-name="SUMO London 2025" tvg-logo="https://images.pluto.tv/channels/68d66a98508ba507f075c8da/colorLogoPNG_1760528416666.png" group-title="Nytt på Pluto TV",SUMO London 2025
-https://jmp2.uk/plu-68d66a98508ba507f075c8da.m3u8
 #EXTINF:-1 channel-id="61c0ba0816e2fd00086cb6b1" tvg-id="61c0ba0816e2fd00086cb6b1" tvg-chno="910" tvg-name="SvampBob Fyrkant" tvg-logo="https://images.pluto.tv/channels/61c0ba0816e2fd00086cb6b1/colorLogoPNG.png" group-title="Barn",SvampBob Fyrkant
 https://jmp2.uk/plu-61c0ba0816e2fd00086cb6b1.m3u8
 #EXTINF:-1 channel-id="61c1921610d254000727eebd" tvg-id="61c1921610d254000727eebd" tvg-chno="64" tvg-name="Svenska Hollywoodfruar" tvg-logo="https://images.pluto.tv/channels/61c1921610d254000727eebd/colorLogoPNG.png" group-title="Svensk reality och underhållning",Svenska Hollywoodfruar
@@ -377,6 +375,8 @@ https://jmp2.uk/plu-66b22c9aa79dea0008cee4a9.m3u8
 https://jmp2.uk/plu-6870c9ca759366af055fe891.m3u8
 #EXTINF:-1 channel-id="65c0978360eb870008bc9d5b" tvg-id="65c0978360eb870008bc9d5b" tvg-chno="662" tvg-name="The Daily Show" tvg-logo="https://images.pluto.tv/channels/65c0978360eb870008bc9d5b/colorLogoPNG.png" group-title="Talkshow",The Daily Show
 https://jmp2.uk/plu-65c0978360eb870008bc9d5b.m3u8
+#EXTINF:-1 channel-id="664f119d41af640008e38212" tvg-id="664f119d41af640008e38212" tvg-chno="34" tvg-name="The Great Christmas Light Fight" tvg-logo="https://images.pluto.tv/channels/664f119d41af640008e38212/colorLogoPNG.png" group-title="Julen kommer snart",The Great Christmas Light Fight
+https://jmp2.uk/plu-664f119d41af640008e38212.m3u8
 #EXTINF:-1 channel-id="61c08d7c73bdb800070eef0a" tvg-id="61c08d7c73bdb800070eef0a" tvg-chno="466" tvg-name="The Hills" tvg-logo="https://images.pluto.tv/channels/61c08d7c73bdb800070eef0a/colorLogoPNG.png" group-title="Det bästa från MTV",The Hills
 https://jmp2.uk/plu-61c08d7c73bdb800070eef0a.m3u8
 #EXTINF:-1 channel-id="6391df52d146a40007c265f3" tvg-id="6391df52d146a40007c265f3" tvg-chno="1020" tvg-name="The Nanny" tvg-logo="https://images.pluto.tv/channels/6391df52d146a40007c265f3/colorLogoPNG.png" group-title="Sitcoms",The Nanny

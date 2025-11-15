@@ -165,10 +165,6 @@ https://jmp2.uk/plu-66337e6ba0a74e000889563b.m3u8
 https://jmp2.uk/plu-615c1e5ce3039400070a0547.m3u8
 #EXTINF:-1 channel-id="65a67d572fac9c000835eb3a" tvg-id="65a67d572fac9c000835eb3a" tvg-chno="450" tvg-name="Moviepilot TV mit Pluto TV" tvg-logo="https://images.pluto.tv/channels/65a67d572fac9c000835eb3a/colorLogoPNG.png" group-title="Filme",Moviepilot TV mit Pluto TV
 https://jmp2.uk/plu-65a67d572fac9c000835eb3a.m3u8
-#EXTINF:-1 channel-id="652e766f3fd33c0008161257" tvg-id="652e766f3fd33c0008161257" tvg-chno="504" tvg-name="MTV Biggest Pop" tvg-logo="https://images.pluto.tv/channels/652e766f3fd33c0008161257/colorLogoPNG.png" group-title="Musik",MTV Biggest Pop
-https://jmp2.uk/plu-652e766f3fd33c0008161257.m3u8
-#EXTINF:-1 channel-id="634fe16981d8f50007198161" tvg-id="634fe16981d8f50007198161" tvg-chno="505" tvg-name="MTV Brandneu" tvg-logo="https://images.pluto.tv/channels/634fe16981d8f50007198161/colorLogoPNG.png" group-title="Musik",MTV Brandneu
-https://jmp2.uk/plu-634fe16981d8f50007198161.m3u8
 #EXTINF:-1 channel-id="5db6a697d5f34a000934cd13" tvg-id="5db6a697d5f34a000934cd13" tvg-chno="204" tvg-name="MTV Catfish TV Show" tvg-logo="https://images.pluto.tv/channels/5db6a697d5f34a000934cd13/colorLogoPNG.png" group-title="Reality",MTV Catfish TV Show
 https://jmp2.uk/plu-5db6a697d5f34a000934cd13.m3u8
 #EXTINF:-1 channel-id="5ce40f8aa43c46795e36e8a5" tvg-id="5ce40f8aa43c46795e36e8a5" tvg-chno="23" tvg-name="MTV Christmas Songs" tvg-logo="https://images.pluto.tv/channels/5ce40f8aa43c46795e36e8a5/colorLogoPNG.png" group-title="Epische Weihnachten",MTV Christmas Songs
@@ -365,8 +361,6 @@ https://jmp2.uk/plu-66337ed7a0a74e0008895699.m3u8
 https://jmp2.uk/plu-6690fcb7d51259000880d479.m3u8
 #EXTINF:-1 channel-id="686cff3224918d4300fa542b" tvg-id="686cff3224918d4300fa542b" tvg-chno="50" tvg-name="Stromberg" tvg-logo="https://images.pluto.tv/channels/686cff3224918d4300fa542b/colorLogoPNG_1753976762248.png" group-title="Sitcoms + Comedy",Stromberg
 https://jmp2.uk/plu-686cff3224918d4300fa542b.m3u8
-#EXTINF:-1 channel-id="68d669f9508ba507f075b5fe" tvg-id="68d669f9508ba507f075b5fe" tvg-chno="89" tvg-name="SUMO London 2025" tvg-logo="https://images.pluto.tv/channels/68d669f9508ba507f075b5fe/colorLogoPNG_1760526697414.png" group-title="Live Sports",SUMO London 2025
-https://jmp2.uk/plu-68d669f9508ba507f075b5fe.m3u8
 #EXTINF:-1 channel-id="6054a9f4bc8a5f000771504c" tvg-id="6054a9f4bc8a5f000771504c" tvg-chno="69" tvg-name="Takeshi's Castle" tvg-logo="https://images.pluto.tv/channels/6054a9f4bc8a5f000771504c/colorLogoPNG.png" group-title="Sitcoms + Comedy",Takeshi's Castle
 https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
 #EXTINF:-1 channel-id="5cb5d043a461406ffe3fb2de" tvg-id="5cb5d043a461406ffe3fb2de" tvg-chno="185" tvg-name="Telenovela ZDF" tvg-logo="https://images.pluto.tv/channels/5cb5d043a461406ffe3fb2de/colorLogoPNG.png" group-title="Serien-Marathon",Telenovela ZDF
