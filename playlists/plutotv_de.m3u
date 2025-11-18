@@ -45,6 +45,8 @@ https://jmp2.uk/plu-65df0cff66eec8000897b3a4.m3u8
 https://jmp2.uk/plu-67fe350a9ebfe41424228879.m3u8
 #EXTINF:-1 channel-id="67ff7dd84906b1acfad97330" tvg-id="67ff7dd84906b1acfad97330" tvg-chno="181" tvg-name="Blue Mountain State" tvg-logo="https://images.pluto.tv/channels/67ff7dd84906b1acfad97330/colorLogoPNG_1748596736714.png" group-title="Serien-Marathon",Blue Mountain State
 https://jmp2.uk/plu-67ff7dd84906b1acfad97330.m3u8
+#EXTINF:-1 channel-id="684ac10236c9361b1977f7bc" tvg-id="684ac10236c9361b1977f7bc" tvg-chno="391" tvg-name="Bronco" tvg-logo="https://images.pluto.tv/channels/684ac10236c9361b1977f7bc/colorLogoPNG_1757588251975.png" group-title="Western",Bronco
+https://jmp2.uk/plu-684ac10236c9361b1977f7bc.m3u8
 #EXTINF:-1 channel-id="66337ea1307fa300082c28a0" tvg-id="66337ea1307fa300082c28a0" tvg-chno="92" tvg-name="BVB-Frauen" tvg-logo="https://images.pluto.tv/channels/66337ea1307fa300082c28a0/colorLogoPNG_1755794338808.png" group-title="Live Sports",BVB-Frauen
 https://jmp2.uk/plu-66337ea1307fa300082c28a0.m3u8
 #EXTINF:-1 channel-id="62441d6ded1827000763dcda" tvg-id="62441d6ded1827000763dcda" tvg-chno="521" tvg-name="CBS News 24/7" tvg-logo="https://images.pluto.tv/channels/62441d6ded1827000763dcda/colorLogoPNG.png" group-title="Nachrichten",CBS News 24/7
@@ -109,7 +111,7 @@ https://jmp2.uk/plu-6305ca798bd95300072d2f93.m3u8
 https://jmp2.uk/plu-62a0b2aff4cf470007e47e29.m3u8
 #EXTINF:-1 channel-id="62cebf042ffc6d0007c4e59a" tvg-id="62cebf042ffc6d0007c4e59a" tvg-chno="58" tvg-name="Frasier" tvg-logo="https://images.pluto.tv/channels/62cebf042ffc6d0007c4e59a/colorLogoPNG.png" group-title="Sitcoms + Comedy",Frasier
 https://jmp2.uk/plu-62cebf042ffc6d0007c4e59a.m3u8
-#EXTINF:-1 channel-id="6270ea4345f5bc0007823048" tvg-id="6270ea4345f5bc0007823048" tvg-chno="393" tvg-name="Fury" tvg-logo="https://images.pluto.tv/channels/6270ea4345f5bc0007823048/colorLogoPNG.png" group-title="Western",Fury
+#EXTINF:-1 channel-id="6270ea4345f5bc0007823048" tvg-id="6270ea4345f5bc0007823048" tvg-chno="394" tvg-name="Fury" tvg-logo="https://images.pluto.tv/channels/6270ea4345f5bc0007823048/colorLogoPNG.png" group-title="Western",Fury
 https://jmp2.uk/plu-6270ea4345f5bc0007823048.m3u8
 #EXTINF:-1 channel-id="6447dea7e94c380008dba94c" tvg-id="6447dea7e94c380008dba94c" tvg-chno="210" tvg-name="Germany Shore" tvg-logo="https://images.pluto.tv/channels/6447dea7e94c380008dba94c/colorLogoPNG.png" group-title="Reality",Germany Shore
 https://jmp2.uk/plu-6447dea7e94c380008dba94c.m3u8
@@ -307,9 +309,9 @@ https://jmp2.uk/plu-615333098185f00008715a56.m3u8
 https://jmp2.uk/plu-630dd3b2605f140007e002f5.m3u8
 #EXTINF:-1 channel-id="67d984c989788ef7f058b084" tvg-id="67d984c989788ef7f058b084" tvg-chno="242" tvg-name="Profiling Paris" tvg-logo="https://images.pluto.tv/channels/67d984c989788ef7f058b084/colorLogoPNG.png" group-title="Crime",Profiling Paris
 https://jmp2.uk/plu-67d984c989788ef7f058b084.m3u8
-#EXTINF:-1 channel-id="638f2bc7bc363100072f02dd" tvg-id="638f2bc7bc363100072f02dd" tvg-chno="391" tvg-name="Rauchende Colts" tvg-logo="https://images.pluto.tv/channels/638f2bc7bc363100072f02dd/colorLogoPNG.png" group-title="Western",Rauchende Colts
+#EXTINF:-1 channel-id="638f2bc7bc363100072f02dd" tvg-id="638f2bc7bc363100072f02dd" tvg-chno="392" tvg-name="Rauchende Colts" tvg-logo="https://images.pluto.tv/channels/638f2bc7bc363100072f02dd/colorLogoPNG.png" group-title="Western",Rauchende Colts
 https://jmp2.uk/plu-638f2bc7bc363100072f02dd.m3u8
-#EXTINF:-1 channel-id="638f2983dcd9100008c2374d" tvg-id="638f2983dcd9100008c2374d" tvg-chno="392" tvg-name="Rawhide - Tausend Meilen Staub" tvg-logo="https://images.pluto.tv/channels/638f2983dcd9100008c2374d/colorLogoPNG.png" group-title="Western",Rawhide - Tausend Meilen Staub
+#EXTINF:-1 channel-id="638f2983dcd9100008c2374d" tvg-id="638f2983dcd9100008c2374d" tvg-chno="393" tvg-name="Rawhide - Tausend Meilen Staub" tvg-logo="https://images.pluto.tv/channels/638f2983dcd9100008c2374d/colorLogoPNG.png" group-title="Western",Rawhide - Tausend Meilen Staub
 https://jmp2.uk/plu-638f2983dcd9100008c2374d.m3u8
 #EXTINF:-1 channel-id="65f9b2dc0d45610008505eac" tvg-id="65f9b2dc0d45610008505eac" tvg-chno="123" tvg-name="Realmadrid TV" tvg-logo="https://images.pluto.tv/channels/65f9b2dc0d45610008505eac/colorLogoPNG.png" group-title="Sport",Realmadrid TV
 https://jmp2.uk/plu-65f9b2dc0d45610008505eac.m3u8
