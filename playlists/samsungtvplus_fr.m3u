@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/fr.xml.gz"
 #EXTINF:-1 channel-id="FR13000020W" tvg-id="FR13000020W" tvg-chno="4871" tvg-name="100% Cinema" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR13000020W_20250819T032458SQUARE.png" group-title="Cinéma",100% Cinema
 https://jmp2.uk/stvp-FR13000020W
-#EXTINF:-1 channel-id="FRBD39000064E" tvg-id="FRBD39000064E" tvg-chno="4413" tvg-name="100% Docs" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD39000064E_20241015T040149SQUARE.png" group-title="Documentaires",100% Docs
+#EXTINF:-1 channel-id="FRBD39000064E" tvg-id="FRBD39000064E" tvg-chno="4413" tvg-name="100% Docs" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD39000064E_20251118T015629SQUARE.png" group-title="Documentaires",100% Docs
 https://jmp2.uk/stvp-FRBD39000064E
 #EXTINF:-1 channel-id="FR2600001PI" tvg-id="FR2600001PI" tvg-chno="4852" tvg-name="100% Noël - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600001PI_20251028T011452SQUARE.png" group-title="Cinéma",100% Noël - Rakuten TV
 https://jmp2.uk/stvp-FR2600001PI
@@ -13,7 +13,7 @@ https://jmp2.uk/stvp-FRBD5100001ZA
 https://jmp2.uk/stvp-FR1100002RF
 #EXTINF:-1 channel-id="FR600001I2" tvg-id="FR600001I2" tvg-chno="4531" tvg-name="Ailleurs - Destination Luxe" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR600001I2_20250805T005513SQUARE.png" group-title="Voyages et Gastronomie",Ailleurs - Destination Luxe
 https://jmp2.uk/stvp-FR600001I2
-#EXTINF:-1 channel-id="FR23000013B" tvg-id="FR23000013B" tvg-chno="4564" tvg-name="Al Jazeera" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR23000013B_20251111T012039SQUARE.png" group-title="Actualités",Al Jazeera
+#EXTINF:-1 channel-id="FR23000013B" tvg-id="FR23000013B" tvg-chno="4564" tvg-name="Al Jazeera" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR23000013B_20251118T015405SQUARE.png" group-title="Actualités",Al Jazeera
 https://jmp2.uk/stvp-FR23000013B
 #EXTINF:-1 channel-id="FRBC4700002RF" tvg-id="FRBC4700002RF" tvg-chno="4242" tvg-name="Alerte à Malibu" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700002RF_20251028T011415SQUARE.png" group-title="Séries TV",Alerte à Malibu
 https://jmp2.uk/stvp-FRBC4700002RF
@@ -237,7 +237,7 @@ https://jmp2.uk/stvp-FRBD39000039D
 https://jmp2.uk/stvp-FR1800003VF
 #EXTINF:-1 channel-id="FR3400002VW" tvg-id="FR3400002VW" tvg-chno="4571" tvg-name="Sky News International" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3400002VW_20250624T020534SQUARE.png" group-title="Actualités",Sky News International
 https://jmp2.uk/stvp-FR3400002VW
-#EXTINF:-1 channel-id="FR1000001XP" tvg-id="FR1000001XP" tvg-chno="4751" tvg-name="SMTOWN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1000001XP_20250923T065338SQUARE.png" group-title="Musique",SMTOWN
+#EXTINF:-1 channel-id="FR1000001XP" tvg-id="FR1000001XP" tvg-chno="4751" tvg-name="SMTOWN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1000001XP_20251118T015408SQUARE.png" group-title="Musique",SMTOWN
 https://jmp2.uk/stvp-FR1000001XP
 #EXTINF:-1 channel-id="FR3000139Z" tvg-id="FR3000139Z" tvg-chno="4996" tvg-name="Sony One Action HITS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3000139Z_20251111T012031SQUARE.png" group-title="Cinéma",Sony One Action HITS
 https://jmp2.uk/stvp-FR3000139Z
