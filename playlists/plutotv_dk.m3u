@@ -279,6 +279,8 @@ https://jmp2.uk/plu-61c09489197fe600073c0570.m3u8
 https://jmp2.uk/plu-632aff5e44111b00076ad9b1.m3u8
 #EXTINF:-1 channel-id="6319ec31c62c3f00075c90b1" tvg-id="6319ec31c62c3f00075c90b1" tvg-chno="303" tvg-name="NCIS" tvg-logo="https://images.pluto.tv/channels/6319ec31c62c3f00075c90b1/colorLogoPNG.png" group-title="Drama",NCIS
 https://jmp2.uk/plu-6319ec31c62c3f00075c90b1.m3u8
+#EXTINF:-1 channel-id="6901d952ec12c3c759fdc7cd" tvg-id="6901d952ec12c3c759fdc7cd" tvg-chno="1" tvg-name="NCIS: Det bedste med Gibbs" tvg-logo="https://images.pluto.tv/channels/6901d952ec12c3c759fdc7cd/colorLogoPNG_1763121346503.png" group-title="Nyt på Pluto TV",NCIS: Det bedste med Gibbs
+https://jmp2.uk/plu-6901d952ec12c3c759fdc7cd.m3u8
 #EXTINF:-1 channel-id="68921b2f4fa995eff24df6c8" tvg-id="68921b2f4fa995eff24df6c8" tvg-chno="305" tvg-name="NCIS: Det bedste med Tony & Ziva" tvg-logo="https://images.pluto.tv/channels/68921b2f4fa995eff24df6c8/colorLogoPNG_1756105299557.png" group-title="Drama",NCIS: Det bedste med Tony & Ziva
 https://jmp2.uk/plu-68921b2f4fa995eff24df6c8.m3u8
 #EXTINF:-1 channel-id="66fbf4d3d7de140008d41f5b" tvg-id="66fbf4d3d7de140008d41f5b" tvg-chno="304" tvg-name="NCIS: Los Angeles" tvg-logo="https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png" group-title="Drama",NCIS: Los Angeles
@@ -327,10 +329,12 @@ https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8
 https://jmp2.uk/plu-63a1c9790cc44a0007dc8857.m3u8
 #EXTINF:-1 channel-id="61c0974945b45d0007aaa5ac" tvg-id="61c0974945b45d0007aaa5ac" tvg-chno="411" tvg-name="Pluto TV Humor" tvg-logo="https://images.pluto.tv/channels/61c0974945b45d0007aaa5ac/colorLogoPNG.png" group-title="Film",Pluto TV Humor
 https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8
-#EXTINF:-1 channel-id="68dfa431cc3c6cd904053100" tvg-id="68dfa431cc3c6cd904053100" tvg-chno="3" tvg-name="Pluto TV Håndbold Highlights" tvg-logo="https://images.pluto.tv/channels/68dfa431cc3c6cd904053100/colorLogoPNG_1761838112979.png" group-title="Nyt på Pluto TV",Pluto TV Håndbold Highlights
+#EXTINF:-1 channel-id="68dfa431cc3c6cd904053100" tvg-id="68dfa431cc3c6cd904053100" tvg-chno="4" tvg-name="Pluto TV Håndbold Highlights" tvg-logo="https://images.pluto.tv/channels/68dfa431cc3c6cd904053100/colorLogoPNG_1761838112979.png" group-title="Nyt på Pluto TV",Pluto TV Håndbold Highlights
 https://jmp2.uk/plu-68dfa431cc3c6cd904053100.m3u8
 #EXTINF:-1 channel-id="6618f54baec96800081525ec" tvg-id="6618f54baec96800081525ec" tvg-chno="205" tvg-name="Pluto TV Håndbold Live" tvg-logo="https://images.pluto.tv/channels/6618f54baec96800081525ec/colorLogoPNG_1762173655031.png" group-title="Sport",Pluto TV Håndbold Live
 https://jmp2.uk/plu-6618f54baec96800081525ec.m3u8
+#EXTINF:-1 channel-id="62cd738010bb02000700521f" tvg-id="62cd738010bb02000700521f" tvg-chno="69" tvg-name="Pluto TV Julehygge" tvg-logo="https://images.pluto.tv/channels/62cd738010bb02000700521f/colorLogoPNG_1763711833847.png" group-title="Julen er nær",Pluto TV Julehygge
+https://jmp2.uk/plu-62cd738010bb02000700521f.m3u8
 #EXTINF:-1 channel-id="61c09a78bd194c0008decc28" tvg-id="61c09a78bd194c0008decc28" tvg-chno="1003" tvg-name="Pluto TV Juniorklubben" tvg-logo="https://images.pluto.tv/channels/61c09a78bd194c0008decc28/colorLogoPNG_1748329348443.png" group-title="For børn",Pluto TV Juniorklubben
 https://jmp2.uk/plu-61c09a78bd194c0008decc28.m3u8
 #EXTINF:-1 channel-id="67f508992ebe80e2929b5c98" tvg-id="67f508992ebe80e2929b5c98" tvg-chno="1005" tvg-name="Pluto TV Klassiske tegnefilm" tvg-logo="https://images.pluto.tv/channels/67f508992ebe80e2929b5c98/colorLogoPNG_1748955041610.png" group-title="For børn",Pluto TV Klassiske tegnefilm
@@ -425,6 +429,8 @@ https://jmp2.uk/plu-63c96203636b7e0007d35090.m3u8
 https://jmp2.uk/plu-66b229b0d2d50d00083990b2.m3u8
 #EXTINF:-1 channel-id="65c096d23ba51e0008305a75" tvg-id="65c096d23ba51e0008305a75" tvg-chno="827" tvg-name="The Daily Show" tvg-logo="https://images.pluto.tv/channels/65c096d23ba51e0008305a75/colorLogoPNG.png" group-title="Talkshow",The Daily Show
 https://jmp2.uk/plu-65c096d23ba51e0008305a75.m3u8
+#EXTINF:-1 channel-id="6915dd5ca570568f53431c7f" tvg-id="6915dd5ca570568f53431c7f" tvg-chno="3" tvg-name="The Graham Norton Show" tvg-logo="https://images.pluto.tv/channels/6915dd5ca570568f53431c7f/colorLogoPNG_1763041361750.png" group-title="Nyt på Pluto TV",The Graham Norton Show
+https://jmp2.uk/plu-6915dd5ca570568f53431c7f.m3u8
 #EXTINF:-1 channel-id="664f11148ea5560008ce4a3a" tvg-id="664f11148ea5560008ce4a3a" tvg-chno="68" tvg-name="The Great Christmas Light Fight" tvg-logo="https://images.pluto.tv/channels/664f11148ea5560008ce4a3a/colorLogoPNG.png" group-title="Julen er nær",The Great Christmas Light Fight
 https://jmp2.uk/plu-664f11148ea5560008ce4a3a.m3u8
 #EXTINF:-1 channel-id="61c09039ebd75200072587f9" tvg-id="61c09039ebd75200072587f9" tvg-chno="521" tvg-name="The Hills" tvg-logo="https://images.pluto.tv/channels/61c09039ebd75200072587f9/colorLogoPNG.png" group-title="Det bedste fra MTV",The Hills
