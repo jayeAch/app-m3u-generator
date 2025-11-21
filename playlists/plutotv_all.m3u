@@ -2527,6 +2527,8 @@ https://jmp2.uk/plu-6578878132c1b300089aa005.m3u8
 https://jmp2.uk/plu-6578812b12d5ee000884c5c6.m3u8
 #EXTINF:-1 channel-id="65775d29dfed030008cb3db2-us" tvg-id="65775d29dfed030008cb3db2" tvg-chno="3100" tvg-name="Modern Marvels Presented by HISTORY" tvg-logo="https://images.pluto.tv/channels/65775d29dfed030008cb3db2/colorLogoPNG.png" group-title="United States",Modern Marvels Presented by HISTORY
 https://jmp2.uk/plu-65775d29dfed030008cb3db2.m3u8
+#EXTINF:-1 channel-id="690d0a3a1187b68782e27beb-us" tvg-id="690d0a3a1187b68782e27beb" tvg-chno="2945" tvg-name="MODUS Super Series Darts" tvg-logo="https://images.pluto.tv/channels/690d0a3a1187b68782e27beb/colorLogoPNG_1763658709514.png" group-title="United States",MODUS Super Series Darts
+https://jmp2.uk/plu-690d0a3a1187b68782e27beb.m3u8
 #EXTINF:-1 channel-id="67063e78b2ffb10008195d08-gb" tvg-id="67063e78b2ffb10008195d08" tvg-chno="21" tvg-name="MODUS Super Series Darts" tvg-logo="https://images.pluto.tv/channels/67063e78b2ffb10008195d08/colorLogoPNG.png" group-title="United Kingdom",MODUS Super Series Darts
 https://jmp2.uk/plu-67063e78b2ffb10008195d08.m3u8
 #EXTINF:-1 channel-id="67164414e40c4a00087f450d-es" tvg-id="67164414e40c4a00087f450d" tvg-chno="551" tvg-name="MODUS Super Series Darts" tvg-logo="https://images.pluto.tv/channels/67164414e40c4a00087f450d/colorLogoPNG_1732095042151.png" group-title="Spain",MODUS Super Series Darts
@@ -2719,6 +2721,8 @@ https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
 https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
 #EXTINF:-1 channel-id="627d3176d7dfa500077042f1-es" tvg-id="627d3176d7dfa500077042f1" tvg-chno="653" tvg-name="MTV Geordies" tvg-logo="https://images.pluto.tv/channels/627d3176d7dfa500077042f1/colorLogoPNG.png" group-title="Spain",MTV Geordies
 https://jmp2.uk/plu-627d3176d7dfa500077042f1.m3u8
+#EXTINF:-1 channel-id="5f984fdc470d460007a67094-es" tvg-id="5f984fdc470d460007a67094" tvg-chno="21" tvg-name="MTV Hits Navidad" tvg-logo="https://images.pluto.tv/channels/5f984fdc470d460007a67094/colorLogoPNG.png" group-title="Spain",MTV Hits Navidad
+https://jmp2.uk/plu-5f984fdc470d460007a67094.m3u8
 #EXTINF:-1 channel-id="62ac3d7dc23b400008ae5b5a-es" tvg-id="62ac3d7dc23b400008ae5b5a" tvg-chno="651" tvg-name="MTV Jerseys" tvg-logo="https://images.pluto.tv/channels/62ac3d7dc23b400008ae5b5a/colorLogoPNG.png" group-title="Spain",MTV Jerseys
 https://jmp2.uk/plu-62ac3d7dc23b400008ae5b5a.m3u8
 #EXTINF:-1 channel-id="620fdc7d8a36fc000710e3ba-br" tvg-id="620fdc7d8a36fc000710e3ba" tvg-chno="395" tvg-name="MTV Jovens e Mães" tvg-logo="https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png" group-title="Brazil",MTV Jovens e Mães
@@ -4177,7 +4181,7 @@ https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
 https://jmp2.uk/plu-67ebbe32f7c5d70b903676ea.m3u8
 #EXTINF:-1 channel-id="655b7cbb2c46f300086f0afa-gb" tvg-id="655b7cbb2c46f300086f0afa" tvg-chno="20" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/655b7cbb2c46f300086f0afa/colorLogoPNG_1759435114417.png" group-title="United Kingdom",Pluto TV Snooker 900
 https://jmp2.uk/plu-655b7cbb2c46f300086f0afa.m3u8
-#EXTINF:-1 channel-id="69148c470155f9b136b5d856-es" tvg-id="69148c470155f9b136b5d856" tvg-chno="21" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/69148c470155f9b136b5d856/colorLogoPNG_1763054842514.png" group-title="Spain",Pluto TV Snooker 900
+#EXTINF:-1 channel-id="69148c470155f9b136b5d856-es" tvg-id="69148c470155f9b136b5d856" tvg-chno="22" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/69148c470155f9b136b5d856/colorLogoPNG_1763054842514.png" group-title="Spain",Pluto TV Snooker 900
 https://jmp2.uk/plu-69148c470155f9b136b5d856.m3u8
 #EXTINF:-1 channel-id="639b4f75d3d35c0007d37b30-ca" tvg-id="639b4f75d3d35c0007d37b30" tvg-chno="702" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/639b4f75d3d35c0007d37b30/colorLogoPNG_1759333260607.png" group-title="Canada",Pluto TV Snooker 900
 https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8
