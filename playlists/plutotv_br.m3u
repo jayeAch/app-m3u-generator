@@ -63,7 +63,7 @@ https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8
 https://jmp2.uk/plu-66997e8d3a4ad20008e50be9.m3u8
 #EXTINF:-1 channel-id="633dcebd80386500074a2461" tvg-id="633dcebd80386500074a2461" tvg-chno="84" tvg-name="Filmelier TV" tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="Filmes",Filmelier TV
 https://jmp2.uk/plu-633dcebd80386500074a2461.m3u8
-#EXTINF:-1 channel-id="5f171d3442a0500007362f22" tvg-id="5f171d3442a0500007362f22" tvg-chno="30" tvg-name="Filmes Suspense" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="Filmes",Filmes Suspense
+#EXTINF:-1 channel-id="5f171d3442a0500007362f22" tvg-id="5f171d3442a0500007362f22" tvg-chno="30" tvg-name="Filmes Suspense" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="Explosão de Cinema",Filmes Suspense
 https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
 #EXTINF:-1 channel-id="67603668f433320008760af1" tvg-id="67603668f433320008760af1" tvg-chno="1181" tvg-name="Homeful" tvg-logo="https://images.pluto.tv/channels/67603668f433320008760af1/colorLogoPNG.png" group-title="Estilo de Vida",Homeful
 https://jmp2.uk/plu-67603668f433320008760af1.m3u8
@@ -175,9 +175,9 @@ https://jmp2.uk/plu-663b9dc7cb3ea10008f1a0ce.m3u8
 https://jmp2.uk/plu-64b9370b409629000802d32b.m3u8
 #EXTINF:-1 channel-id="5fa1612a669ba0000702017b" tvg-id="5fa1612a669ba0000702017b" tvg-chno="55" tvg-name="Pluto TV Cine Clássicos" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG_1733440556804.png" group-title="Filmes",Pluto TV Cine Clássicos
 https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8
-#EXTINF:-1 channel-id="5f12101f0b12f00007844c7c" tvg-id="5f12101f0b12f00007844c7c" tvg-chno="42" tvg-name="Pluto TV Cine Comédia" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG_1732662798298.png" group-title="Explosão de Cinema",Pluto TV Cine Comédia
+#EXTINF:-1 channel-id="5f12101f0b12f00007844c7c" tvg-id="5f12101f0b12f00007844c7c" tvg-chno="42" tvg-name="Pluto TV Cine Comédia" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG_1732662798298.png" group-title="Filmes",Pluto TV Cine Comédia
 https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
-#EXTINF:-1 channel-id="62545ed3dab4380007582f7c" tvg-id="62545ed3dab4380007582f7c" tvg-chno="46" tvg-name="Pluto TV Cine Comédia Romântica" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="Filmes",Pluto TV Cine Comédia Romântica
+#EXTINF:-1 channel-id="62545ed3dab4380007582f7c" tvg-id="62545ed3dab4380007582f7c" tvg-chno="46" tvg-name="Pluto TV Cine Comédia Romântica" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="Explosão de Cinema",Pluto TV Cine Comédia Romântica
 https://jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8
 #EXTINF:-1 channel-id="6479ff764f5ba5000878dfe2" tvg-id="6479ff764f5ba5000878dfe2" tvg-chno="38" tvg-name="Pluto TV Cine Crime" tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" group-title="Filmes",Pluto TV Cine Crime
 https://jmp2.uk/plu-6479ff764f5ba5000878dfe2.m3u8
@@ -193,7 +193,7 @@ https://jmp2.uk/plu-5f8a11ce2a4559000782a583.m3u8
 https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8
 #EXTINF:-1 channel-id="5f120e94a5714d00074576a1" tvg-id="5f120e94a5714d00074576a1" tvg-chno="18" tvg-name="Pluto TV Cine Sucessos" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Explosão de Cinema",Pluto TV Cine Sucessos
 https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
-#EXTINF:-1 channel-id="5f12111c9e6c2c00078ef3bb" tvg-id="5f12111c9e6c2c00078ef3bb" tvg-chno="26" tvg-name="Pluto TV Cine Terror" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="Explosão de Cinema",Pluto TV Cine Terror
+#EXTINF:-1 channel-id="5f12111c9e6c2c00078ef3bb" tvg-id="5f12111c9e6c2c00078ef3bb" tvg-chno="26" tvg-name="Pluto TV Cine Terror" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="Filmes",Pluto TV Cine Terror
 https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
 #EXTINF:-1 channel-id="5f1ef23020a5ac0007e5e8ea" tvg-id="5f1ef23020a5ac0007e5e8ea" tvg-chno="1199" tvg-name="Pluto TV Cozinha" tvg-logo="https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png" group-title="Estilo de Vida",Pluto TV Cozinha
 https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8
