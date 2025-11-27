@@ -127,7 +127,7 @@ https://jmp2.uk/plu-6793ea255225b515b4ba91a7.m3u8
 https://jmp2.uk/plu-622f6e1e2792150007e0b2ff.m3u8
 #EXTINF:-1 channel-id="6618e3037bcd8600089b62a8-fr" tvg-id="6618e3037bcd8600089b62a8" tvg-chno="840" tvg-name="Allociné" tvg-logo="https://images.pluto.tv/channels/6618e3037bcd8600089b62a8/colorLogoPNG.png" group-title="France",Allociné
 https://jmp2.uk/plu-6618e3037bcd8600089b62a8.m3u8
-#EXTINF:-1 channel-id="691cf0410a78a9ce61ad2121-us" tvg-id="691cf0410a78a9ce61ad2121" tvg-chno="385" tvg-name="America's Funniest Home Videos: Holiday Edition" tvg-logo="https://images.pluto.tv/channels/691cf0410a78a9ce61ad2121/colorLogoPNG_1764003775041.png" group-title="United States",America's Funniest Home Videos: Holiday Edition
+#EXTINF:-1 channel-id="691cf0410a78a9ce61ad2121-us" tvg-id="691cf0410a78a9ce61ad2121" tvg-chno="385" tvg-name="America's Funniest Home Videos: Holiday Edition" tvg-logo="https://images.pluto.tv/channels/691cf0410a78a9ce61ad2121/colorLogoPNG-1764176949336.png" group-title="United States",America's Funniest Home Videos: Holiday Edition
 https://jmp2.uk/plu-691cf0410a78a9ce61ad2121.m3u8
 #EXTINF:-1 channel-id="690dc8ed1ee9b6ac66607ce2-gb" tvg-id="690dc8ed1ee9b6ac66607ce2" tvg-chno="1" tvg-name="America's Funniest Home Videos: Holiday Edition" tvg-logo="https://images.pluto.tv/channels/690dc8ed1ee9b6ac66607ce2/colorLogoPNG_1764062029871.png" group-title="United Kingdom",America's Funniest Home Videos: Holiday Edition
 https://jmp2.uk/plu-690dc8ed1ee9b6ac66607ce2.m3u8
@@ -3833,8 +3833,6 @@ https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8
 https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8
 #EXTINF:-1 channel-id="5dcde27ffae9520009c0c75a-ar" tvg-id="5dcde27ffae9520009c0c75a" tvg-chno="578" tvg-name="Pluto TV Investiga" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png" group-title="Argentina",Pluto TV Investiga
 https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8
-#EXTINF:-1 channel-id="63808dc806aa4700075f319a-gb" tvg-id="63808dc806aa4700075f319a" tvg-chno="351" tvg-name="Pluto TV Investigation" tvg-logo="https://images.pluto.tv/channels/63808dc806aa4700075f319a/colorLogoPNG.png" group-title="United Kingdom",Pluto TV Investigation
-https://jmp2.uk/plu-63808dc806aa4700075f319a.m3u8
 #EXTINF:-1 channel-id="5f32cf37c9ff2b00082adbc8-br" tvg-id="5f32cf37c9ff2b00082adbc8" tvg-chno="578" tvg-name="Pluto TV Investigação" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="Brazil",Pluto TV Investigação
 https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
 #EXTINF:-1 channel-id="68de92aefae18f8db6067af4-se" tvg-id="68de92aefae18f8db6067af4" tvg-chno="32" tvg-name="Pluto TV Jul" tvg-logo="https://images.pluto.tv/channels/68de92aefae18f8db6067af4/colorLogoPNG_1762529489550.png" group-title="Sweden",Pluto TV Jul
