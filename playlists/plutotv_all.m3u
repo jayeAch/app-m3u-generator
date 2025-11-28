@@ -3641,9 +3641,11 @@ https://jmp2.uk/plu-682318568e6c0f2f6c6e0038.m3u8
 https://jmp2.uk/plu-68de9223fae18f8db6066285.m3u8
 #EXTINF:-1 channel-id="68ef56ada362b63a8dcb5bd9-no" tvg-id="68ef56ada362b63a8dcb5bd9" tvg-chno="22" tvg-name="Pluto TV De beste julespesialene" tvg-logo="https://images.pluto.tv/channels/68ef56ada362b63a8dcb5bd9/colorLogoPNG_1762554617819.png" group-title="Norway",Pluto TV De beste julespesialene
 https://jmp2.uk/plu-68ef56ada362b63a8dcb5bd9.m3u8
-#EXTINF:-1 channel-id="5dcde07af1c85b0009b18651-mx" tvg-id="5dcde07af1c85b0009b18651" tvg-chno="827" tvg-name="Pluto TV Deportes" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="Mexico",Pluto TV Deportes
+#EXTINF:-1 channel-id="5dcde07af1c85b0009b18651-mx" tvg-id="5dcde07af1c85b0009b18651" tvg-chno="827" tvg-name="Pluto TV Deportes" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG_1764267004165.png" group-title="Mexico",Pluto TV Deportes
 https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
-#EXTINF:-1 channel-id="5dcde07af1c85b0009b18651-ar" tvg-id="5dcde07af1c85b0009b18651" tvg-chno="827" tvg-name="Pluto TV Deportes" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="Argentina",Pluto TV Deportes
+#EXTINF:-1 channel-id="5dcde07af1c85b0009b18651-cl" tvg-id="5dcde07af1c85b0009b18651" tvg-chno="827" tvg-name="Pluto TV Deportes" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG_1764267004165.png" group-title="Chile",Pluto TV Deportes
+https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
+#EXTINF:-1 channel-id="5dcde07af1c85b0009b18651-ar" tvg-id="5dcde07af1c85b0009b18651" tvg-chno="827" tvg-name="Pluto TV Deportes" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG_1764267004165.png" group-title="Argentina",Pluto TV Deportes
 https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
 #EXTINF:-1 channel-id="655e5c4d2c46f3000877a54b-br" tvg-id="655e5c4d2c46f3000877a54b" tvg-chno="265" tvg-name="Pluto TV Desenhos Clássicos" tvg-logo="https://images.pluto.tv/channels/655e5c4d2c46f3000877a54b/colorLogoPNG.png" group-title="Brazil",Pluto TV Desenhos Clássicos
 https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8
