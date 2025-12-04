@@ -229,6 +229,8 @@ https://jmp2.uk/stvp-IT1600005VM
 https://jmp2.uk/stvp-ITBD2300001MT
 #EXTINF:-1 channel-id="IT900007I0" tvg-id="IT900007I0" tvg-chno="4069" tvg-name="Real time" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900007I0_20250408T021507SQUARE.png" group-title="Intrattenimento",Real time
 https://jmp2.uk/stvp-IT900007I0
+#EXTINF:-1 channel-id="IT38000070T" tvg-id="IT38000070T" tvg-chno="4609" tvg-name="Red Bull TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT38000070T_20251202T002728SQUARE.png" group-title="Sport",Red Bull TV
+https://jmp2.uk/stvp-IT38000070T
 #EXTINF:-1 channel-id="ITBD3200006F0" tvg-id="ITBD3200006F0" tvg-chno="4249" tvg-name="Relic Hunter" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200006F0_20250527T014845SQUARE.png" group-title="Serie TV",Relic Hunter
 https://jmp2.uk/stvp-ITBD3200006F0
 #EXTINF:-1 channel-id="ITBD140000119" tvg-id="ITBD140000119" tvg-chno="4909" tvg-name="Risate Cult '80" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD140000119_20250902T003827SQUARE.png" group-title="Film",Risate Cult '80
@@ -273,6 +275,8 @@ https://jmp2.uk/stvp-ITBA2200010O1
 https://jmp2.uk/stvp-ITBA3300022EA
 #EXTINF:-1 channel-id="IT3800005HI" tvg-id="IT3800005HI" tvg-chno="4292" tvg-name="Squadra Speciale" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800005HI_20251118T015503SQUARE.png" group-title="Crime",Squadra Speciale
 https://jmp2.uk/stvp-IT3800005HI
+#EXTINF:-1 channel-id="IT4500001L4" tvg-id="IT4500001L4" tvg-chno="4307" tvg-name="Squadra Speciale Cobra 11" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4500001L4_20251202T002731SQUARE.png" group-title="Crime",Squadra Speciale Cobra 11
+https://jmp2.uk/stvp-IT4500001L4
 #EXTINF:-1 channel-id="IT1200001Q8" tvg-id="IT1200001Q8" tvg-chno="4299" tvg-name="Storie Criminali" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1200001Q8_20241022T043854SQUARE.png" group-title="Crime",Storie Criminali
 https://jmp2.uk/stvp-IT1200001Q8
 #EXTINF:-1 channel-id="ITAJ3800002PN" tvg-id="ITAJ3800002PN" tvg-chno="4832" tvg-name="Super! iCarly" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ3800002PN_20241022T043618SQUARE.png" group-title="Bambini",Super! iCarly

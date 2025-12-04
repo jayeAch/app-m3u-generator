@@ -2791,7 +2791,7 @@ https://jmp2.uk/plu-66e1e05a15d2c60008e4b2db.m3u8
 https://jmp2.uk/plu-66e1e05a15d2c60008e4b2db.m3u8
 #EXTINF:-1 channel-id="66e1e05a15d2c60008e4b2db-ar" tvg-id="66e1e05a15d2c60008e4b2db" tvg-chno="98" tvg-name="MTV Música Navideña" tvg-logo="https://images.pluto.tv/channels/66e1e05a15d2c60008e4b2db/colorLogoPNG.png" group-title="Argentina",MTV Música Navideña
 https://jmp2.uk/plu-66e1e05a15d2c60008e4b2db.m3u8
-#EXTINF:-1 channel-id="66e1e2d515d2c60008e4b690-br" tvg-id="66e1e2d515d2c60008e4b690" tvg-chno="98" tvg-name="MTV Músicas de Natal" tvg-logo="https://images.pluto.tv/channels/66e1e2d515d2c60008e4b690/colorLogoPNG.png" group-title="Brazil",MTV Músicas de Natal
+#EXTINF:-1 channel-id="66e1e2d515d2c60008e4b690-br" tvg-id="66e1e2d515d2c60008e4b690" tvg-chno="98" tvg-name="MTV Músicas de Natal" tvg-logo="https://images.pluto.tv/channels/66e1e2d515d2c60008e4b690/colorLogoPNG_1764802592993.png" group-title="Brazil",MTV Músicas de Natal
 https://jmp2.uk/plu-66e1e2d515d2c60008e4b690.m3u8
 #EXTINF:-1 channel-id="65d372bba25d5e000823598e-de" tvg-id="65d372bba25d5e000823598e" tvg-chno="500" tvg-name="MTV on Tour!" tvg-logo="https://images.pluto.tv/channels/65d372bba25d5e000823598e/colorLogoPNG.png" group-title="Germany",MTV on Tour!
 https://jmp2.uk/plu-65d372bba25d5e000823598e.m3u8
@@ -3871,6 +3871,8 @@ https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8
 https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8
 #EXTINF:-1 channel-id="5dcde27ffae9520009c0c75a-ar" tvg-id="5dcde27ffae9520009c0c75a" tvg-chno="578" tvg-name="Pluto TV Investiga" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png" group-title="Argentina",Pluto TV Investiga
 https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8
+#EXTINF:-1 channel-id="63808dc806aa4700075f319a-gb" tvg-id="63808dc806aa4700075f319a" tvg-chno="351" tvg-name="Pluto TV Investigation" tvg-logo="https://images.pluto.tv/channels/63808dc806aa4700075f319a/colorLogoPNG.png" group-title="United Kingdom",Pluto TV Investigation
+https://jmp2.uk/plu-63808dc806aa4700075f319a.m3u8
 #EXTINF:-1 channel-id="5f32cf37c9ff2b00082adbc8-br" tvg-id="5f32cf37c9ff2b00082adbc8" tvg-chno="578" tvg-name="Pluto TV Investigação" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="Brazil",Pluto TV Investigação
 https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
 #EXTINF:-1 channel-id="655ca99dfbc15b00081f209c-no" tvg-id="655ca99dfbc15b00081f209c" tvg-chno="10" tvg-name="Pluto TV John Wayne" tvg-logo="https://images.pluto.tv/channels/655ca99dfbc15b00081f209c/colorLogoPNG.png" group-title="Norway",Pluto TV John Wayne
