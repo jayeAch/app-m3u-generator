@@ -171,7 +171,7 @@ https://jmp2.uk/plu-615c1e5ce3039400070a0547.m3u8
 https://jmp2.uk/plu-65a67d572fac9c000835eb3a.m3u8
 #EXTINF:-1 channel-id="5db6a697d5f34a000934cd13" tvg-id="5db6a697d5f34a000934cd13" tvg-chno="204" tvg-name="MTV Catfish TV Show" tvg-logo="https://images.pluto.tv/channels/5db6a697d5f34a000934cd13/colorLogoPNG.png" group-title="Reality",MTV Catfish TV Show
 https://jmp2.uk/plu-5db6a697d5f34a000934cd13.m3u8
-#EXTINF:-1 channel-id="5ce40f8aa43c46795e36e8a5" tvg-id="5ce40f8aa43c46795e36e8a5" tvg-chno="23" tvg-name="MTV Christmas Songs" tvg-logo="https://images.pluto.tv/channels/5ce40f8aa43c46795e36e8a5/colorLogoPNG.png" group-title="Epische Weihnachten",MTV Christmas Songs
+#EXTINF:-1 channel-id="5ce40f8aa43c46795e36e8a5" tvg-id="5ce40f8aa43c46795e36e8a5" tvg-chno="24" tvg-name="MTV Christmas Songs" tvg-logo="https://images.pluto.tv/channels/5ce40f8aa43c46795e36e8a5/colorLogoPNG.png" group-title="Epische Weihnachten",MTV Christmas Songs
 https://jmp2.uk/plu-5ce40f8aa43c46795e36e8a5.m3u8
 #EXTINF:-1 channel-id="6697672f3a4ad20008deff80" tvg-id="6697672f3a4ad20008deff80" tvg-chno="501" tvg-name="MTV Classic" tvg-logo="https://images.pluto.tv/channels/6697672f3a4ad20008deff80/colorLogoPNG.png" group-title="Musik",MTV Classic
 https://jmp2.uk/plu-6697672f3a4ad20008deff80.m3u8
@@ -225,7 +225,7 @@ https://jmp2.uk/plu-608181d420fc8500075f612a.m3u8
 https://jmp2.uk/plu-67fe495d9ebfe4142424b7a7.m3u8
 #EXTINF:-1 channel-id="677e5a3d7bffa6000808dbf2" tvg-id="677e5a3d7bffa6000808dbf2" tvg-chno="178" tvg-name="Pluto TV Britische Serien" tvg-logo="https://images.pluto.tv/channels/677e5a3d7bffa6000808dbf2/colorLogoPNG.png" group-title="Serien-Marathon",Pluto TV Britische Serien
 https://jmp2.uk/plu-677e5a3d7bffa6000808dbf2.m3u8
-#EXTINF:-1 channel-id="5dc29179c928a600093a7747" tvg-id="5dc29179c928a600093a7747" tvg-chno="21" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/5dc29179c928a600093a7747/colorLogoPNG.png" group-title="Epische Weihnachten",Pluto TV Christmas
+#EXTINF:-1 channel-id="5dc29179c928a600093a7747" tvg-id="5dc29179c928a600093a7747" tvg-chno="22" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/5dc29179c928a600093a7747/colorLogoPNG.png" group-title="Epische Weihnachten",Pluto TV Christmas
 https://jmp2.uk/plu-5dc29179c928a600093a7747.m3u8
 #EXTINF:-1 channel-id="67ff7d487fc25e0e72450adf" tvg-id="67ff7d487fc25e0e72450adf" tvg-chno="327" tvg-name="Pluto TV Creature Features" tvg-logo="https://images.pluto.tv/channels/67ff7d487fc25e0e72450adf/colorLogoPNG_1753686612671.png" group-title="Horror & Paranormal",Pluto TV Creature Features
 https://jmp2.uk/plu-67ff7d487fc25e0e72450adf.m3u8
@@ -241,7 +241,7 @@ https://jmp2.uk/plu-68b176c2a4841127a8ed1ade.m3u8
 https://jmp2.uk/plu-5ad9b8551b95267e225e59c1.m3u8
 #EXTINF:-1 channel-id="68245366b19ce6d4a30b7687" tvg-id="68245366b19ce6d4a30b7687" tvg-chno="232" tvg-name="Pluto TV Femme Fatale" tvg-logo="https://images.pluto.tv/channels/68245366b19ce6d4a30b7687/colorLogoPNG_1756144251078.png" group-title="Crime",Pluto TV Femme Fatale
 https://jmp2.uk/plu-68245366b19ce6d4a30b7687.m3u8
-#EXTINF:-1 channel-id="5be1c0d81843b56328bc3fba" tvg-id="5be1c0d81843b56328bc3fba" tvg-chno="24" tvg-name="Pluto TV Fireplace" tvg-logo="https://images.pluto.tv/channels/5be1c0d81843b56328bc3fba/colorLogoPNG.png" group-title="Epische Weihnachten",Pluto TV Fireplace
+#EXTINF:-1 channel-id="5be1c0d81843b56328bc3fba" tvg-id="5be1c0d81843b56328bc3fba" tvg-chno="25" tvg-name="Pluto TV Fireplace" tvg-logo="https://images.pluto.tv/channels/5be1c0d81843b56328bc3fba/colorLogoPNG.png" group-title="Epische Weihnachten",Pluto TV Fireplace
 https://jmp2.uk/plu-5be1c0d81843b56328bc3fba.m3u8
 #EXTINF:-1 channel-id="5dc280c9aa218c0009724b4b" tvg-id="5dc280c9aa218c0009724b4b" tvg-chno="290" tvg-name="Pluto TV Food" tvg-logo="https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG.png" group-title="Dokus + Wissen",Pluto TV Food
 https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8
@@ -261,7 +261,9 @@ https://jmp2.uk/plu-67ff7d9c7fc25e0e72451bc9.m3u8
 https://jmp2.uk/plu-66337de656fc840008ff7a65.m3u8
 #EXTINF:-1 channel-id="5dde47b63585b500099f74ec" tvg-id="5dde47b63585b500099f74ec" tvg-chno="453" tvg-name="Pluto TV Kultfilme" tvg-logo="https://images.pluto.tv/channels/5dde47b63585b500099f74ec/colorLogoPNG.png" group-title="Filme",Pluto TV Kultfilme
 https://jmp2.uk/plu-5dde47b63585b500099f74ec.m3u8
-#EXTINF:-1 channel-id="5d767a76367b89cf0032550d" tvg-id="5d767a76367b89cf0032550d" tvg-chno="22" tvg-name="Pluto TV Mistletoe" tvg-logo="https://images.pluto.tv/channels/5d767a76367b89cf0032550d/colorLogoPNG_1761128648314.png" group-title="Epische Weihnachten",Pluto TV Mistletoe
+#EXTINF:-1 channel-id="6908950b8643dc1657e33fdd" tvg-id="6908950b8643dc1657e33fdd" tvg-chno="20" tvg-name="Pluto TV Magische Geschichten" tvg-logo="https://images.pluto.tv/channels/6908950b8643dc1657e33fdd/colorLogoPNG_1764575755540.png" group-title="Epische Weihnachten",Pluto TV Magische Geschichten
+https://jmp2.uk/plu-6908950b8643dc1657e33fdd.m3u8
+#EXTINF:-1 channel-id="5d767a76367b89cf0032550d" tvg-id="5d767a76367b89cf0032550d" tvg-chno="23" tvg-name="Pluto TV Mistletoe" tvg-logo="https://images.pluto.tv/channels/5d767a76367b89cf0032550d/colorLogoPNG_1761128648314.png" group-title="Epische Weihnachten",Pluto TV Mistletoe
 https://jmp2.uk/plu-5d767a76367b89cf0032550d.m3u8
 #EXTINF:-1 channel-id="5c5c3b948002db3c3e0b262e" tvg-id="5c5c3b948002db3c3e0b262e" tvg-chno="452" tvg-name="Pluto TV Movies" tvg-logo="https://images.pluto.tv/channels/5c5c3b948002db3c3e0b262e/colorLogoPNG.png" group-title="Filme",Pluto TV Movies
 https://jmp2.uk/plu-5c5c3b948002db3c3e0b262e.m3u8
@@ -339,8 +341,6 @@ https://jmp2.uk/plu-66c6fb43489bab0008b6f7cd.m3u8
 https://jmp2.uk/plu-646b14a0e94c3800082a8d3a.m3u8
 #EXTINF:-1 channel-id="646b14747cb4b1000875724d" tvg-id="646b14747cb4b1000875724d" tvg-chno="352" tvg-name="South Park: Cartman Collection" tvg-logo="https://images.pluto.tv/channels/646b14747cb4b1000875724d/colorLogoPNG.png" group-title="South Park",South Park: Cartman Collection
 https://jmp2.uk/plu-646b14747cb4b1000875724d.m3u8
-#EXTINF:-1 channel-id="64ecc21744fe100009d274eb" tvg-id="64ecc21744fe100009d274eb" tvg-chno="350" tvg-name="South Park: Halloween" tvg-logo="https://images.pluto.tv/channels/64ecc21744fe100009d274eb/colorLogoPNG.png" group-title="South Park",South Park: Halloween
-https://jmp2.uk/plu-64ecc21744fe100009d274eb.m3u8
 #EXTINF:-1 channel-id="646b1404ee6a2f00082b5d66" tvg-id="646b1404ee6a2f00082b5d66" tvg-chno="353" tvg-name="South Park: Kenny Collection" tvg-logo="https://images.pluto.tv/channels/646b1404ee6a2f00082b5d66/colorLogoPNG.png" group-title="South Park",South Park: Kenny Collection
 https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8
 #EXTINF:-1 channel-id="646b14d0e1979c0008915a09" tvg-id="646b14d0e1979c0008915a09" tvg-chno="356" tvg-name="South Park: Kyle Collection" tvg-logo="https://images.pluto.tv/channels/646b14d0e1979c0008915a09/colorLogoPNG.png" group-title="South Park",South Park: Kyle Collection
@@ -393,7 +393,7 @@ https://jmp2.uk/plu-650adc3198020f000862eed4.m3u8
 https://jmp2.uk/plu-650adb92a1217e00091a3eff.m3u8
 #EXTINF:-1 channel-id="5e8b5e43f294f8000793c3d7" tvg-id="5e8b5e43f294f8000793c3d7" tvg-chno="475" tvg-name="Victorious" tvg-logo="https://images.pluto.tv/channels/5e8b5e43f294f8000793c3d7/colorLogoPNG.png" group-title="Kids",Victorious
 https://jmp2.uk/plu-5e8b5e43f294f8000793c3d7.m3u8
-#EXTINF:-1 channel-id="684ac14b5965a2fd49583311" tvg-id="684ac14b5965a2fd49583311" tvg-chno="20" tvg-name="Weihnachtskino" tvg-logo="https://images.pluto.tv/channels/684ac14b5965a2fd49583311/colorLogoPNG_1757587715183.png" group-title="Epische Weihnachten",Weihnachtskino
+#EXTINF:-1 channel-id="684ac14b5965a2fd49583311" tvg-id="684ac14b5965a2fd49583311" tvg-chno="21" tvg-name="Weihnachtskino" tvg-logo="https://images.pluto.tv/channels/684ac14b5965a2fd49583311/colorLogoPNG_1757587715183.png" group-title="Epische Weihnachten",Weihnachtskino
 https://jmp2.uk/plu-684ac14b5965a2fd49583311.m3u8
 #EXTINF:-1 channel-id="67ebc104f7c5d70b90368360" tvg-id="67ebc104f7c5d70b90368360" tvg-chno="246" tvg-name="Wentworth" tvg-logo="https://images.pluto.tv/channels/67ebc104f7c5d70b90368360/colorLogoPNG_1745819139539.png" group-title="Crime",Wentworth
 https://jmp2.uk/plu-67ebc104f7c5d70b90368360.m3u8
