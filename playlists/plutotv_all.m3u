@@ -1373,7 +1373,7 @@ https://jmp2.uk/plu-5f4d3d06fb60d8000781fce8.m3u8
 https://jmp2.uk/plu-5f4d3d06fb60d8000781fce8.m3u8
 #EXTINF:-1 channel-id="691d1200c2185a44642f5e7c-us" tvg-id="691d1200c2185a44642f5e7c" tvg-chno="2055" tvg-name="El Rey Rebel" tvg-logo="https://images.pluto.tv/channels/691d1200c2185a44642f5e7c/colorLogoPNG_1764783865457.png" group-title="United States",El Rey Rebel
 https://jmp2.uk/plu-691d1200c2185a44642f5e7c.m3u8
-#EXTINF:-1 channel-id="654c955683595c00081d9d87-it" tvg-id="654c955683595c00081d9d87" tvg-chno="50" tvg-name="Elisa di Rivombrosa" tvg-logo="https://images.pluto.tv/channels/654c955683595c00081d9d87/colorLogoPNG_1764145554698.png" group-title="Italy",Elisa di Rivombrosa
+#EXTINF:-1 channel-id="654c955683595c00081d9d87-it" tvg-id="654c955683595c00081d9d87" tvg-chno="104" tvg-name="Elisa di Rivombrosa" tvg-logo="https://images.pluto.tv/channels/654c955683595c00081d9d87/colorLogoPNG_1764145554698.png" group-title="Italy",Elisa di Rivombrosa
 https://jmp2.uk/plu-654c955683595c00081d9d87.m3u8
 #EXTINF:-1 channel-id="657868a7a620e30008fdbfeb-es" tvg-id="657868a7a620e30008fdbfeb" tvg-chno="50" tvg-name="Embrujadas" tvg-logo="https://images.pluto.tv/channels/657868a7a620e30008fdbfeb/colorLogoPNG_1760372386064.png" group-title="Spain",Embrujadas
 https://jmp2.uk/plu-657868a7a620e30008fdbfeb.m3u8
@@ -4261,7 +4261,7 @@ https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8
 https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8
 #EXTINF:-1 channel-id="66fd35e44ca31f0008060b77-fr" tvg-id="66fd35e44ca31f0008060b77" tvg-chno="14" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/66fd35e44ca31f0008060b77/colorLogoPNG_1762954633607.png" group-title="France",Pluto TV Snooker 900
 https://jmp2.uk/plu-66fd35e44ca31f0008060b77.m3u8
-#EXTINF:-1 channel-id="69148c76e9dec35c9269a16c-it" tvg-id="69148c76e9dec35c9269a16c" tvg-chno="51" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/69148c76e9dec35c9269a16c/colorLogoPNG_1763016465334.png" group-title="Italy",Pluto TV Snooker 900
+#EXTINF:-1 channel-id="69148c76e9dec35c9269a16c-it" tvg-id="69148c76e9dec35c9269a16c" tvg-chno="540" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/69148c76e9dec35c9269a16c/colorLogoPNG_1763016465334.png" group-title="Italy",Pluto TV Snooker 900
 https://jmp2.uk/plu-69148c76e9dec35c9269a16c.m3u8
 #EXTINF:-1 channel-id="68ac55fe3efb41cd979a6877-no" tvg-id="68ac55fe3efb41cd979a6877" tvg-chno="159" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/68ac55fe3efb41cd979a6877/colorLogoPNG_1760516448132.png" group-title="Norway",Pluto TV Snooker 900
 https://jmp2.uk/plu-68ac55fe3efb41cd979a6877.m3u8
@@ -5567,6 +5567,8 @@ https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8
 https://jmp2.uk/plu-6552085aab05240008b05f6c.m3u8
 #EXTINF:-1 channel-id="63724270c7c2360007b170e8-it" tvg-id="63724270c7c2360007b170e8" tvg-chno="945" tvg-name="VH1+ Canzoni Italiane" tvg-logo="https://images.pluto.tv/channels/63724270c7c2360007b170e8/colorLogoPNG.png" group-title="Italy",VH1+ Canzoni Italiane
 https://jmp2.uk/plu-63724270c7c2360007b170e8.m3u8
+#EXTINF:-1 channel-id="62e8e137865c590007ecae3c-it" tvg-id="62e8e137865c590007ecae3c" tvg-chno="63" tvg-name="VH1+ Christmas" tvg-logo="https://images.pluto.tv/channels/62e8e137865c590007ecae3c/colorLogoPNG.png" group-title="Italy",VH1+ Christmas
+https://jmp2.uk/plu-62e8e137865c590007ecae3c.m3u8
 #EXTINF:-1 channel-id="6690f892d51259000880d1c4-it" tvg-id="6690f892d51259000880d1c4" tvg-chno="940" tvg-name="VH1+ Classici" tvg-logo="https://images.pluto.tv/channels/6690f892d51259000880d1c4/colorLogoPNG.png" group-title="Italy",VH1+ Classici
 https://jmp2.uk/plu-6690f892d51259000880d1c4.m3u8
 #EXTINF:-1 channel-id="667d3794ca746800086962c7-fr" tvg-id="667d3794ca746800086962c7" tvg-chno="1325" tvg-name="VH1+ Classics" tvg-logo="https://images.pluto.tv/channels/667d3794ca746800086962c7/colorLogoPNG.png" group-title="France",VH1+ Classics
@@ -5675,6 +5677,8 @@ https://jmp2.uk/plu-5ed6828192e8b3000743ef61.m3u8
 https://jmp2.uk/plu-5ed6828192e8b3000743ef61.m3u8
 #EXTINF:-1 channel-id="604f8125c6669b00077f7699-es" tvg-id="604f8125c6669b00077f7699" tvg-chno="323" tvg-name="Wipeout" tvg-logo="https://images.pluto.tv/channels/604f8125c6669b00077f7699/colorLogoPNG.png" group-title="Spain",Wipeout
 https://jmp2.uk/plu-604f8125c6669b00077f7699.m3u8
+#EXTINF:-1 channel-id="6909e5c3a3a4b49706b8373b-dk" tvg-id="6909e5c3a3a4b49706b8373b" tvg-chno="8" tvg-name="Wipeout" tvg-logo="https://images.pluto.tv/channels/6909e5c3a3a4b49706b8373b/colorLogoPNG_1762279959144.png" group-title="Denmark",Wipeout
+https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8
 #EXTINF:-1 channel-id="686d8dd294a028da3ac59566-us" tvg-id="686d8dd294a028da3ac59566" tvg-chno="2903" tvg-name="Women's Sports Network" tvg-logo="https://images.pluto.tv/channels/686d8dd294a028da3ac59566/colorLogoPNG_1753992941899.png" group-title="United States",Women's Sports Network
 https://jmp2.uk/plu-686d8dd294a028da3ac59566.m3u8
 #EXTINF:-1 channel-id="6440f6e25a0cd500083b1ca4-no" tvg-id="6440f6e25a0cd500083b1ca4" tvg-chno="420" tvg-name="World of Love Island" tvg-logo="https://images.pluto.tv/channels/6440f6e25a0cd500083b1ca4/colorLogoPNG.png" group-title="Norway",World of Love Island
