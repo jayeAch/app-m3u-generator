@@ -795,6 +795,8 @@ https://jmp2.uk/plu-651e6607575f660008d2cb7f.m3u8
 https://jmp2.uk/plu-651e67763fd33c0008f07170.m3u8
 #EXTINF:-1 channel-id="651e719b575f660008d2e629-dk" tvg-id="651e719b575f660008d2e629" tvg-chno="462" tvg-name="Cheaters" tvg-logo="https://images.pluto.tv/channels/651e719b575f660008d2e629/colorLogoPNG.png" group-title="Denmark",Cheaters
 https://jmp2.uk/plu-651e719b575f660008d2e629.m3u8
+#EXTINF:-1 channel-id="68f103545c876cf7307b4e37-es" tvg-id="68f103545c876cf7307b4e37" tvg-chno="19" tvg-name="Cheers" tvg-logo="https://images.pluto.tv/channels/68f103545c876cf7307b4e37/colorLogoPNG_1760653870523.png" group-title="Spain",Cheers
+https://jmp2.uk/plu-68f103545c876cf7307b4e37.m3u8
 #EXTINF:-1 channel-id="62bdb7f0db2eb30007376d4d-ca" tvg-id="62bdb7f0db2eb30007376d4d" tvg-chno="104" tvg-name="Cheers" tvg-logo="https://images.pluto.tv/channels/62bdb7f0db2eb30007376d4d/colorLogoPNG.png" group-title="Canada",Cheers
 https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8
 #EXTINF:-1 channel-id="611e7f224676bf00076a4d8d-de" tvg-id="611e7f224676bf00076a4d8d" tvg-chno="60" tvg-name="Cheers" tvg-logo="https://images.pluto.tv/channels/611e7f224676bf00076a4d8d/colorLogoPNG.png" group-title="Germany",Cheers
@@ -929,7 +931,7 @@ https://jmp2.uk/plu-65d7243c4e017400089e14a8.m3u8
 https://jmp2.uk/plu-65d724a9d8adfa00086c8ae9.m3u8
 #EXTINF:-1 channel-id="65d7239066eec8000881e293-dk" tvg-id="65d7239066eec8000881e293" tvg-chno="571" tvg-name="Come Dine with Me" tvg-logo="https://images.pluto.tv/channels/65d7239066eec8000881e293/colorLogoPNG.png" group-title="Denmark",Come Dine with Me
 https://jmp2.uk/plu-65d7239066eec8000881e293.m3u8
-#EXTINF:-1 channel-id="68de3db35fc0afe85de0b843-es" tvg-id="68de3db35fc0afe85de0b843" tvg-chno="19" tvg-name="Comedia a lo bestia de Pluto TV" tvg-logo="https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/colorLogoPNG_1759402494389.png" group-title="Spain",Comedia a lo bestia de Pluto TV
+#EXTINF:-1 channel-id="68de3db35fc0afe85de0b843-es" tvg-id="68de3db35fc0afe85de0b843" tvg-chno="20" tvg-name="Comedia a lo bestia de Pluto TV" tvg-logo="https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/colorLogoPNG_1759402494389.png" group-title="Spain",Comedia a lo bestia de Pluto TV
 https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8
 #EXTINF:-1 channel-id="64f8a408bd341e000818fcda-ca" tvg-id="64f8a408bd341e000818fcda" tvg-chno="117" tvg-name="Comedy Central" tvg-logo="https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png" group-title="Canada",Comedy Central
 https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
@@ -2761,7 +2763,7 @@ https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
 https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
 #EXTINF:-1 channel-id="627d3176d7dfa500077042f1-es" tvg-id="627d3176d7dfa500077042f1" tvg-chno="653" tvg-name="MTV Geordies" tvg-logo="https://images.pluto.tv/channels/627d3176d7dfa500077042f1/colorLogoPNG.png" group-title="Spain",MTV Geordies
 https://jmp2.uk/plu-627d3176d7dfa500077042f1.m3u8
-#EXTINF:-1 channel-id="5f984fdc470d460007a67094-es" tvg-id="5f984fdc470d460007a67094" tvg-chno="21" tvg-name="MTV Hits Navidad" tvg-logo="https://images.pluto.tv/channels/5f984fdc470d460007a67094/colorLogoPNG.png" group-title="Spain",MTV Hits Navidad
+#EXTINF:-1 channel-id="5f984fdc470d460007a67094-es" tvg-id="5f984fdc470d460007a67094" tvg-chno="11" tvg-name="MTV Hits Navidad" tvg-logo="https://images.pluto.tv/channels/5f984fdc470d460007a67094/colorLogoPNG.png" group-title="Spain",MTV Hits Navidad
 https://jmp2.uk/plu-5f984fdc470d460007a67094.m3u8
 #EXTINF:-1 channel-id="68b9b0dbf9cf3d7cb9f56d88-ca" tvg-id="68b9b0dbf9cf3d7cb9f56d88" tvg-chno="450" tvg-name="MTV Jersey Shore" tvg-logo="https://images.pluto.tv/channels/68b9b0dbf9cf3d7cb9f56d88/colorLogoPNG_1757455543454.png" group-title="Canada",MTV Jersey Shore
 https://jmp2.uk/plu-68b9b0dbf9cf3d7cb9f56d88.m3u8
@@ -3561,7 +3563,7 @@ https://jmp2.uk/plu-5dd6ed41526c77000941411c.m3u8
 https://jmp2.uk/plu-5dd6ed41526c77000941411c.m3u8
 #EXTINF:-1 channel-id="5dd6ed41526c77000941411c-ar" tvg-id="5dd6ed41526c77000941411c" tvg-chno="91" tvg-name="Pluto TV Cine Navidad" tvg-logo="https://images.pluto.tv/channels/5dd6ed41526c77000941411c/colorLogoPNG_1761061283313.png" group-title="Argentina",Pluto TV Cine Navidad
 https://jmp2.uk/plu-5dd6ed41526c77000941411c.m3u8
-#EXTINF:-1 channel-id="5f984b18dfe75800070e8645-es" tvg-id="5f984b18dfe75800070e8645" tvg-chno="20" tvg-name="Pluto TV Cine Navideño" tvg-logo="https://images.pluto.tv/channels/5f984b18dfe75800070e8645/colorLogoPNG.png" group-title="Spain",Pluto TV Cine Navideño
+#EXTINF:-1 channel-id="5f984b18dfe75800070e8645-es" tvg-id="5f984b18dfe75800070e8645" tvg-chno="10" tvg-name="Pluto TV Cine Navideño" tvg-logo="https://images.pluto.tv/channels/5f984b18dfe75800070e8645/colorLogoPNG.png" group-title="Spain",Pluto TV Cine Navideño
 https://jmp2.uk/plu-5f984b18dfe75800070e8645.m3u8
 #EXTINF:-1 channel-id="5f171f988ab9780007fa95ea-br" tvg-id="5f171f988ab9780007fa95ea" tvg-chno="47" tvg-name="Pluto TV Cine Romance" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG_1760457359793.png" group-title="Brazil",Pluto TV Cine Romance
 https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8
