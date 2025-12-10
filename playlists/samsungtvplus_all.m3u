@@ -413,7 +413,7 @@ https://jmp2.uk/stvp-FR1400003Y0
 https://jmp2.uk/stvp-FRBD4100006OC
 #EXTINF:-1 channel-id="FR300004J5-fr" tvg-id="FR300004J5" tvg-chno="4411" tvg-name="BFM Grands Reportages" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300004J5_20241015T040221SQUARE.png" group-title="France",BFM Grands Reportages
 https://jmp2.uk/stvp-FR300004J5
-#EXTINF:-1 channel-id="CH500001V2-ch" tvg-id="CH500001V2" tvg-chno="4576" tvg-name="BFM TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH500001V2_20250826T004823SQUARE.png" group-title="Switzerland",BFM TV
+#EXTINF:-1 channel-id="CH500001V2-ch" tvg-id="CH500001V2" tvg-chno="4576" tvg-name="BFM TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH500001V2_20251209T125744SQUARE.png" group-title="Switzerland",BFM TV
 https://jmp2.uk/stvp-CH500001V2
 #EXTINF:-1 channel-id="FRBD410000783-fr" tvg-id="FRBD410000783" tvg-chno="4002" tvg-name="BFM TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD410000783_20251209T004432SQUARE.png" group-title="France",BFM TV
 https://jmp2.uk/stvp-FRBD410000783
@@ -741,9 +741,9 @@ https://jmp2.uk/stvp-GBBD8000016N
 https://jmp2.uk/stvp-ES34000039I
 #EXTINF:-1 channel-id="ATBD190000101-at" tvg-id="ATBD190000101" tvg-chno="4557" tvg-name="CNN Headlines" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD190000101_20251209T003953SQUARE.png" group-title="Austria",CNN Headlines
 https://jmp2.uk/stvp-ATBD190000101
-#EXTINF:-1 channel-id="CHBD1900001JB-ch" tvg-id="CHBD1900001JB" tvg-chno="4557" tvg-name="CNN Headlines" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD1900001JB_20251125T102218SQUARE.png" group-title="Switzerland",CNN Headlines
+#EXTINF:-1 channel-id="CHBD1900001JB-ch" tvg-id="CHBD1900001JB" tvg-chno="4557" tvg-name="CNN Headlines" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD1900001JB_20251209T125752SQUARE.png" group-title="Switzerland",CNN Headlines
 https://jmp2.uk/stvp-CHBD1900001JB
-#EXTINF:-1 channel-id="DEBD19000012M-de" tvg-id="DEBD19000012M" tvg-chno="4557" tvg-name="CNN Headlines" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD19000012M_20251125T102257SQUARE.png" group-title="Germany",CNN Headlines
+#EXTINF:-1 channel-id="DEBD19000012M-de" tvg-id="DEBD19000012M" tvg-chno="4557" tvg-name="CNN Headlines" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD19000012M_20251209T125835SQUARE.png" group-title="Germany",CNN Headlines
 https://jmp2.uk/stvp-DEBD19000012M
 #EXTINF:-1 channel-id="ESBD190000137-es" tvg-id="ESBD190000137" tvg-chno="4561" tvg-name="CNN Headlines" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD190000137_20251209T004301SQUARE.png" group-title="Spain",CNN Headlines
 https://jmp2.uk/stvp-ESBD190000137
@@ -1029,9 +1029,9 @@ https://jmp2.uk/stvp-CHBD38000019N
 https://jmp2.uk/stvp-DEBD3800001QD
 #EXTINF:-1 channel-id="AT3400007C0-at" tvg-id="AT3400007C0" tvg-chno="4700" tvg-name="Deluxe Wintertime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3400007C0_20251209T004002SQUARE.png" group-title="Austria",Deluxe Wintertime
 https://jmp2.uk/stvp-AT3400007C0
-#EXTINF:-1 channel-id="CH3400005S4-ch" tvg-id="CH3400005S4" tvg-chno="4700" tvg-name="Deluxe Wintertime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH3400005S4_20251013T053912SQUARE.png" group-title="Switzerland",Deluxe Wintertime
+#EXTINF:-1 channel-id="CH3400005S4-ch" tvg-id="CH3400005S4" tvg-chno="4700" tvg-name="Deluxe Wintertime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH3400005S4_20251209T125758SQUARE.png" group-title="Switzerland",Deluxe Wintertime
 https://jmp2.uk/stvp-CH3400005S4
-#EXTINF:-1 channel-id="DE340000678-de" tvg-id="DE340000678" tvg-chno="4700" tvg-name="Deluxe Wintertime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE340000678_20251013T054855SQUARE.png" group-title="Germany",Deluxe Wintertime
+#EXTINF:-1 channel-id="DE340000678-de" tvg-id="DE340000678" tvg-chno="4700" tvg-name="Deluxe Wintertime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE340000678_20251209T125841SQUARE.png" group-title="Germany",Deluxe Wintertime
 https://jmp2.uk/stvp-DE340000678
 #EXTINF:-1 channel-id="GB900005KI-gb" tvg-id="GB900005KI" tvg-chno="4240" tvg-name="Demand Drama" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB900005KI_20250708T031725SQUARE.png" group-title="United Kingdom",Demand Drama
 https://jmp2.uk/stvp-GB900005KI
@@ -2527,7 +2527,7 @@ https://jmp2.uk/stvp-US700021SM
 https://jmp2.uk/stvp-US1900014Y2
 #EXTINF:-1 channel-id="AT4600003EY-at" tvg-id="AT4600003EY" tvg-chno="4002" tvg-name="Nashville" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4600003EY_20251209T004008SQUARE.png" group-title="Austria",Nashville
 https://jmp2.uk/stvp-AT4600003EY
-#EXTINF:-1 channel-id="CH4600002VO-ch" tvg-id="CH4600002VO" tvg-chno="4002" tvg-name="Nashville" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4600002VO_20251125T102227SQUARE.png" group-title="Switzerland",Nashville
+#EXTINF:-1 channel-id="CH4600002VO-ch" tvg-id="CH4600002VO" tvg-chno="4002" tvg-name="Nashville" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4600002VO_20251209T125804SQUARE.png" group-title="Switzerland",Nashville
 https://jmp2.uk/stvp-CH4600002VO
 #EXTINF:-1 channel-id="DE4600001CD-de" tvg-id="DE4600001CD" tvg-chno="4233" tvg-name="Nashville" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4600001CD_20251013T054910SQUARE.png" group-title="Germany",Nashville
 https://jmp2.uk/stvp-DE4600001CD
@@ -3101,7 +3101,7 @@ https://jmp2.uk/stvp-ITBD140000119
 https://jmp2.uk/stvp-GB2100006GK
 #EXTINF:-1 channel-id="FR30000271-fr" tvg-id="FR30000271" tvg-chno="4356" tvg-name="RMC alerte secours" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR30000271_20241015T042814SQUARE.png" group-title="France",RMC alerte secours
 https://jmp2.uk/stvp-FR30000271
-#EXTINF:-1 channel-id="CH500003EH-ch" tvg-id="CH500003EH" tvg-chno="4041" tvg-name="RMC Découverte" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH500003EH_20250107T031522SQUARE.png" group-title="Switzerland",RMC Découverte
+#EXTINF:-1 channel-id="CH500003EH-ch" tvg-id="CH500003EH" tvg-chno="4041" tvg-name="RMC Découverte" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH500003EH_20251209T125750SQUARE.png" group-title="Switzerland",RMC Découverte
 https://jmp2.uk/stvp-CH500003EH
 #EXTINF:-1 channel-id="FRBD4100008QS-fr" tvg-id="FRBD4100008QS" tvg-chno="4009" tvg-name="RMC Découverte" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100008QS_20251209T004413SQUARE.png" group-title="France",RMC Découverte
 https://jmp2.uk/stvp-FRBD4100008QS
@@ -3113,7 +3113,7 @@ https://jmp2.uk/stvp-FR4000003O1
 https://jmp2.uk/stvp-FR300003ZB
 #EXTINF:-1 channel-id="FR300006GF-fr" tvg-id="FR300006GF" tvg-chno="4034" tvg-name="RMC MYSTERE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300006GF_20241106T142644SQUARE.png" group-title="France",RMC MYSTERE
 https://jmp2.uk/stvp-FR300006GF
-#EXTINF:-1 channel-id="CH500002H2-ch" tvg-id="CH500002H2" tvg-chno="4040" tvg-name="RMC Story" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH500002H2_20250107T031525SQUARE.png" group-title="Switzerland",RMC Story
+#EXTINF:-1 channel-id="CH500002H2-ch" tvg-id="CH500002H2" tvg-chno="4040" tvg-name="RMC Story" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH500002H2_20251209T125747SQUARE.png" group-title="Switzerland",RMC Story
 https://jmp2.uk/stvp-CH500002H2
 #EXTINF:-1 channel-id="FRBD41000097I-fr" tvg-id="FRBD41000097I" tvg-chno="4008" tvg-name="RMC Story" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD41000097I_20251209T004435SQUARE.png" group-title="France",RMC Story
 https://jmp2.uk/stvp-FRBD41000097I
@@ -3313,7 +3313,7 @@ https://jmp2.uk/stvp-CA21000060M
 https://jmp2.uk/stvp-US2100007V7
 #EXTINF:-1 channel-id="CA1000003PR-ca" tvg-id="CA1000003PR" tvg-chno="4443" tvg-name="SMTOWN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1000003PR_20251202T234208SQUARE.png" group-title="Canada",SMTOWN
 https://jmp2.uk/stvp-CA1000003PR
-#EXTINF:-1 channel-id="DE1000002V4-de" tvg-id="DE1000002V4" tvg-chno="4743" tvg-name="SMTOWN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1000002V4_20251202T002459SQUARE.png" group-title="Germany",SMTOWN
+#EXTINF:-1 channel-id="DE1000002V4-de" tvg-id="DE1000002V4" tvg-chno="4743" tvg-name="SMTOWN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1000002V4_20251209T125832SQUARE.png" group-title="Germany",SMTOWN
 https://jmp2.uk/stvp-DE1000002V4
 #EXTINF:-1 channel-id="ES1000001EF-es" tvg-id="ES1000001EF" tvg-chno="4751" tvg-name="SMTOWN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1000001EF_20251209T004257SQUARE.png" group-title="Spain",SMTOWN
 https://jmp2.uk/stvp-ES1000001EF
@@ -3609,9 +3609,9 @@ https://jmp2.uk/stvp-GB3700002J0
 https://jmp2.uk/stvp-USBC4400012QS
 #EXTINF:-1 channel-id="AT3200012MN-at" tvg-id="AT3200012MN" tvg-chno="4003" tvg-name="Stromberg" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3200012MN_20251209T004021SQUARE.png" group-title="Austria",Stromberg
 https://jmp2.uk/stvp-AT3200012MN
-#EXTINF:-1 channel-id="CH3200011YH-ch" tvg-id="CH3200011YH" tvg-chno="4003" tvg-name="Stromberg" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH3200011YH_20251125T102233SQUARE.png" group-title="Switzerland",Stromberg
+#EXTINF:-1 channel-id="CH3200011YH-ch" tvg-id="CH3200011YH" tvg-chno="4003" tvg-name="Stromberg" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH3200011YH_20251209T125810SQUARE.png" group-title="Switzerland",Stromberg
 https://jmp2.uk/stvp-CH3200011YH
-#EXTINF:-1 channel-id="DE32000175T-de" tvg-id="DE32000175T" tvg-chno="4003" tvg-name="Stromberg" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE32000175T_20251125T102312SQUARE.png" group-title="Germany",Stromberg
+#EXTINF:-1 channel-id="DE32000175T-de" tvg-id="DE32000175T" tvg-chno="4003" tvg-name="Stromberg" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE32000175T_20251209T125853SQUARE.png" group-title="Germany",Stromberg
 https://jmp2.uk/stvp-DE32000175T
 #EXTINF:-1 channel-id="ATBA3300010PU-at" tvg-id="ATBA3300010PU" tvg-chno="4673" tvg-name="Strongman Champions League" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300010PU_20250107T022226SQUARE.png" group-title="Austria",Strongman Champions League
 https://jmp2.uk/stvp-ATBA3300010PU
@@ -3809,7 +3809,7 @@ https://jmp2.uk/stvp-CABC2300001X9
 https://jmp2.uk/stvp-USBC2100009GT
 #EXTINF:-1 channel-id="AT2000029T-at" tvg-id="AT2000029T" tvg-chno="4511" tvg-name="The Jamie Oliver Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2000029T_20251209T004024SQUARE.png" group-title="Austria",The Jamie Oliver Channel
 https://jmp2.uk/stvp-AT2000029T
-#EXTINF:-1 channel-id="CH20000288-ch" tvg-id="CH20000288" tvg-chno="4511" tvg-name="The Jamie Oliver Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH20000288_20251013T053924SQUARE.png" group-title="Switzerland",The Jamie Oliver Channel
+#EXTINF:-1 channel-id="CH20000288-ch" tvg-id="CH20000288" tvg-chno="4511" tvg-name="The Jamie Oliver Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH20000288_20251209T125812SQUARE.png" group-title="Switzerland",The Jamie Oliver Channel
 https://jmp2.uk/stvp-CH20000288
 #EXTINF:-1 channel-id="DE200003PX-de" tvg-id="DE200003PX" tvg-chno="4511" tvg-name="The Jamie Oliver Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200003PX_20251028T011239SQUARE.png" group-title="Germany",The Jamie Oliver Channel
 https://jmp2.uk/stvp-DE200003PX
