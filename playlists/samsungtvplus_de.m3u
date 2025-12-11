@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/de.xml.gz"
 #EXTINF:-1 channel-id="DE26000085Y" tvg-id="DE26000085Y" tvg-chno="4852" tvg-name="100% Weihnachten" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE26000085Y_20250923T011351SQUARE.png" group-title="Filme",100% Weihnachten
 https://jmp2.uk/stvp-DE26000085Y
+#EXTINF:-1 channel-id="DE3400005QJ" tvg-id="DE3400005QJ" tvg-chno="4296" tvg-name="Abschnitt 40 / GSG9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3400005QJ_20251209T125838SQUARE.png" group-title="Crime",Abschnitt 40 / GSG9
+https://jmp2.uk/stvp-DE3400005QJ
 #EXTINF:-1 channel-id="DE2600005XA" tvg-id="DE2600005XA" tvg-chno="4999" tvg-name="Actionfilme - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2600005XA_20240827T041057SQUARE.png" group-title="Filme",Actionfilme - Rakuten TV
 https://jmp2.uk/stvp-DE2600005XA
 #EXTINF:-1 channel-id="DE300020D3" tvg-id="DE300020D3" tvg-chno="4292" tvg-name="Alarm für Cobra 11 / Balko" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE300020D3_20250805T005032SQUARE.png" group-title="Crime",Alarm für Cobra 11 / Balko
@@ -77,7 +79,7 @@ https://jmp2.uk/stvp-DEBA150003050
 https://jmp2.uk/stvp-DEAH3904006A
 #EXTINF:-1 channel-id="DEBD3800001QD" tvg-id="DEBD3800001QD" tvg-chno="4694" tvg-name="DELUXE RAP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3800001QD_20250107T024317SQUARE.png" group-title="Musik",DELUXE RAP
 https://jmp2.uk/stvp-DEBD3800001QD
-#EXTINF:-1 channel-id="DE340000678" tvg-id="DE340000678" tvg-chno="4700" tvg-name="Deluxe Wintertime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE340000678_20251209T125841SQUARE.png" group-title="Musik",Deluxe Wintertime
+#EXTINF:-1 channel-id="DE340000678" tvg-id="DE340000678" tvg-chno="4003" tvg-name="Deluxe Wintertime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE340000678_20251209T125841SQUARE.png" group-title="Musik",Deluxe Wintertime
 https://jmp2.uk/stvp-DE340000678
 #EXTINF:-1 channel-id="DE30000067I" tvg-id="DE30000067I" tvg-chno="4877" tvg-name="Deutsches Kino - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE30000067I_20250107T024828SQUARE.png" group-title="Filme",Deutsches Kino - Rakuten TV
 https://jmp2.uk/stvp-DE30000067I
@@ -127,6 +129,8 @@ https://jmp2.uk/stvp-DEBC47000055Z
 https://jmp2.uk/stvp-DE1000001CT
 #EXTINF:-1 channel-id="DE1900001NT" tvg-id="DE1900001NT" tvg-chno="4941" tvg-name="Himmlisches Kino" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1900001NT_20250107T024845SQUARE.png" group-title="Filme",Himmlisches Kino
 https://jmp2.uk/stvp-DE1900001NT
+#EXTINF:-1 channel-id="DE33000025Y" tvg-id="DE33000025Y" tvg-chno="4994" tvg-name="Hochspannung" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE33000025Y_20251209T125844SQUARE.png" group-title="Filme",Hochspannung
+https://jmp2.uk/stvp-DE33000025Y
 #EXTINF:-1 channel-id="DE4800003M6" tvg-id="DE4800003M6" tvg-chno="4069" tvg-name="Hochzeit auf den ersten Blick" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4800003M6_20251111T013954SQUARE.png" group-title="Entertainment",Hochzeit auf den ersten Blick
 https://jmp2.uk/stvp-DE4800003M6
 #EXTINF:-1 channel-id="DE3800001CR" tvg-id="DE3800001CR" tvg-chno="4945" tvg-name="Horror Comedy" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3800001CR_20251111T013957SQUARE.png" group-title="Filme",Horror Comedy
@@ -165,6 +169,8 @@ https://jmp2.uk/stvp-DEBD4700001UN
 https://jmp2.uk/stvp-DEBC4700004VZ
 #EXTINF:-1 channel-id="DE4100001GN" tvg-id="DE4100001GN" tvg-chno="4202" tvg-name="Mark Rober TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4100001GN_20251111T014009SQUARE.png" group-title="Entertainment",Mark Rober TV
 https://jmp2.uk/stvp-DE4100001GN
+#EXTINF:-1 channel-id="DE3900004ZH" tvg-id="DE3900004ZH" tvg-chno="4883" tvg-name="Merhaba Türkische Filme" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3900004ZH_20251209T005109SQUARE.png" group-title="Filme",Merhaba Türkische Filme
+https://jmp2.uk/stvp-DE3900004ZH
 #EXTINF:-1 channel-id="DEBD4100001ZB" tvg-id="DEBD4100001ZB" tvg-chno="4245" tvg-name="Merhaba Türkische Serien" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD4100001ZB_20250107T024900SQUARE.png" group-title="Serien",Merhaba Türkische Serien
 https://jmp2.uk/stvp-DEBD4100001ZB
 #EXTINF:-1 channel-id="DEBA1500009ZY" tvg-id="DEBA1500009ZY" tvg-chno="4429" tvg-name="Moconomy" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1500009ZY_20250107T023932SQUARE.png" group-title="Dokus & Wissen",Moconomy
@@ -189,6 +195,8 @@ https://jmp2.uk/stvp-DEAJ7000033P
 https://jmp2.uk/stvp-DEAJ7000105I
 #EXTINF:-1 channel-id="DEBA3300032UV" tvg-id="DEBA3300032UV" tvg-chno="4876" tvg-name="MyTime Movie Network" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300032UV_20251111T013920SQUARE.png" group-title="Filme",MyTime Movie Network
 https://jmp2.uk/stvp-DEBA3300032UV
+#EXTINF:-1 channel-id="DE4300003MR" tvg-id="DE4300003MR" tvg-chno="4552" tvg-name="Nachrichten 360" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4300003MR_20251209T125847SQUARE.png" group-title="News",Nachrichten 360
+https://jmp2.uk/stvp-DE4300003MR
 #EXTINF:-1 channel-id="DEBD11000019M" tvg-id="DEBD11000019M" tvg-chno="4190" tvg-name="Naruto" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD11000019M_20250107T024353SQUARE.png" group-title="Anime",Naruto
 https://jmp2.uk/stvp-DEBD11000019M
 #EXTINF:-1 channel-id="DE4600001CD" tvg-id="DE4600001CD" tvg-chno="4233" tvg-name="Nashville" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4600001CD_20251013T054910SQUARE.png" group-title="Serien",Nashville
@@ -237,6 +245,10 @@ https://jmp2.uk/stvp-DEBD4900001QV
 https://jmp2.uk/stvp-DEBD2700003W5
 #EXTINF:-1 channel-id="DE3700007RY" tvg-id="DE3700007RY" tvg-chno="4248" tvg-name="Saving Hope" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3700007RY_20251111T014015SQUARE.png" group-title="Serien",Saving Hope
 https://jmp2.uk/stvp-DE3700007RY
+#EXTINF:-1 channel-id="DE44000048T" tvg-id="DE44000048T" tvg-chno="4262" tvg-name="Schlosshotel Orth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE44000048T_20251209T004102SQUARE.png" group-title="Serien",Schlosshotel Orth
+https://jmp2.uk/stvp-DE44000048T
+#EXTINF:-1 channel-id="DE4400006F5" tvg-id="DE4400006F5" tvg-chno="4306" tvg-name="Schnell ermittelt & Cop stories" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4400006F5_20251209T125850SQUARE.png" group-title="Crime",Schnell ermittelt & Cop stories
+https://jmp2.uk/stvp-DE4400006F5
 #EXTINF:-1 channel-id="DEBD260000692" tvg-id="DEBD260000692" tvg-chno="4641" tvg-name="Scooore" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD260000692_20250107T024407SQUARE.png" group-title="Fußball",Scooore
 https://jmp2.uk/stvp-DEBD260000692
 #EXTINF:-1 channel-id="DE3400001N1" tvg-id="DE3400001N1" tvg-chno="4570" tvg-name="Sky News International" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3400001N1_20250624T020453SQUARE.png" group-title="News",Sky News International
@@ -273,7 +285,7 @@ https://jmp2.uk/stvp-DEAJ0500429A
 https://jmp2.uk/stvp-DE34000049T
 #EXTINF:-1 channel-id="DE3200003U8" tvg-id="DE3200003U8" tvg-chno="4779" tvg-name="StoryZoo & Friends" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3200003U8_20250107T024734SQUARE.png" group-title="Kids",StoryZoo & Friends
 https://jmp2.uk/stvp-DE3200003U8
-#EXTINF:-1 channel-id="DE32000175T" tvg-id="DE32000175T" tvg-chno="4003" tvg-name="Stromberg" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE32000175T_20251209T125853SQUARE.png" group-title="Serien",Stromberg
+#EXTINF:-1 channel-id="DE32000175T" tvg-id="DE32000175T" tvg-chno="4256" tvg-name="Stromberg" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE32000175T_20251209T125853SQUARE.png" group-title="Serien",Stromberg
 https://jmp2.uk/stvp-DE32000175T
 #EXTINF:-1 channel-id="DEBA3300016EV" tvg-id="DEBA3300016EV" tvg-chno="4673" tvg-name="Strongman Champions League" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300016EV_20250107T024420SQUARE.png" group-title="Sport",Strongman Champions League
 https://jmp2.uk/stvp-DEBA3300016EV
@@ -325,6 +337,8 @@ https://jmp2.uk/stvp-DEBC2100001ZJ
 https://jmp2.uk/stvp-DEBC21000022L
 #EXTINF:-1 channel-id="DE3500002C4" tvg-id="DE3500002C4" tvg-chno="4686" tvg-name="Vevo Weihnachten" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3500002C4_20251028T011242SQUARE.png" group-title="Musik",Vevo Weihnachten
 https://jmp2.uk/stvp-DE3500002C4
+#EXTINF:-1 channel-id="DE4400005PI" tvg-id="DE4400005PI" tvg-chno="4261" tvg-name="Vier Frauen & ein Todesfall" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4400005PI_20251209T125856SQUARE.png" group-title="Serien",Vier Frauen & ein Todesfall
+https://jmp2.uk/stvp-DE4400005PI
 #EXTINF:-1 channel-id="DEBA3300034HH" tvg-id="DEBA3300034HH" tvg-chno="4872" tvg-name="wedo movies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300034HH_20250107T024240SQUARE.png" group-title="Filme",wedo movies
 https://jmp2.uk/stvp-DEBA3300034HH
 #EXTINF:-1 channel-id="DE3700009QJ" tvg-id="DE3700009QJ" tvg-chno="4866" tvg-name="Weihnachtskino" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3700009QJ_20251111T014021SQUARE.png" group-title="Filme",Weihnachtskino
