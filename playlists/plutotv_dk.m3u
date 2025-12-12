@@ -409,7 +409,7 @@ https://jmp2.uk/plu-688a20c69034bd35f34aaa9e.m3u8
 https://jmp2.uk/plu-61c19d329b8260000744331b.m3u8
 #EXTINF:-1 channel-id="61fb988e032c0100077d5252" tvg-id="61fb988e032c0100077d5252" tvg-chno="919" tvg-name="Smithsonian Channel Selects" tvg-logo="https://images.pluto.tv/channels/61fb988e032c0100077d5252/colorLogoPNG.png" group-title="Dokumentarer",Smithsonian Channel Selects
 https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8
-#EXTINF:-1 channel-id="68adb066f7d7f0a9b9ff5d32" tvg-id="68adb066f7d7f0a9b9ff5d32" tvg-chno="9" tvg-name="Smølferne" tvg-logo="https://images.pluto.tv/channels/68adb066f7d7f0a9b9ff5d32/colorLogoPNG_1760363216935.png" group-title="Nyt på Pluto TV",Smølferne
+#EXTINF:-1 channel-id="68adb066f7d7f0a9b9ff5d32" tvg-id="68adb066f7d7f0a9b9ff5d32" tvg-chno="10" tvg-name="Smølferne" tvg-logo="https://images.pluto.tv/channels/68adb066f7d7f0a9b9ff5d32/colorLogoPNG_1760363216935.png" group-title="Nyt på Pluto TV",Smølferne
 https://jmp2.uk/plu-68adb066f7d7f0a9b9ff5d32.m3u8
 #EXTINF:-1 channel-id="61c098df897b9d00070375c8" tvg-id="61c098df897b9d00070375c8" tvg-chno="154" tvg-name="South Park" tvg-logo="https://images.pluto.tv/channels/61c098df897b9d00070375c8/colorLogoPNG_1754471522651.png" group-title="South Park",South Park
 https://jmp2.uk/plu-61c098df897b9d00070375c8.m3u8
@@ -433,6 +433,8 @@ https://jmp2.uk/plu-65d879bd0d4561000805d190.m3u8
 https://jmp2.uk/plu-65d87a908145cb0008265c6d.m3u8
 #EXTINF:-1 channel-id="65d879e266eec8000887e91b" tvg-id="65d879e266eec8000887e91b" tvg-chno="158" tvg-name="South Park: Stan Collection" tvg-logo="https://images.pluto.tv/channels/65d879e266eec8000887e91b/colorLogoPNG.png" group-title="South Park",South Park: Stan Collection
 https://jmp2.uk/plu-65d879e266eec8000887e91b.m3u8
+#EXTINF:-1 channel-id="6400c281dff38e00083f59da" tvg-id="6400c281dff38e00083f59da" tvg-chno="8" tvg-name="Star Trek Movies" tvg-logo="https://images.pluto.tv/channels/6400c281dff38e00083f59da/colorLogoPNG.png" group-title="Nyt på Pluto TV",Star Trek Movies
+https://jmp2.uk/plu-6400c281dff38e00083f59da.m3u8
 #EXTINF:-1 channel-id="61c09ac98a80a4000703f992" tvg-id="61c09ac98a80a4000703f992" tvg-chno="993" tvg-name="SvampeBob Firkant" tvg-logo="https://images.pluto.tv/channels/61c09ac98a80a4000703f992/colorLogoPNG.png" group-title="For børn",SvampeBob Firkant
 https://jmp2.uk/plu-61c09ac98a80a4000703f992.m3u8
 #EXTINF:-1 channel-id="63c96203636b7e0007d35090" tvg-id="63c96203636b7e0007d35090" tvg-chno="573" tvg-name="Tareq Taylor's Nordic Cookery" tvg-logo="https://images.pluto.tv/channels/63c96203636b7e0007d35090/colorLogoPNG.png" group-title="Mad & livsstil",Tareq Taylor's Nordic Cookery
@@ -485,7 +487,7 @@ https://jmp2.uk/plu-690488ab43169995352e51c0.m3u8
 https://jmp2.uk/plu-62a0aefc7c5f9f00075b4e24.m3u8
 #EXTINF:-1 channel-id="62b9b63d3bbe9000073c0a2d" tvg-id="62b9b63d3bbe9000073c0a2d" tvg-chno="314" tvg-name="Wildfire" tvg-logo="https://images.pluto.tv/channels/62b9b63d3bbe9000073c0a2d/colorLogoPNG.png" group-title="Drama",Wildfire
 https://jmp2.uk/plu-62b9b63d3bbe9000073c0a2d.m3u8
-#EXTINF:-1 channel-id="6909e5c3a3a4b49706b8373b" tvg-id="6909e5c3a3a4b49706b8373b" tvg-chno="8" tvg-name="Wipeout" tvg-logo="https://images.pluto.tv/channels/6909e5c3a3a4b49706b8373b/colorLogoPNG_1762279959144.png" group-title="Nyt på Pluto TV",Wipeout
+#EXTINF:-1 channel-id="6909e5c3a3a4b49706b8373b" tvg-id="6909e5c3a3a4b49706b8373b" tvg-chno="9" tvg-name="Wipeout" tvg-logo="https://images.pluto.tv/channels/6909e5c3a3a4b49706b8373b/colorLogoPNG_1762279959144.png" group-title="Nyt på Pluto TV",Wipeout
 https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8
 #EXTINF:-1 channel-id="6440f8ba939a5900082bddc8" tvg-id="6440f8ba939a5900082bddc8" tvg-chno="455" tvg-name="World of Love Island" tvg-logo="https://images.pluto.tv/channels/6440f8ba939a5900082bddc8/colorLogoPNG.png" group-title="Realityserier",World of Love Island
 https://jmp2.uk/plu-6440f8ba939a5900082bddc8.m3u8
