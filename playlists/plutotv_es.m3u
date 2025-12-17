@@ -13,6 +13,8 @@ https://jmp2.uk/plu-5f1acce7f17797000718f9be.m3u8
 https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
 #EXTINF:-1 channel-id="61373c865ed5810007173fbc" tvg-id="61373c865ed5810007173fbc" tvg-chno="512" tvg-name="Avatar" tvg-logo="https://images.pluto.tv/channels/61373c865ed5810007173fbc/colorLogoPNG.png" group-title="Infantil",Avatar
 https://jmp2.uk/plu-61373c865ed5810007173fbc.m3u8
+#EXTINF:-1 channel-id="688892172928933015abe479" tvg-id="688892172928933015abe479" tvg-chno="22" tvg-name="Barbie & Friends" tvg-logo="https://images.pluto.tv/channels/688892172928933015abe479/colorLogoPNG_1765806030713.png" group-title="Nuevo en Pluto TV",Barbie & Friends
+https://jmp2.uk/plu-688892172928933015abe479.m3u8
 #EXTINF:-1 channel-id="60dafb9a0df1ba000758d37b" tvg-id="60dafb9a0df1ba000758d37b" tvg-chno="354" tvg-name="BBC Drama" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png" group-title="Más series",BBC Drama
 https://jmp2.uk/plu-60dafb9a0df1ba000758d37b.m3u8
 #EXTINF:-1 channel-id="5f1aca0b4e448e00075e7c5e" tvg-id="5f1aca0b4e448e00075e7c5e" tvg-chno="500" tvg-name="Bob Esponja" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="Infantil",Bob Esponja
@@ -115,6 +117,8 @@ https://jmp2.uk/plu-664c76520120f40008b81db9.m3u8
 https://jmp2.uk/plu-683457e5f59cc6a13212fce4.m3u8
 #EXTINF:-1 channel-id="687799f86255fd1c0c419c84" tvg-id="687799f86255fd1c0c419c84" tvg-chno="506" tvg-name="Marco" tvg-logo="https://images.pluto.tv/channels/687799f86255fd1c0c419c84/colorLogoPNG_1759174485986.png" group-title="Infantil",Marco
 https://jmp2.uk/plu-687799f86255fd1c0c419c84.m3u8
+#EXTINF:-1 channel-id="6888928eb52fb742416673d2" tvg-id="6888928eb52fb742416673d2" tvg-chno="21" tvg-name="Mattel Junior" tvg-logo="https://images.pluto.tv/channels/6888928eb52fb742416673d2/colorLogoPNG_1765806188472.png" group-title="Nuevo en Pluto TV",Mattel Junior
+https://jmp2.uk/plu-6888928eb52fb742416673d2.m3u8
 #EXTINF:-1 channel-id="6578808014fbe400086e21bc" tvg-id="6578808014fbe400086e21bc" tvg-chno="101" tvg-name="Medium" tvg-logo="https://images.pluto.tv/channels/6578808014fbe400086e21bc/colorLogoPNG.png" group-title="Policiacas",Medium
 https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8
 #EXTINF:-1 channel-id="6245c03922d9d4000760d205" tvg-id="6245c03922d9d4000760d205" tvg-chno="58" tvg-name="Melrose Place" tvg-logo="https://images.pluto.tv/channels/6245c03922d9d4000760d205/colorLogoPNG.png" group-title="Series Míticas",Melrose Place

@@ -327,6 +327,8 @@ https://jmp2.uk/plu-654932fa4d6d8f00084c4723.m3u8
 https://jmp2.uk/plu-60a3d889a5b3690008dc7fe8.m3u8
 #EXTINF:-1 channel-id="655f2ee6c0fc88000877d26c-ca" tvg-id="655f2ee6c0fc88000877d26c" tvg-chno="458" tvg-name="Bar Rescue" tvg-logo="https://images.pluto.tv/channels/655f2ee6c0fc88000877d26c/colorLogoPNG.png" group-title="Canada",Bar Rescue
 https://jmp2.uk/plu-655f2ee6c0fc88000877d26c.m3u8
+#EXTINF:-1 channel-id="688892172928933015abe479-es" tvg-id="688892172928933015abe479" tvg-chno="22" tvg-name="Barbie & Friends" tvg-logo="https://images.pluto.tv/channels/688892172928933015abe479/colorLogoPNG_1765806030713.png" group-title="Spain",Barbie & Friends
+https://jmp2.uk/plu-688892172928933015abe479.m3u8
 #EXTINF:-1 channel-id="62ac405b3874370007419b7f-gb" tvg-id="62ac405b3874370007419b7f" tvg-chno="891" tvg-name="Barney & Friends" tvg-logo="https://images.pluto.tv/channels/62ac405b3874370007419b7f/colorLogoPNG.png" group-title="United Kingdom",Barney & Friends
 https://jmp2.uk/plu-62ac405b3874370007419b7f.m3u8
 #EXTINF:-1 channel-id="611e672d4676bf00076a3837-gb" tvg-id="611e672d4676bf00076a3837" tvg-chno="257" tvg-name="Baywatch" tvg-logo="https://images.pluto.tv/channels/611e672d4676bf00076a3837/colorLogoPNG.png" group-title="United Kingdom",Baywatch
@@ -2423,6 +2425,8 @@ https://jmp2.uk/plu-66290b7523e24f000832cc17.m3u8
 https://jmp2.uk/plu-66290c12801af8000850c1a9.m3u8
 #EXTINF:-1 channel-id="66290a779e68c20008a18cf3-dk" tvg-id="66290a779e68c20008a18cf3" tvg-chno="603" tvg-name="Matlock" tvg-logo="https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png" group-title="Denmark",Matlock
 https://jmp2.uk/plu-66290a779e68c20008a18cf3.m3u8
+#EXTINF:-1 channel-id="6888928eb52fb742416673d2-es" tvg-id="6888928eb52fb742416673d2" tvg-chno="21" tvg-name="Mattel Junior" tvg-logo="https://images.pluto.tv/channels/6888928eb52fb742416673d2/colorLogoPNG_1765806188472.png" group-title="Spain",Mattel Junior
+https://jmp2.uk/plu-6888928eb52fb742416673d2.m3u8
 #EXTINF:-1 channel-id="686e74b0e48af72bc266e798-fr" tvg-id="686e74b0e48af72bc266e798" tvg-chno="12" tvg-name="Mattel Junior" tvg-logo="https://images.pluto.tv/channels/686e74b0e48af72bc266e798/colorLogoPNG_1765806081318.png" group-title="France",Mattel Junior
 https://jmp2.uk/plu-686e74b0e48af72bc266e798.m3u8
 #EXTINF:-1 channel-id="62fb6a4feb32e8000708f4d0-ca" tvg-id="62fb6a4feb32e8000708f4d0" tvg-chno="604" tvg-name="Max & Ruby" tvg-logo="https://images.pluto.tv/channels/62fb6a4feb32e8000708f4d0/colorLogoPNG.png" group-title="Canada",Max & Ruby
@@ -5325,6 +5329,8 @@ https://jmp2.uk/plu-5ff608e60e2996000768c366.m3u8
 https://jmp2.uk/plu-5ff608e60e2996000768c366.m3u8
 #EXTINF:-1 channel-id="68757effdf333e336be1e49f-us" tvg-id="68757effdf333e336be1e49f" tvg-chno="2432" tvg-name="Tony Robbins Network" tvg-logo="https://images.pluto.tv/channels/68757effdf333e336be1e49f/colorLogoPNG_1754963877109.png" group-title="United States",Tony Robbins Network
 https://jmp2.uk/plu-68757effdf333e336be1e49f.m3u8
+#EXTINF:-1 channel-id="677fb137a5d8215f99b9cc06-gb" tvg-id="677fb137a5d8215f99b9cc06" tvg-chno="838" tvg-name="Top Chef" tvg-logo="https://images.pluto.tv/channels/677fb137a5d8215f99b9cc06/colorLogoPNG_1761664673466.png" group-title="United Kingdom",Top Chef
+https://jmp2.uk/plu-677fb137a5d8215f99b9cc06.m3u8
 #EXTINF:-1 channel-id="677fafd91da79bfe4fb0b4ec-de" tvg-id="677fafd91da79bfe4fb0b4ec" tvg-chno="201" tvg-name="Top Chef" tvg-logo="https://images.pluto.tv/channels/677fafd91da79bfe4fb0b4ec/colorLogoPNG_1761931782945.png" group-title="Germany",Top Chef
 https://jmp2.uk/plu-677fafd91da79bfe4fb0b4ec.m3u8
 #EXTINF:-1 channel-id="636adc255bcf470007d6e0e2-us" tvg-id="636adc255bcf470007d6e0e2" tvg-chno="1570" tvg-name="Top Gear" tvg-logo="https://images.pluto.tv/channels/636adc255bcf470007d6e0e2/colorLogoPNG.png" group-title="United States",Top Gear
