@@ -51,7 +51,7 @@ https://jmp2.uk/stvp-ITAJ3800001Z4
 https://jmp2.uk/stvp-ITBA14000093A
 #EXTINF:-1 channel-id="ITBD3200001VR" tvg-id="ITBD3200001VR" tvg-chno="4944" tvg-name="Christmas Time" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200001VR_20251111T011340SQUARE.png" group-title="Film",Christmas Time
 https://jmp2.uk/stvp-ITBD3200001VR
-#EXTINF:-1 channel-id="IT3800001XM" tvg-id="IT3800001XM" tvg-chno="4001" tvg-name="Cine Natale" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800001XM_20251216T040647SQUARE.png" group-title="Film",Cine Natale
+#EXTINF:-1 channel-id="IT3800001XM" tvg-id="IT3800001XM" tvg-chno="4002" tvg-name="Cine Natale" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800001XM_20251216T040647SQUARE.png" group-title="Film",Cine Natale
 https://jmp2.uk/stvp-IT3800001XM
 #EXTINF:-1 channel-id="IT3600005AL" tvg-id="IT3600005AL" tvg-chno="4953" tvg-name="Cine Paura" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600005AL_20250722T005609SQUARE.png" group-title="Film",Cine Paura
 https://jmp2.uk/stvp-IT3600005AL
@@ -125,7 +125,7 @@ https://jmp2.uk/stvp-IT3700001R9
 https://jmp2.uk/stvp-ITBD1100002WX
 #EXTINF:-1 channel-id="IT900005HF" tvg-id="IT900005HF" tvg-chno="4798" tvg-name="Frisbee" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900005HF_20250408T021443SQUARE.png" group-title="Bambini",Frisbee
 https://jmp2.uk/stvp-IT900005HF
-#EXTINF:-1 channel-id="IT500011RG" tvg-id="IT500011RG" tvg-chno="4003" tvg-name="Gambero Rosso" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500011RG_20251216T040650SQUARE.png" group-title="Cucina & Viaggi",Gambero Rosso
+#EXTINF:-1 channel-id="IT500011RG" tvg-id="IT500011RG" tvg-chno="4516" tvg-name="Gambero Rosso" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500011RG_20251216T040650SQUARE.png" group-title="Cucina & Viaggi",Gambero Rosso
 https://jmp2.uk/stvp-IT500011RG
 #EXTINF:-1 channel-id="IT9000081B" tvg-id="IT9000081B" tvg-chno="4291" tvg-name="Giallo" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT9000081B_20250408T021446SQUARE.png" group-title="Crime",Giallo
 https://jmp2.uk/stvp-IT9000081B
@@ -191,7 +191,7 @@ https://jmp2.uk/stvp-IT900001A7
 https://jmp2.uk/stvp-IT3200006YF
 #EXTINF:-1 channel-id="ITBD3200005YA" tvg-id="ITBD3200005YA" tvg-chno="4247" tvg-name="Mutant X" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200005YA_20241022T044116SQUARE.png" group-title="Serie TV",Mutant X
 https://jmp2.uk/stvp-ITBD3200005YA
-#EXTINF:-1 channel-id="ITBD1400003D0" tvg-id="ITBD1400003D0" tvg-chno="4873" tvg-name="Natale con Cinemadame" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1400003D0_20251216T040653SQUARE.png" group-title="Film",Natale con Cinemadame
+#EXTINF:-1 channel-id="ITBD1400003D0" tvg-id="ITBD1400003D0" tvg-chno="4003" tvg-name="Natale con Cinemadame" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1400003D0_20251216T040653SQUARE.png" group-title="Film",Natale con Cinemadame
 https://jmp2.uk/stvp-ITBD1400003D0
 #EXTINF:-1 channel-id="IT2100001EZ" tvg-id="IT2100001EZ" tvg-chno="4491" tvg-name="NatureTime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2100001EZ_20251111T012436SQUARE.png" group-title="Documentari",NatureTime
 https://jmp2.uk/stvp-IT2100001EZ
@@ -273,7 +273,7 @@ https://jmp2.uk/stvp-IT300006W3
 https://jmp2.uk/stvp-IT3000035B
 #EXTINF:-1 channel-id="IT300007SE" tvg-id="IT300007SE" tvg-chno="4256" tvg-name="Sony One Serie Thriller" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300007SE_20241022T043839SQUARE.png" group-title="Serie TV",Sony One Serie Thriller
 https://jmp2.uk/stvp-IT300007SE
-#EXTINF:-1 channel-id="ITBA2200010O1" tvg-id="ITBA2200010O1" tvg-chno="4635" tvg-name="Sportitalia" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA2200010O1_20251216T040639SQUARE.png" group-title="Calcio",Sportitalia
+#EXTINF:-1 channel-id="ITBA2200010O1" tvg-id="ITBA2200010O1" tvg-chno="4001" tvg-name="Sportitalia" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA2200010O1_20251216T040639SQUARE.png" group-title="Calcio",Sportitalia
 https://jmp2.uk/stvp-ITBA2200010O1
 #EXTINF:-1 channel-id="ITBA3300022EA" tvg-id="ITBA3300022EA" tvg-chno="4679" tvg-name="SportOutdoor.tv" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300022EA_20241022T043558SQUARE.png" group-title="Sport",SportOutdoor.tv
 https://jmp2.uk/stvp-ITBA3300022EA
@@ -323,7 +323,7 @@ https://jmp2.uk/stvp-ITBC11000047F
 https://jmp2.uk/stvp-ITBD1900010JL
 #EXTINF:-1 channel-id="ITBC210000200" tvg-id="ITBC210000200" tvg-chno="4686" tvg-name="Vevo '90s & '00s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC210000200_20241022T043924SQUARE.png" group-title="Musica",Vevo '90s & '00s
 https://jmp2.uk/stvp-ITBC210000200
-#EXTINF:-1 channel-id="IT3500001Q6" tvg-id="IT3500001Q6" tvg-chno="4002" tvg-name="Vevo Natale" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3500001Q6_20251216T040655SQUARE.png" group-title="Musica",Vevo Natale
+#EXTINF:-1 channel-id="IT3500001Q6" tvg-id="IT3500001Q6" tvg-chno="4690" tvg-name="Vevo Natale" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3500001Q6_20251216T040655SQUARE.png" group-title="Musica",Vevo Natale
 https://jmp2.uk/stvp-IT3500001Q6
 #EXTINF:-1 channel-id="ITBC2100001G9" tvg-id="ITBC2100001G9" tvg-chno="4682" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC2100001G9_20241022T043927SQUARE.png" group-title="Musica",Vevo Pop
 https://jmp2.uk/stvp-ITBC2100001G9

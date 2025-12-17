@@ -4413,6 +4413,12 @@ https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8
 https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8
 #EXTINF:-1 channel-id="62bdacc96a3751000811842d-ca" tvg-id="62bdacc96a3751000811842d" tvg-chno="213" tvg-name="Pluto TV Westerns" tvg-logo="https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png" group-title="Canada",Pluto TV Westerns
 https://jmp2.uk/plu-62bdacc96a3751000811842d.m3u8
+#EXTINF:-1 channel-id="68c01785b3900870ec7480e4-no" tvg-id="68c01785b3900870ec7480e4" tvg-chno="3" tvg-name="Pluto TV Wild West" tvg-logo="https://images.pluto.tv/channels/68c01785b3900870ec7480e4/colorLogoPNG_1761916453250.png" group-title="Norway",Pluto TV Wild West
+https://jmp2.uk/plu-68c01785b3900870ec7480e4.m3u8
+#EXTINF:-1 channel-id="68c017bf337652ee75db201f-se" tvg-id="68c017bf337652ee75db201f" tvg-chno="3" tvg-name="Pluto TV Wild West" tvg-logo="https://images.pluto.tv/channels/68c017bf337652ee75db201f/colorLogoPNG_1761920427770.png" group-title="Sweden",Pluto TV Wild West
+https://jmp2.uk/plu-68c017bf337652ee75db201f.m3u8
+#EXTINF:-1 channel-id="68c01732b3900870ec74766f-dk" tvg-id="68c01732b3900870ec74766f" tvg-chno="2" tvg-name="Pluto TV Wild West" tvg-logo="https://images.pluto.tv/channels/68c01732b3900870ec74766f/colorLogoPNG_1761917904777.png" group-title="Denmark",Pluto TV Wild West
+https://jmp2.uk/plu-68c01732b3900870ec74766f.m3u8
 #EXTINF:-1 channel-id="65f0166566eec80008b96f7e-gb" tvg-id="65f0166566eec80008b96f7e" tvg-chno="701" tvg-name="Pluto TV Wildest Adventures" tvg-logo="https://images.pluto.tv/channels/65f0166566eec80008b96f7e/colorLogoPNG.png" group-title="United Kingdom",Pluto TV Wildest Adventures
 https://jmp2.uk/plu-65f0166566eec80008b96f7e.m3u8
 #EXTINF:-1 channel-id="65786888b228b7000843ad9a-es" tvg-id="65786888b228b7000843ad9a" tvg-chno="253" tvg-name="Pluto TV Zombies" tvg-logo="https://images.pluto.tv/channels/65786888b228b7000843ad9a/colorLogoPNG.png" group-title="Spain",Pluto TV Zombies
