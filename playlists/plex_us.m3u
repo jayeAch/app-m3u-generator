@@ -97,6 +97,8 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63c1ec0e0aa23f984207af82.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-606605549dbfca002d2ae875.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-646d06c9b09f13b2d8af68d8" tvg-id="5e20b730f2f8d5003d739db7-646d06c9b09f13b2d8af68d8" tvg-chno="" tvg-name="Azteca Internacional" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1088747e-b11d-466c-b652-ca6b291ceae5/azteca_internacional_white_1500x1000.png" group-title="En Español",Azteca Internacional
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-646d06c9b09f13b2d8af68d8.m3u8
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-69333216ac5b3f9f53442374" tvg-id="5e20b730f2f8d5003d739db7-69333216ac5b3f9f53442374" tvg-chno="" tvg-name="Baby Einstein" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e757f7e3-f3de-46f5-b6e0-9aa42bdb61d1/BabyEinstein_logo_1500x1000_light.png.png" group-title="Uncategorized",Baby Einstein
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-69333216ac5b3f9f53442374.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-60d4eddeb2fdec002c141137" tvg-id="5e20b730f2f8d5003d739db7-60d4eddeb2fdec002c141137" tvg-chno="" tvg-name="BABY SHARK TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f8f7c285-f574-4037-84cd-131a22066e57/Channel_Logo_dark_1500x1000_.png" group-title="Kids & Family",BABY SHARK TV
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-60d4eddeb2fdec002c141137.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" tvg-id="5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f" tvg-chno="" tvg-name="BACKSTAGE" tvg-logo="https://provider-static.plex.tv/epg/cms/production/56663e28-e7ee-4f34-a14e-dfca4d713704/Backsgtage_Logo_1500x1000.png" group-title="Music",BACKSTAGE
@@ -647,8 +649,6 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5eea605574085f0040ddc797.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-656fb124cb7e8e6a9bc3f36a.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6707d359da81682f2d1e683c" tvg-id="5e20b730f2f8d5003d739db7-6707d359da81682f2d1e683c" tvg-chno="" tvg-name="Kim's Convenience" tvg-logo="https://provider-static.plex.tv/epg/cms/production/73521d5b-09c4-4652-a121-049903035635/KimsConvenience_Color_LogoRDX.png" group-title="Uncategorized",Kim's Convenience
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6707d359da81682f2d1e683c.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-682e09a8dfc9c452b8f9bd66" tvg-id="5e20b730f2f8d5003d739db7-682e09a8dfc9c452b8f9bd66" tvg-chno="" tvg-name="KPOP+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1801862d-36c1-4450-b084-fe7309f94502/KPOP__logo_dark_-_Jason_Hwang_WHT_LETTERS.png" group-title="Uncategorized",KPOP+
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-682e09a8dfc9c452b8f9bd66.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-666e1af3d91d13cb4c8cbb6d" tvg-id="5e20b730f2f8d5003d739db7-666e1af3d91d13cb4c8cbb6d" tvg-chno="" tvg-name="La Fiebre del Jade" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fd21a845-1ffb-443d-91de-35d2dc3cb12c/channel_logo_1500x1000_light.png.png" group-title="Reality, En Español",La Fiebre del Jade
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-666e1af3d91d13cb4c8cbb6d.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-648095b14e104622d093d902" tvg-id="5e20b730f2f8d5003d739db7-648095b14e104622d093d902" tvg-chno="" tvg-name="Laff More" tvg-logo="https://provider-static.plex.tv/0/epg/channels/logos/gracenote/0dcdc1c519e1f78b74fb7d5147a81707.png" group-title="Classic TV",Laff More

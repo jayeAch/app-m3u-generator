@@ -115,6 +115,8 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-62ee76b5271f393d2d9f709a.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-618ab2f275913b296fbe56dd.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-621674f168c966be92737ce6" tvg-id="643054b1fc3be59477853717-621674f168c966be92737ce6" tvg-chno="" tvg-name="El Conflicto TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png" group-title="En Español",El Conflicto TV
 https://jmp2.uk/plex-643054b1fc3be59477853717-621674f168c966be92737ce6.m3u8
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-693cb1af58076a970420f591" tvg-id="643054b1fc3be59477853717-693cb1af58076a970420f591" tvg-chno="" tvg-name="El Mueble" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d64983e2-55b1-410b-9599-98a28f7b94ba/Logo_ElMueble_1500x1000_AllWhite_-_Belen_Bruno.png" group-title="Uncategorized",El Mueble
+https://jmp2.uk/plex-643054b1fc3be59477853717-693cb1af58076a970420f591.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-62ee74af52f7d73061eec491" tvg-id="643054b1fc3be59477853717-62ee74af52f7d73061eec491" tvg-chno="" tvg-name="Euro Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/97cac846-984e-4fdc-881a-6d4201d3849f/Euro_hits.png" group-title="Music",Euro Hits
 https://jmp2.uk/plex-643054b1fc3be59477853717-62ee74af52f7d73061eec491.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-60089d90f682a3002c348299" tvg-id="643054b1fc3be59477853717-60089d90f682a3002c348299" tvg-chno="" tvg-name="Euronews" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f0a48729-6f08-43e4-9cc4-44ba472281de/Marc_Faron_-_Wurl_Plex_assets_Channel-logo-white3x2_ENrdx.png" group-title="News",Euronews
@@ -219,8 +221,6 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-682dff1fdfc9c452b8f9842a.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-5eea605574085f0040ddc79a.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-656fb124cb7e8e6a9bc3f36a" tvg-id="643054b1fc3be59477853717-656fb124cb7e8e6a9bc3f36a" tvg-chno="" tvg-name="Kidz Bop TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ca4eaf02-b31d-4b56-8cad-1ff4601bb17b/KB_PLEX_1500x1000_Logo-Light-BG_-_James_Stowe.png" group-title="Kids & Family",Kidz Bop TV
 https://jmp2.uk/plex-643054b1fc3be59477853717-656fb124cb7e8e6a9bc3f36a.m3u8
-#EXTINF:-1 channel-id="643054b1fc3be59477853717-682e09a8dfc9c452b8f9bd66" tvg-id="643054b1fc3be59477853717-682e09a8dfc9c452b8f9bd66" tvg-chno="" tvg-name="KPOP+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1801862d-36c1-4450-b084-fe7309f94502/KPOP__logo_dark_-_Jason_Hwang_WHT_LETTERS.png" group-title="Uncategorized",KPOP+
-https://jmp2.uk/plex-643054b1fc3be59477853717-682e09a8dfc9c452b8f9bd66.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-666e1af3d91d13cb4c8cbb6d" tvg-id="643054b1fc3be59477853717-666e1af3d91d13cb4c8cbb6d" tvg-chno="" tvg-name="La Fiebre del Jade" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fd21a845-1ffb-443d-91de-35d2dc3cb12c/channel_logo_1500x1000_light.png.png" group-title="Reality, En Español",La Fiebre del Jade
 https://jmp2.uk/plex-643054b1fc3be59477853717-666e1af3d91d13cb4c8cbb6d.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-6196c9241d310bf925e02616" tvg-id="643054b1fc3be59477853717-6196c9241d310bf925e02616" tvg-chno="" tvg-name="Lone Star" tvg-logo="https://provider-static.plex.tv/1/epg/channels/logos/gracenote/1d8c9bf417f3e12668fecafc25fc8f72.png" group-title="Classic TV",Lone Star
