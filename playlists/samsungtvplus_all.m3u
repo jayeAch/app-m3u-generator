@@ -2021,7 +2021,7 @@ https://jmp2.uk/stvp-IT900009KL
 https://jmp2.uk/stvp-CA2900011BJ
 #EXTINF:-1 channel-id="US2900015RO-us" tvg-id="US2900015RO" tvg-chno="3676" tvg-name="Kartoon Channel!" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900015RO_20250217T210812SQUARE.png" group-title="United States",Kartoon Channel!
 https://jmp2.uk/stvp-US2900015RO
-#EXTINF:-1 channel-id="KRBC4400003SD-kr" tvg-id="KRBC4400003SD" tvg-chno="545" tvg-name="KBS 1박2일 시즌1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400003SD_20251029T003842SQUARE.png" group-title="South Korea",KBS 1박2일 시즌1
+#EXTINF:-1 channel-id="KRBC4400003SD-kr" tvg-id="KRBC4400003SD" tvg-chno="504" tvg-name="KBS 1박2일 시즌1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400003SD_20251224T002917SQUARE.png" group-title="South Korea",KBS 1박2일 시즌1
 https://jmp2.uk/stvp-KRBC4400003SD
 #EXTINF:-1 channel-id="KR45000060I-kr" tvg-id="KR45000060I" tvg-chno="512" tvg-name="KBS HOT CLIP 예능" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR45000060I_20251223T004830SQUARE.png" group-title="South Korea",KBS HOT CLIP 예능
 https://jmp2.uk/stvp-KR45000060I
@@ -2031,6 +2031,8 @@ https://jmp2.uk/stvp-KR45000052W
 https://jmp2.uk/stvp-KRBC3200009M7
 #EXTINF:-1 channel-id="KRBC4000005EP-kr" tvg-id="KRBC4000005EP" tvg-chno="586" tvg-name="KBS Joy 연애의 참견" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000005EP_20250827T010010SQUARE.png" group-title="South Korea",KBS Joy 연애의 참견
 https://jmp2.uk/stvp-KRBC4000005EP
+#EXTINF:-1 channel-id="KR4400003ER-kr" tvg-id="KR4400003ER" tvg-chno="503" tvg-name="KBS 가을동화 (Remastered)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4400003ER_20251224T002919SQUARE.png" group-title="South Korea",KBS 가을동화 (Remastered)
+https://jmp2.uk/stvp-KR4400003ER
 #EXTINF:-1 channel-id="KR700003L9-kr" tvg-id="KR700003L9" tvg-chno="517" tvg-name="KBS 개는 훌륭하다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR700003L9_20251223T004837SQUARE.png" group-title="South Korea",KBS 개는 훌륭하다
 https://jmp2.uk/stvp-KR700003L9
 #EXTINF:-1 channel-id="KR7000023Z-kr" tvg-id="KR7000023Z" tvg-chno="626" tvg-name="KBS 구르미 그린 달빛" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR7000023Z_20251001T005235SQUARE.png" group-title="South Korea",KBS 구르미 그린 달빛
@@ -2039,7 +2041,7 @@ https://jmp2.uk/stvp-KR7000023Z
 https://jmp2.uk/stvp-KRBC4400001TZ
 #EXTINF:-1 channel-id="KRBC4400002AO-kr" tvg-id="KRBC4400002AO" tvg-chno="627" tvg-name="KBS 태양의 후예" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400002AO_20250827T010019SQUARE.png" group-title="South Korea",KBS 태양의 후예
 https://jmp2.uk/stvp-KRBC4400002AO
-#EXTINF:-1 channel-id="KR4600012CR-kr" tvg-id="KR4600012CR" tvg-chno="657" tvg-name="KBS 태조 왕건" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4600012CR_20251223T004839SQUARE.png" group-title="South Korea",KBS 태조 왕건
+#EXTINF:-1 channel-id="KR4600012CR-kr" tvg-id="KR4600012CR" tvg-chno="506" tvg-name="KBS 태조 왕건" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4600012CR_20251224T002922SQUARE.png" group-title="South Korea",KBS 태조 왕건
 https://jmp2.uk/stvp-KR4600012CR
 #EXTINF:-1 channel-id="IN1600011DE-in" tvg-id="IN1600011DE" tvg-chno="1314" tvg-name="KCM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600011DE_20240828T013137SQUARE.png" group-title="India",KCM
 https://jmp2.uk/stvp-IN1600011DE
@@ -2301,6 +2303,8 @@ https://jmp2.uk/stvp-KRBC2000010X
 https://jmp2.uk/stvp-KRBC200002I0
 #EXTINF:-1 channel-id="KRBB5000073UD-kr" tvg-id="KRBB5000073UD" tvg-chno="571" tvg-name="MBC 놀면 뭐하니" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000073UD_20251015T000102SQUARE.png" group-title="South Korea",MBC 놀면 뭐하니
 https://jmp2.uk/stvp-KRBB5000073UD
+#EXTINF:-1 channel-id="KR4400004NB-kr" tvg-id="KR4400004NB" tvg-chno="505" tvg-name="MBC 다모 (Remastered)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4400004NB_20251224T002924SQUARE.png" group-title="South Korea",MBC 다모 (Remastered)
+https://jmp2.uk/stvp-KR4400004NB
 #EXTINF:-1 channel-id="KRBB5000069BS-kr" tvg-id="KRBB5000069BS" tvg-chno="521" tvg-name="MBC 무한도전" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000069BS_20251126T004423SQUARE.png" group-title="South Korea",MBC 무한도전
 https://jmp2.uk/stvp-KRBB5000069BS
 #EXTINF:-1 channel-id="KRBB5000070U4-kr" tvg-id="KRBB5000070U4" tvg-chno="640" tvg-name="MBC 밤에 피는 꽃" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000070U4_20250514T082404SQUARE.png" group-title="South Korea",MBC 밤에 피는 꽃
@@ -3269,6 +3273,8 @@ https://jmp2.uk/stvp-KRBB4200017HA
 https://jmp2.uk/stvp-KRBB4200005CK
 #EXTINF:-1 channel-id="KRBB4200002MM-kr" tvg-id="KRBB4200002MM" tvg-chno="522" tvg-name="SBS 런닝맨" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200002MM_20251126T004426SQUARE.png" group-title="South Korea",SBS 런닝맨
 https://jmp2.uk/stvp-KRBB4200002MM
+#EXTINF:-1 channel-id="KR44000056U-kr" tvg-id="KR44000056U" tvg-chno="507" tvg-name="SBS 명랑소녀 성공기 (Remastered)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR44000056U_20251224T002927SQUARE.png" group-title="South Korea",SBS 명랑소녀 성공기 (Remastered)
+https://jmp2.uk/stvp-KR44000056U
 #EXTINF:-1 channel-id="KRBB420000180-kr" tvg-id="KRBB420000180" tvg-chno="516" tvg-name="SBS 모범택시" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420000180_20251223T004859SQUARE.png" group-title="South Korea",SBS 모범택시
 https://jmp2.uk/stvp-KRBB420000180
 #EXTINF:-1 channel-id="KRBB4200003ZL-kr" tvg-id="KRBB4200003ZL" tvg-chno="584" tvg-name="SBS 미운 우리 새끼" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200003ZL_20250514T082359SQUARE.png" group-title="South Korea",SBS 미운 우리 새끼
