@@ -79,10 +79,6 @@ https://jmp2.uk/plu-6601948129adfd0008a1c0ba.m3u8
 https://jmp2.uk/plu-6703a96763292d000836b4fa.m3u8
 #EXTINF:-1 channel-id="62e9224f41d5e100076db2b6" tvg-id="62e9224f41d5e100076db2b6" tvg-chno="240" tvg-name="CSI" tvg-logo="https://images.pluto.tv/channels/62e9224f41d5e100076db2b6/colorLogoPNG.png" group-title="Crime Drama",CSI
 https://jmp2.uk/plu-62e9224f41d5e100076db2b6.m3u8
-#EXTINF:-1 channel-id="63f4e0e63fde020007835cbe" tvg-id="63f4e0e63fde020007835cbe" tvg-chno="241" tvg-name="CSI: Miami" tvg-logo="https://images.pluto.tv/channels/63f4e0e63fde020007835cbe/colorLogoPNG.png" group-title="Crime Drama",CSI: Miami
-https://jmp2.uk/plu-63f4e0e63fde020007835cbe.m3u8
-#EXTINF:-1 channel-id="63f4e11c7533d80008a1d5f0" tvg-id="63f4e11c7533d80008a1d5f0" tvg-chno="242" tvg-name="CSI: NY" tvg-logo="https://images.pluto.tv/channels/63f4e11c7533d80008a1d5f0/colorLogoPNG.png" group-title="Crime Drama",CSI: NY
-https://jmp2.uk/plu-63f4e11c7533d80008a1d5f0.m3u8
 #EXTINF:-1 channel-id="6540fec1770cf1000866b65b" tvg-id="6540fec1770cf1000866b65b" tvg-chno="455" tvg-name="Dance Moms" tvg-logo="https://images.pluto.tv/channels/6540fec1770cf1000866b65b/colorLogoPNG.png" group-title="Reality",Dance Moms
 https://jmp2.uk/plu-6540fec1770cf1000866b65b.m3u8
 #EXTINF:-1 channel-id="647f07e74cfc2c0008a2e557" tvg-id="647f07e74cfc2c0008a2e557" tvg-chno="707" tvg-name="DAZN TV" tvg-logo="https://images.pluto.tv/channels/647f07e74cfc2c0008a2e557/colorLogoPNG.png" group-title="Sports",DAZN TV
@@ -249,8 +245,6 @@ https://jmp2.uk/plu-62e93d0a80d8d10008a0181e.m3u8
 https://jmp2.uk/plu-62e94ec74823db0007277a8f.m3u8
 #EXTINF:-1 channel-id="6368e15a51e9560007c592ed" tvg-id="6368e15a51e9560007c592ed" tvg-chno="56" tvg-name="Out TV Proud" tvg-logo="https://images.pluto.tv/channels/6368e15a51e9560007c592ed/colorLogoPNG.png" group-title="Movies",Out TV Proud
 https://jmp2.uk/plu-6368e15a51e9560007c592ed.m3u8
-#EXTINF:-1 channel-id="62ea3ec626dc1900078e9f26" tvg-id="62ea3ec626dc1900078e9f26" tvg-chno="602" tvg-name="Paw Patrol" tvg-logo="https://images.pluto.tv/channels/62ea3ec626dc1900078e9f26/colorLogoPNG.png" group-title="Kids",Paw Patrol
-https://jmp2.uk/plu-62ea3ec626dc1900078e9f26.m3u8
 #EXTINF:-1 channel-id="68ee74b787869622d17a0f3a" tvg-id="68ee74b787869622d17a0f3a" tvg-chno="9" tvg-name="Paw Patrol Holiday Fireplace" tvg-logo="https://images.pluto.tv/channels/68ee74b787869622d17a0f3a/colorLogoPNG_1761844378558.png" group-title="Season's Greetings",Paw Patrol Holiday Fireplace
 https://jmp2.uk/plu-68ee74b787869622d17a0f3a.m3u8
 #EXTINF:-1 channel-id="63e20bd160bc8f0008b4c949" tvg-id="63e20bd160bc8f0008b4c949" tvg-chno="203" tvg-name="Perry Mason" tvg-logo="https://images.pluto.tv/channels/63e20bd160bc8f0008b4c949/colorLogoPNG.png" group-title="Classic TV",Perry Mason
