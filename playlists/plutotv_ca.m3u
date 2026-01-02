@@ -389,6 +389,8 @@ https://jmp2.uk/plu-64c2214c2a7f2200089a0c4b.m3u8
 https://jmp2.uk/plu-64c220e15dc1660008a79c96.m3u8
 #EXTINF:-1 channel-id="63da370e2e477400081cf8b6" tvg-id="63da370e2e477400081cf8b6" tvg-chno="543" tvg-name="The Weather Network" tvg-logo="https://images.pluto.tv/channels/63da370e2e477400081cf8b6/colorLogoPNG.png" group-title="News + Opinion",The Weather Network
 https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
+#EXTINF:-1 channel-id="691b023a7613e09a8b209539" tvg-id="691b023a7613e09a8b209539" tvg-chno="269" tvg-name="The X-Files" tvg-logo="https://images.pluto.tv/channels/691b023a7613e09a8b209539/colorLogoPNG_1767288050074.png" group-title="Sci-Fi",The X-Files
+https://jmp2.uk/plu-691b023a7613e09a8b209539.m3u8
 #EXTINF:-1 channel-id="64ca723a2bc49300081a8966" tvg-id="64ca723a2bc49300081a8966" tvg-chno="130" tvg-name="Three's Company" tvg-logo="https://images.pluto.tv/channels/64ca723a2bc49300081a8966/colorLogoPNG.png" group-title="Classic TV Comedy",Three's Company
 https://jmp2.uk/plu-64ca723a2bc49300081a8966.m3u8
 #EXTINF:-1 channel-id="62fb6da41afad500077e9178" tvg-id="62fb6da41afad500077e9178" tvg-chno="61" tvg-name="Thrillers 365" tvg-logo="https://images.pluto.tv/channels/62fb6da41afad500077e9178/colorLogoPNG.png" group-title="Movies",Thrillers 365
