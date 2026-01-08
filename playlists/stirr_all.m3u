@@ -119,6 +119,8 @@ https://jmp2.uk/str-6489.m3u8
 https://jmp2.uk/str-5299.m3u8
 #EXTINF:-1 channel-id="6411" tvg-id="6411" tvg-chno="304" tvg-name="Fuel TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/07/03/172002506794upvjlKT5-632x395-R4YX0pWw.png" group-title="Sports Live, Entertainment Live",Fuel TV
 https://jmp2.uk/str-6411.m3u8
+#EXTINF:-1 channel-id="5735" tvg-id="5735" tvg-chno="90" tvg-name="Gags  - Just for Laughs" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712612750Npdv5y4sxH-632x395-b7u0W2AX.jpeg" group-title="Comedy Live, Entertainment Live",Gags  - Just for Laughs
+https://jmp2.uk/str-5735.m3u8
 #EXTINF:-1 channel-id="7283" tvg-id="7283" tvg-chno="406" tvg-name="Goal TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/1751330357iXZkoSrM4n-632x395-HqNW8IE7.png" group-title="Sports Live",Goal TV
 https://jmp2.uk/str-7283.m3u8
 #EXTINF:-1 channel-id="5453" tvg-id="5453" tvg-chno="705" tvg-name="Gotraveler" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/01/1712000649TrNcfgiqdz-632x395-LMeNMg3D.jpeg" group-title="Other",Gotraveler
@@ -153,8 +155,6 @@ https://jmp2.uk/str-7043.m3u8
 https://jmp2.uk/str-7045.m3u8
 #EXTINF:-1 channel-id="5428" tvg-id="5428" tvg-chno="615" tvg-name="JLTV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/03/01/1709331714ve9YfyJg23-632x395-SXIeuCM9.png" group-title="Entertainment Live",JLTV
 https://jmp2.uk/str-5428.m3u8
-#EXTINF:-1 channel-id="5735" tvg-id="5735" tvg-chno="90" tvg-name="Just for Laughs" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712612750Npdv5y4sxH-632x395-b7u0W2AX.jpeg" group-title="Comedy Live, Entertainment Live",Just for Laughs
-https://jmp2.uk/str-5735.m3u8
 #EXTINF:-1 channel-id="6487" tvg-id="6487" tvg-chno="911" tvg-name="KATU 2 ABC - (Portland, OR*)" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/17353508483Q3vtxvGct-632x395-A2NatXu7.png" group-title="News Flash Live, STIRR Cities",KATU 2 ABC - (Portland OR*)
 https://jmp2.uk/str-6487.m3u8
 #EXTINF:-1 channel-id="5748" tvg-id="5748" tvg-chno="165" tvg-name="KIDDO+" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712615596PiXd3KGBGy-632x395-SXzw3Yqw.jpeg" group-title="Entertainment Live",KIDDO+

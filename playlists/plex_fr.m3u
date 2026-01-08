@@ -53,6 +53,8 @@ https://jmp2.uk/plex-6430aa45fc3be5947780904e-65b1568052aa31b8f64da064.m3u8
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-6164a963766ab4f9f57e81b1.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-64c91830ea7db2f52688c52c" tvg-id="6430aa45fc3be5947780904e-64c91830ea7db2f52688c52c" tvg-chno="" tvg-name="CBC News" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/d300a0c0dd6ffb82aca554ff87e8a364.png" group-title="Uncategorized",CBC News
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-64c91830ea7db2f52688c52c.m3u8
+#EXTINF:-1 channel-id="6430aa45fc3be5947780904e-693cbba358076a970420f597" tvg-id="6430aa45fc3be5947780904e-693cbba358076a970420f597" tvg-chno="" tvg-name="Cesar's Pack Leader TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d9111e2-8a5d-45a1-b65d-3c7fda85ae84/Cesar_pack_White_logoRDX.png" group-title="Uncategorized",Cesar's Pack Leader TV
+https://jmp2.uk/plex-6430aa45fc3be5947780904e-693cbba358076a970420f597.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-5ef11487d33ab9004048a1d3" tvg-id="6430aa45fc3be5947780904e-5ef11487d33ab9004048a1d3" tvg-chno="" tvg-name="Choppertown" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/choppertown.png" group-title="Lifestyle",Choppertown
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-5ef11487d33ab9004048a1d3.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-62167144ab2095ca85353ad6" tvg-id="6430aa45fc3be5947780904e-62167144ab2095ca85353ad6" tvg-chno="" tvg-name="CINEPRIDE" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9b44328-8571-4e8a-9066-022bd8665082/cinepride-logo.png" group-title="Lifestyle",CINEPRIDE
