@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/se.xml.gz"
 #EXTINF:-1 channel-id="6346935b94aa8c0007c5b7a2" tvg-id="6346935b94aa8c0007c5b7a2" tvg-chno="704" tvg-name="48 Hours" tvg-logo="https://images.pluto.tv/channels/6346935b94aa8c0007c5b7a2/colorLogoPNG.png" group-title="True Crime",48 Hours
 https://jmp2.uk/plu-6346935b94aa8c0007c5b7a2.m3u8
-#EXTINF:-1 channel-id="6728cab6e482950008b76d8c" tvg-id="6728cab6e482950008b76d8c" tvg-chno="207" tvg-name="7th Heaven" tvg-logo="https://images.pluto.tv/channels/6728cab6e482950008b76d8c/colorLogoPNG.png" group-title="Drama",7th Heaven
+#EXTINF:-1 channel-id="6728cab6e482950008b76d8c" tvg-id="6728cab6e482950008b76d8c" tvg-chno="208" tvg-name="7th Heaven" tvg-logo="https://images.pluto.tv/channels/6728cab6e482950008b76d8c/colorLogoPNG.png" group-title="Drama",7th Heaven
 https://jmp2.uk/plu-6728cab6e482950008b76d8c.m3u8
 #EXTINF:-1 channel-id="68c01954f89c82a68b084a50" tvg-id="68c01954f89c82a68b084a50" tvg-chno="50" tvg-name="Afterwork TV" tvg-logo="https://images.pluto.tv/channels/68c01954f89c82a68b084a50/colorLogoPNG_1760708260418.png" group-title="Svensk reality och underhållning",Afterwork TV
 https://jmp2.uk/plu-68c01954f89c82a68b084a50.m3u8
@@ -93,7 +93,7 @@ https://jmp2.uk/plu-62b1e5e77d15410007f798c6.m3u8
 https://jmp2.uk/plu-657886bfb9adc40008025554.m3u8
 #EXTINF:-1 channel-id="67a23bb777796f00080edaec" tvg-id="67a23bb777796f00080edaec" tvg-chno="107" tvg-name="Dominance FC TV" tvg-logo="https://images.pluto.tv/channels/67a23bb777796f00080edaec/colorLogoPNG_1750773346598.png" group-title="Sport",Dominance FC TV
 https://jmp2.uk/plu-67a23bb777796f00080edaec.m3u8
-#EXTINF:-1 channel-id="68f0f7dea362b63a8df50bd4" tvg-id="68f0f7dea362b63a8df50bd4" tvg-chno="6" tvg-name="Dr. Quinn, Medicine Woman" tvg-logo="https://images.pluto.tv/channels/68f0f7dea362b63a8df50bd4/colorLogoPNG_1762757713795.png" group-title="Nytt på Pluto TV",Dr. Quinn Medicine Woman
+#EXTINF:-1 channel-id="68f0f7dea362b63a8df50bd4" tvg-id="68f0f7dea362b63a8df50bd4" tvg-chno="207" tvg-name="Dr. Quinn, Medicine Woman" tvg-logo="https://images.pluto.tv/channels/68f0f7dea362b63a8df50bd4/colorLogoPNG_1762757713795.png" group-title="Drama",Dr. Quinn Medicine Woman
 https://jmp2.uk/plu-68f0f7dea362b63a8df50bd4.m3u8
 #EXTINF:-1 channel-id="65788611a620e30008fe36ff" tvg-id="65788611a620e30008fe36ff" tvg-chno="378" tvg-name="Duck Dynasty" tvg-logo="https://images.pluto.tv/channels/65788611a620e30008fe36ff/colorLogoPNG.png" group-title="Reality",Duck Dynasty
 https://jmp2.uk/plu-65788611a620e30008fe36ff.m3u8
@@ -191,7 +191,7 @@ https://jmp2.uk/plu-61c19165decece0007e9b2f3.m3u8
 https://jmp2.uk/plu-67f7d328efc5473b6b4ac5f4.m3u8
 #EXTINF:-1 channel-id="63a19eceb3d0eb0007439c34" tvg-id="63a19eceb3d0eb0007439c34" tvg-chno="552" tvg-name="MacGyver" tvg-logo="https://images.pluto.tv/channels/63a19eceb3d0eb0007439c34/colorLogoPNG.png" group-title="Gamla godingar",MacGyver
 https://jmp2.uk/plu-63a19eceb3d0eb0007439c34.m3u8
-#EXTINF:-1 channel-id="6825efbb9eed174f7ffbe5b0" tvg-id="6825efbb9eed174f7ffbe5b0" tvg-chno="4" tvg-name="Man with a Plan" tvg-logo="https://images.pluto.tv/channels/6825efbb9eed174f7ffbe5b0/colorLogoPNG_1747316725165.png" group-title="Nytt på Pluto TV",Man with a Plan
+#EXTINF:-1 channel-id="6825efbb9eed174f7ffbe5b0" tvg-id="6825efbb9eed174f7ffbe5b0" tvg-chno="1007" tvg-name="Man with a Plan" tvg-logo="https://images.pluto.tv/channels/6825efbb9eed174f7ffbe5b0/colorLogoPNG_1747316725165.png" group-title="Sitcoms",Man with a Plan
 https://jmp2.uk/plu-6825efbb9eed174f7ffbe5b0.m3u8
 #EXTINF:-1 channel-id="6501ae4998020f00085040ed" tvg-id="6501ae4998020f00085040ed" tvg-chno="394" tvg-name="Mannen som talar med hundar" tvg-logo="https://images.pluto.tv/channels/6501ae4998020f00085040ed/colorLogoPNG.png" group-title="Reality",Mannen som talar med hundar
 https://jmp2.uk/plu-6501ae4998020f00085040ed.m3u8
@@ -251,7 +251,7 @@ https://jmp2.uk/plu-679b94c897bed700080aad4d.m3u8
 https://jmp2.uk/plu-679b953715d6eb00081a97a7.m3u8
 #EXTINF:-1 channel-id="65b91b53dc10a40008d54777" tvg-id="65b91b53dc10a40008d54777" tvg-chno="204" tvg-name="Pluto TV Brittisk Crime & Drama" tvg-logo="https://images.pluto.tv/channels/65b91b53dc10a40008d54777/colorLogoPNG.png" group-title="Drama",Pluto TV Brittisk Crime & Drama
 https://jmp2.uk/plu-65b91b53dc10a40008d54777.m3u8
-#EXTINF:-1 channel-id="65b917720d9ab4000833f323" tvg-id="65b917720d9ab4000833f323" tvg-chno="302" tvg-name="Pluto TV Bud & Terence" tvg-logo="https://images.pluto.tv/channels/65b917720d9ab4000833f323/colorLogoPNG.png" group-title="Filmer",Pluto TV Bud & Terence
+#EXTINF:-1 channel-id="65b917720d9ab4000833f323" tvg-id="65b917720d9ab4000833f323" tvg-chno="303" tvg-name="Pluto TV Bud & Terence" tvg-logo="https://images.pluto.tv/channels/65b917720d9ab4000833f323/colorLogoPNG.png" group-title="Filmer",Pluto TV Bud & Terence
 https://jmp2.uk/plu-65b917720d9ab4000833f323.m3u8
 #EXTINF:-1 channel-id="660d5f2a635c75000828855f" tvg-id="660d5f2a635c75000828855f" tvg-chno="54" tvg-name="Pluto TV Buskis" tvg-logo="https://images.pluto.tv/channels/660d5f2a635c75000828855f/colorLogoPNG.png" group-title="Svensk reality och underhållning",Pluto TV Buskis
 https://jmp2.uk/plu-660d5f2a635c75000828855f.m3u8
@@ -265,7 +265,7 @@ https://jmp2.uk/plu-68dfa3e2cc3c6cd904052c41.m3u8
 https://jmp2.uk/plu-686faf533ffa5e0c912688e7.m3u8
 #EXTINF:-1 channel-id="63a19e1b9ab2df0007bef7a7" tvg-id="63a19e1b9ab2df0007bef7a7" tvg-chno="311" tvg-name="Pluto TV Horror" tvg-logo="https://images.pluto.tv/channels/63a19e1b9ab2df0007bef7a7/colorLogoPNG.png" group-title="Filmer",Pluto TV Horror
 https://jmp2.uk/plu-63a19e1b9ab2df0007bef7a7.m3u8
-#EXTINF:-1 channel-id="655caaaac0fc8800086f5d99" tvg-id="655caaaac0fc8800086f5d99" tvg-chno="10" tvg-name="Pluto TV John Wayne" tvg-logo="https://images.pluto.tv/channels/655caaaac0fc8800086f5d99/colorLogoPNG.png" group-title="Nytt på Pluto TV",Pluto TV John Wayne
+#EXTINF:-1 channel-id="655caaaac0fc8800086f5d99" tvg-id="655caaaac0fc8800086f5d99" tvg-chno="302" tvg-name="Pluto TV John Wayne" tvg-logo="https://images.pluto.tv/channels/655caaaac0fc8800086f5d99/colorLogoPNG.png" group-title="Filmer",Pluto TV John Wayne
 https://jmp2.uk/plu-655caaaac0fc8800086f5d99.m3u8
 #EXTINF:-1 channel-id="61c0b7eb8929e40007ff5125" tvg-id="61c0b7eb8929e40007ff5125" tvg-chno="918" tvg-name="Pluto TV Juniorklubben" tvg-logo="https://images.pluto.tv/channels/61c0b7eb8929e40007ff5125/colorLogoPNG_1748329630766.png" group-title="Barn",Pluto TV Juniorklubben
 https://jmp2.uk/plu-61c0b7eb8929e40007ff5125.m3u8
@@ -319,7 +319,7 @@ https://jmp2.uk/plu-64188b8483f58900083bc954.m3u8
 https://jmp2.uk/plu-643808dce0789d00084797f6.m3u8
 #EXTINF:-1 channel-id="61fb9907b1b78d000717ed9f" tvg-id="61fb9907b1b78d000717ed9f" tvg-chno="764" tvg-name="Smithsonian Channel Selects" tvg-logo="https://images.pluto.tv/channels/61fb9907b1b78d000717ed9f/colorLogoPNG.png" group-title="Dokumentärer",Smithsonian Channel Selects
 https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8
-#EXTINF:-1 channel-id="68adb11bf84960586ad4aae4" tvg-id="68adb11bf84960586ad4aae4" tvg-chno="7" tvg-name="Smurfarna" tvg-logo="https://images.pluto.tv/channels/68adb11bf84960586ad4aae4/colorLogoPNG_1760363370184.png" group-title="Nytt på Pluto TV",Smurfarna
+#EXTINF:-1 channel-id="68adb11bf84960586ad4aae4" tvg-id="68adb11bf84960586ad4aae4" tvg-chno="915" tvg-name="Smurfarna" tvg-logo="https://images.pluto.tv/channels/68adb11bf84960586ad4aae4/colorLogoPNG_1760363370184.png" group-title="Barn",Smurfarna
 https://jmp2.uk/plu-68adb11bf84960586ad4aae4.m3u8
 #EXTINF:-1 channel-id="61c0b627e3ed94000793c18a" tvg-id="61c0b627e3ed94000793c18a" tvg-chno="88" tvg-name="South Park" tvg-logo="https://images.pluto.tv/channels/61c0b627e3ed94000793c18a/colorLogoPNG_1754471271868.png" group-title="South Park",South Park
 https://jmp2.uk/plu-61c0b627e3ed94000793c18a.m3u8
@@ -343,7 +343,7 @@ https://jmp2.uk/plu-65d880cea25d5e0008315b0a.m3u8
 https://jmp2.uk/plu-65d882394e01740008a36768.m3u8
 #EXTINF:-1 channel-id="65d881914e01740008a36603" tvg-id="65d881914e01740008a36603" tvg-chno="91" tvg-name="South Park: Stan Collection" tvg-logo="https://images.pluto.tv/channels/65d881914e01740008a36603/colorLogoPNG.png" group-title="South Park",South Park: Stan Collection
 https://jmp2.uk/plu-65d881914e01740008a36603.m3u8
-#EXTINF:-1 channel-id="6400c2a6cb41a40008dbe5bc" tvg-id="6400c2a6cb41a40008dbe5bc" tvg-chno="2" tvg-name="Star Trek Movies" tvg-logo="https://images.pluto.tv/channels/6400c2a6cb41a40008dbe5bc/colorLogoPNG.png" group-title="Nytt på Pluto TV",Star Trek Movies
+#EXTINF:-1 channel-id="6400c2a6cb41a40008dbe5bc" tvg-id="6400c2a6cb41a40008dbe5bc" tvg-chno="301" tvg-name="Star Trek Movies" tvg-logo="https://images.pluto.tv/channels/6400c2a6cb41a40008dbe5bc/colorLogoPNG.png" group-title="Filmer",Star Trek Movies
 https://jmp2.uk/plu-6400c2a6cb41a40008dbe5bc.m3u8
 #EXTINF:-1 channel-id="61c18ec6ac860c0007684981" tvg-id="61c18ec6ac860c0007684981" tvg-chno="502" tvg-name="Stugfixarna Norge" tvg-logo="https://images.pluto.tv/channels/61c18ec6ac860c0007684981/colorLogoPNG.png" group-title="Mat & livsstil",Stugfixarna Norge
 https://jmp2.uk/plu-61c18ec6ac860c0007684981.m3u8
