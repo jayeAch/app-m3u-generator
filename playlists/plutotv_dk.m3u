@@ -377,7 +377,7 @@ https://jmp2.uk/plu-688a20c69034bd35f34aaa9e.m3u8
 https://jmp2.uk/plu-61c19d329b8260000744331b.m3u8
 #EXTINF:-1 channel-id="61fb988e032c0100077d5252" tvg-id="61fb988e032c0100077d5252" tvg-chno="919" tvg-name="Smithsonian Channel Selects" tvg-logo="https://images.pluto.tv/channels/61fb988e032c0100077d5252/colorLogoPNG.png" group-title="Dokumentarer",Smithsonian Channel Selects
 https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8
-#EXTINF:-1 channel-id="68adb066f7d7f0a9b9ff5d32" tvg-id="68adb066f7d7f0a9b9ff5d32" tvg-chno="998" tvg-name="Smølferne" tvg-logo="https://images.pluto.tv/channels/68adb066f7d7f0a9b9ff5d32/colorLogoPNG_1760363216935.png" group-title="For børn",Smølferne
+#EXTINF:-1 channel-id="68adb066f7d7f0a9b9ff5d32" tvg-id="68adb066f7d7f0a9b9ff5d32" tvg-chno="1000" tvg-name="Smølferne" tvg-logo="https://images.pluto.tv/channels/68adb066f7d7f0a9b9ff5d32/colorLogoPNG_1760363216935.png" group-title="For børn",Smølferne
 https://jmp2.uk/plu-68adb066f7d7f0a9b9ff5d32.m3u8
 #EXTINF:-1 channel-id="61c098df897b9d00070375c8" tvg-id="61c098df897b9d00070375c8" tvg-chno="154" tvg-name="South Park" tvg-logo="https://images.pluto.tv/channels/61c098df897b9d00070375c8/colorLogoPNG_1754471522651.png" group-title="South Park",South Park
 https://jmp2.uk/plu-61c098df897b9d00070375c8.m3u8
@@ -449,7 +449,7 @@ https://jmp2.uk/plu-62bebc3459624e00078209c3.m3u8
 https://jmp2.uk/plu-62a0aefc7c5f9f00075b4e24.m3u8
 #EXTINF:-1 channel-id="62b9b63d3bbe9000073c0a2d" tvg-id="62b9b63d3bbe9000073c0a2d" tvg-chno="322" tvg-name="Wildfire" tvg-logo="https://images.pluto.tv/channels/62b9b63d3bbe9000073c0a2d/colorLogoPNG.png" group-title="Drama",Wildfire
 https://jmp2.uk/plu-62b9b63d3bbe9000073c0a2d.m3u8
-#EXTINF:-1 channel-id="6909e5c3a3a4b49706b8373b" tvg-id="6909e5c3a3a4b49706b8373b" tvg-chno="474" tvg-name="Wipeout" tvg-logo="https://images.pluto.tv/channels/6909e5c3a3a4b49706b8373b/colorLogoPNG_1762279959144.png" group-title="Reality",Wipeout
+#EXTINF:-1 channel-id="6909e5c3a3a4b49706b8373b" tvg-id="6909e5c3a3a4b49706b8373b" tvg-chno="474" tvg-name="Wipeout" tvg-logo="https://images.pluto.tv/channels/6909e5c3a3a4b49706b8373b/colorLogoPNG_1762279959144.png" group-title="Realityserier",Wipeout
 https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8
 #EXTINF:-1 channel-id="6440f8ba939a5900082bddc8" tvg-id="6440f8ba939a5900082bddc8" tvg-chno="455" tvg-name="World of Love Island" tvg-logo="https://images.pluto.tv/channels/6440f8ba939a5900082bddc8/colorLogoPNG.png" group-title="Realityserier",World of Love Island
 https://jmp2.uk/plu-6440f8ba939a5900082bddc8.m3u8
