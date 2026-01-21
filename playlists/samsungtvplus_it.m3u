@@ -23,6 +23,8 @@ https://jmp2.uk/stvp-ITBC1100001G5
 https://jmp2.uk/stvp-ITBA14000026G
 #EXTINF:-1 channel-id="ITBD3200003HL" tvg-id="ITBD3200003HL" tvg-chno="4241" tvg-name="Andromeda" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200003HL_20241022T051531SQUARE.png" group-title="Serie TV",Andromeda
 https://jmp2.uk/stvp-ITBD3200003HL
+#EXTINF:-1 channel-id="IT2900003UK" tvg-id="IT2900003UK" tvg-chno="4661" tvg-name="Automoto" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2900003UK_20260120T044620SQUARE.png" group-title="Sport",Automoto
+https://jmp2.uk/stvp-IT2900003UK
 #EXTINF:-1 channel-id="ITBD3200004KN" tvg-id="ITBD3200004KN" tvg-chno="4251" tvg-name="Autostop per il Cielo" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200004KN_20241022T051533SQUARE.png" group-title="Serie TV",Autostop per il Cielo
 https://jmp2.uk/stvp-ITBD3200004KN
 #EXTINF:-1 channel-id="IT3200002L5" tvg-id="IT3200002L5" tvg-chno="4487" tvg-name="BBC Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200002L5_20251125T102448SQUARE.png" group-title="Documentari",BBC Earth
@@ -219,8 +221,8 @@ https://jmp2.uk/stvp-IT700004X4
 https://jmp2.uk/stvp-ITBA2200008IM
 #EXTINF:-1 channel-id="IT3200004WU" tvg-id="IT3200004WU" tvg-chno="4553" tvg-name="Rai News 24" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200004WU_20251111T012440SQUARE.png" group-title="News",Rai News 24
 https://jmp2.uk/stvp-IT3200004WU
-#EXTINF:-1 channel-id="IT1600005VM" tvg-id="IT1600005VM" tvg-chno="4663" tvg-name="Rally.TV FAST+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1600005VM_20260120T044617SQUARE.png" group-title="Sport",Rally.TV FAST+
-https://jmp2.uk/stvp-IT1600005VM
+#EXTINF:-1 channel-id="IT510000124" tvg-id="IT510000124" tvg-chno="4663" tvg-name="Rally.TV FAST+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT510000124_20260120T044623SQUARE.png" group-title="Sport",Rally.TV FAST+
+https://jmp2.uk/stvp-IT510000124
 #EXTINF:-1 channel-id="ITBD2300001MT" tvg-id="ITBD2300001MT" tvg-chno="4637" tvg-name="RBN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD2300001MT_20241022T043806SQUARE.png" group-title="Calcio",RBN
 https://jmp2.uk/stvp-ITBD2300001MT
 #EXTINF:-1 channel-id="IT900007I0" tvg-id="IT900007I0" tvg-chno="4069" tvg-name="Real time" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900007I0_20250408T021507SQUARE.png" group-title="Intrattenimento",Real time

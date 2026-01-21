@@ -119,8 +119,6 @@ https://jmp2.uk/stvp-DEAK0500445A
 https://jmp2.uk/stvp-DEAK0500449A
 #EXTINF:-1 channel-id="DE500002LD" tvg-id="DE500002LD" tvg-chno="4214" tvg-name="H2O & Friends" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE500002LD_20250902T003359SQUARE.png" group-title="Entertainment",H2O & Friends
 https://jmp2.uk/stvp-DE500002LD
-#EXTINF:-1 channel-id="DE3700004DM" tvg-id="DE3700004DM" tvg-chno="4232" tvg-name="Heartland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3700004DM_20260120T031233SQUARE.png" group-title="Serien",Heartland
-https://jmp2.uk/stvp-DE3700004DM
 #EXTINF:-1 channel-id="DEBC47000055Z" tvg-id="DEBC47000055Z" tvg-chno="4073" tvg-name="Hell's Kitchen" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC47000055Z_20250107T024331SQUARE.png" group-title="Entertainment",Hell's Kitchen
 https://jmp2.uk/stvp-DEBC47000055Z
 #EXTINF:-1 channel-id="DE1000001CT" tvg-id="DE1000001CT" tvg-chno="4237" tvg-name="Herzfrequenz" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1000001CT_20250805T005041SQUARE.png" group-title="Serien",Herzfrequenz
@@ -167,6 +165,8 @@ https://jmp2.uk/stvp-DEBD4700001UN
 https://jmp2.uk/stvp-DEBC4700004VZ
 #EXTINF:-1 channel-id="DE4100001GN" tvg-id="DE4100001GN" tvg-chno="4202" tvg-name="Mark Rober TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4100001GN_20251111T014009SQUARE.png" group-title="Entertainment",Mark Rober TV
 https://jmp2.uk/stvp-DE4100001GN
+#EXTINF:-1 channel-id="DE3800002J1" tvg-id="DE3800002J1" tvg-chno="4806" tvg-name="Mascha und der Bär" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3800002J1_20260120T031242SQUARE.png" group-title="Kids",Mascha und der Bär
+https://jmp2.uk/stvp-DE3800002J1
 #EXTINF:-1 channel-id="DE3900004ZH" tvg-id="DE3900004ZH" tvg-chno="4883" tvg-name="Merhaba Türkische Filme" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3900004ZH_20251209T005109SQUARE.png" group-title="Filme",Merhaba Türkische Filme
 https://jmp2.uk/stvp-DE3900004ZH
 #EXTINF:-1 channel-id="DEBD4100001ZB" tvg-id="DEBD4100001ZB" tvg-chno="4245" tvg-name="Merhaba Türkische Serien" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD4100001ZB_20250107T024900SQUARE.png" group-title="Serien",Merhaba Türkische Serien
@@ -197,8 +197,6 @@ https://jmp2.uk/stvp-DEBA3300032UV
 https://jmp2.uk/stvp-DE4300003MR
 #EXTINF:-1 channel-id="DEBD11000019M" tvg-id="DEBD11000019M" tvg-chno="4190" tvg-name="Naruto" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD11000019M_20250107T024353SQUARE.png" group-title="Anime",Naruto
 https://jmp2.uk/stvp-DEBD11000019M
-#EXTINF:-1 channel-id="DE4600001CD" tvg-id="DE4600001CD" tvg-chno="4233" tvg-name="Nashville" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4600001CD_20260120T031236SQUARE.png" group-title="Serien",Nashville
-https://jmp2.uk/stvp-DE4600001CD
 #EXTINF:-1 channel-id="DE21000013K" tvg-id="DE21000013K" tvg-chno="4491" tvg-name="NatureTime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE21000013K_20251111T014012SQUARE.png" group-title="Dokus & Wissen",NatureTime
 https://jmp2.uk/stvp-DE21000013K
 #EXTINF:-1 channel-id="DEAJ0500419A" tvg-id="DEAJ0500419A" tvg-chno="4881" tvg-name="Netzkino" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500419A_20250107T023939SQUARE.png" group-title="Filme",Netzkino
@@ -233,8 +231,10 @@ https://jmp2.uk/stvp-DEAJ700007OT
 https://jmp2.uk/stvp-DEAK3504508A
 #EXTINF:-1 channel-id="DE700001BN" tvg-id="DE700001BN" tvg-chno="4781" tvg-name="Pocoyo" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE700001BN_20250805T005043SQUARE.png" group-title="Kids",Pocoyo
 https://jmp2.uk/stvp-DE700001BN
-#EXTINF:-1 channel-id="DE1600007AQ" tvg-id="DE1600007AQ" tvg-chno="4663" tvg-name="Rally.TV FAST+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1600007AQ_20260120T031239SQUARE.png" group-title="Sport",Rally.TV FAST+
-https://jmp2.uk/stvp-DE1600007AQ
+#EXTINF:-1 channel-id="DE4100002KC" tvg-id="DE4100002KC" tvg-chno="4808" tvg-name="Rabbids Invasion" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4100002KC_20260120T031246SQUARE.png" group-title="Kids",Rabbids Invasion
+https://jmp2.uk/stvp-DE4100002KC
+#EXTINF:-1 channel-id="DE5100001TC" tvg-id="DE5100001TC" tvg-chno="4663" tvg-name="Rally.TV FAST+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE5100001TC_20260120T031249SQUARE.png" group-title="Sport",Rally.TV FAST+
+https://jmp2.uk/stvp-DE5100001TC
 #EXTINF:-1 channel-id="DEBC2300001EU" tvg-id="DEBC2300001EU" tvg-chno="4003" tvg-name="Red Bull TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2300001EU_20260113T032207SQUARE.png" group-title="Sport",Red Bull TV
 https://jmp2.uk/stvp-DEBC2300001EU
 #EXTINF:-1 channel-id="DEBD4900001QV" tvg-id="DEBD4900001QV" tvg-chno="4575" tvg-name="Reuters" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD4900001QV_20250107T024918SQUARE.png" group-title="News",Reuters
@@ -359,3 +359,5 @@ https://jmp2.uk/stvp-DEBD3700002HO
 https://jmp2.uk/stvp-DE37000038D
 #EXTINF:-1 channel-id="DEAJ2900003CN" tvg-id="DEAJ2900003CN" tvg-chno="4242" tvg-name="Zee One" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ2900003CN_20251013T054836SQUARE.png" group-title="Serien",Zee One
 https://jmp2.uk/stvp-DEAJ2900003CN
+#EXTINF:-1 channel-id="DE1400002W0" tvg-id="DE1400002W0" tvg-chno="4210" tvg-name="Zee TV HD DE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1400002W0_20260120T031252SQUARE.png" group-title="Entertainment",Zee TV HD DE
+https://jmp2.uk/stvp-DE1400002W0

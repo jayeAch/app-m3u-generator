@@ -2265,6 +2265,8 @@ https://jmp2.uk/plu-654a4cc3f91d250008ac11f6.m3u8
 https://jmp2.uk/plu-61c19bfb3bf4940007804d32.m3u8
 #EXTINF:-1 channel-id="62bed7cb3279cb0007735327-dk" tvg-id="62bed7cb3279cb0007735327" tvg-chno="450" tvg-name="Love Island UK" tvg-logo="https://images.pluto.tv/channels/62bed7cb3279cb0007735327/colorLogoPNG_1760363255404.png" group-title="Denmark",Love Island UK
 https://jmp2.uk/plu-62bed7cb3279cb0007735327.m3u8
+#EXTINF:-1 channel-id="695e2857026be6e9d3ad59d3-dk" tvg-id="695e2857026be6e9d3ad59d3" tvg-chno="1" tvg-name="Love Island USA" tvg-logo="https://images.pluto.tv/channels/695e2857026be6e9d3ad59d3/colorLogoPNG_1768808291831.png" group-title="Denmark",Love Island USA
+https://jmp2.uk/plu-695e2857026be6e9d3ad59d3.m3u8
 #EXTINF:-1 channel-id="68ad8bececd330dcb0f050b5-dk" tvg-id="68ad8bececd330dcb0f050b5" tvg-chno="451" tvg-name="Love Island: All Stars" tvg-logo="https://images.pluto.tv/channels/68ad8bececd330dcb0f050b5/colorLogoPNG_1756794871691.png" group-title="Denmark",Love Island: All Stars
 https://jmp2.uk/plu-68ad8bececd330dcb0f050b5.m3u8
 #EXTINF:-1 channel-id="66df8a29b25d2b0008fc5fe0-us" tvg-id="66df8a29b25d2b0008fc5fe0" tvg-chno="3585" tvg-name="Love Nature" tvg-logo="https://images.pluto.tv/channels/66df8a29b25d2b0008fc5fe0/colorLogoPNG.png" group-title="United States",Love Nature
@@ -4253,7 +4255,7 @@ https://jmp2.uk/plu-64d2b6bf9b414d0008187d83.m3u8
 https://jmp2.uk/plu-64e89cfc9c1e3900084ca663.m3u8
 #EXTINF:-1 channel-id="6549316d2c1d330008631496-us" tvg-id="6549316d2c1d330008631496" tvg-chno="1790" tvg-name="Real Housewives Vault" tvg-logo="https://images.pluto.tv/channels/6549316d2c1d330008631496/colorLogoPNG.png" group-title="United States",Real Housewives Vault
 https://jmp2.uk/plu-6549316d2c1d330008631496.m3u8
-#EXTINF:-1 channel-id="692ec3a76f84242a60f75f59-dk" tvg-id="692ec3a76f84242a60f75f59" tvg-chno="1" tvg-name="Reality Awards" tvg-logo="https://images.pluto.tv/channels/692ec3a76f84242a60f75f59/colorLogoPNG_1766133823688.png" group-title="Denmark",Reality Awards
+#EXTINF:-1 channel-id="692ec3a76f84242a60f75f59-dk" tvg-id="692ec3a76f84242a60f75f59" tvg-chno="2" tvg-name="Reality Awards" tvg-logo="https://images.pluto.tv/channels/692ec3a76f84242a60f75f59/colorLogoPNG_1766133823688.png" group-title="Denmark",Reality Awards
 https://jmp2.uk/plu-692ec3a76f84242a60f75f59.m3u8
 #EXTINF:-1 channel-id="65f96cd34e01740008ef1c97-es" tvg-id="65f96cd34e01740008ef1c97" tvg-chno="559" tvg-name="Realmadrid TV" tvg-logo="https://images.pluto.tv/channels/65f96cd34e01740008ef1c97/colorLogoPNG.png" group-title="Spain",Realmadrid TV
 https://jmp2.uk/plu-65f96cd34e01740008ef1c97.m3u8
