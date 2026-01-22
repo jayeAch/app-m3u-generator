@@ -243,12 +243,6 @@ https://jmp2.uk/plu-61c09a3894aa450007814aea.m3u8
 https://jmp2.uk/plu-66bb36e03a4ad200082bb8fe.m3u8
 #EXTINF:-1 channel-id="61c0b0688a80a4000703fbcb" tvg-id="61c0b0688a80a4000703fbcb" tvg-chno="308" tvg-name="Pluto TV Action" tvg-logo="https://images.pluto.tv/channels/61c0b0688a80a4000703fbcb/colorLogoPNG.png" group-title="Filmer",Pluto TV Action
 https://jmp2.uk/plu-61c0b0688a80a4000703fbcb.m3u8
-#EXTINF:-1 channel-id="6745b127e40c4a0008ebe16d" tvg-id="6745b127e40c4a0008ebe16d" tvg-chno="113" tvg-name="Pluto TV AIK" tvg-logo="https://images.pluto.tv/channels/6745b127e40c4a0008ebe16d/colorLogoPNG.png" group-title="Sport",Pluto TV AIK
-https://jmp2.uk/plu-6745b127e40c4a0008ebe16d.m3u8
-#EXTINF:-1 channel-id="679b94c897bed700080aad4d" tvg-id="679b94c897bed700080aad4d" tvg-chno="114" tvg-name="Pluto TV AIK FollowUs" tvg-logo="https://images.pluto.tv/channels/679b94c897bed700080aad4d/colorLogoPNG.png" group-title="Sport",Pluto TV AIK FollowUs
-https://jmp2.uk/plu-679b94c897bed700080aad4d.m3u8
-#EXTINF:-1 channel-id="679b953715d6eb00081a97a7" tvg-id="679b953715d6eb00081a97a7" tvg-chno="116" tvg-name="Pluto TV AIK Matcher vi minns" tvg-logo="https://images.pluto.tv/channels/679b953715d6eb00081a97a7/colorLogoPNG.png" group-title="Sport",Pluto TV AIK Matcher vi minns
-https://jmp2.uk/plu-679b953715d6eb00081a97a7.m3u8
 #EXTINF:-1 channel-id="65b91b53dc10a40008d54777" tvg-id="65b91b53dc10a40008d54777" tvg-chno="204" tvg-name="Pluto TV Brittisk Crime & Drama" tvg-logo="https://images.pluto.tv/channels/65b91b53dc10a40008d54777/colorLogoPNG.png" group-title="Drama",Pluto TV Brittisk Crime & Drama
 https://jmp2.uk/plu-65b91b53dc10a40008d54777.m3u8
 #EXTINF:-1 channel-id="65b917720d9ab4000833f323" tvg-id="65b917720d9ab4000833f323" tvg-chno="303" tvg-name="Pluto TV Bud & Terence" tvg-logo="https://images.pluto.tv/channels/65b917720d9ab4000833f323/colorLogoPNG.png" group-title="Filmer",Pluto TV Bud & Terence
@@ -283,8 +277,6 @@ https://jmp2.uk/plu-61f9597e78607000074f6c2a.m3u8
 https://jmp2.uk/plu-68ac56363efb41cd979a8005.m3u8
 #EXTINF:-1 channel-id="62cd74e38f6f0d000798cd93" tvg-id="62cd74e38f6f0d000798cd93" tvg-chno="101" tvg-name="Pluto TV Sport" tvg-logo="https://images.pluto.tv/channels/62cd74e38f6f0d000798cd93/colorLogoPNG_1746816954969.png" group-title="Sport",Pluto TV Sport
 https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8
-#EXTINF:-1 channel-id="679b98b41e1af8000865530e" tvg-id="679b98b41e1af8000865530e" tvg-chno="118" tvg-name="Pluto TV Studio AIK" tvg-logo="https://images.pluto.tv/channels/679b98b41e1af8000865530e/colorLogoPNG.png" group-title="Sport",Pluto TV Studio AIK
-https://jmp2.uk/plu-679b98b41e1af8000865530e.m3u8
 #EXTINF:-1 channel-id="67f5095a3481170e6843d95d" tvg-id="67f5095a3481170e6843d95d" tvg-chno="921" tvg-name="Pluto TV Tecknade klassiker" tvg-logo="https://images.pluto.tv/channels/67f5095a3481170e6843d95d/colorLogoPNG_1748955339418.png" group-title="Barn",Pluto TV Tecknade klassiker
 https://jmp2.uk/plu-67f5095a3481170e6843d95d.m3u8
 #EXTINF:-1 channel-id="61c0b6f028e94c000782684a" tvg-id="61c0b6f028e94c000782684a" tvg-chno="920" tvg-name="Pluto TV Tecknat" tvg-logo="https://images.pluto.tv/channels/61c0b6f028e94c000782684a/colorLogoPNG_1749627909756.png" group-title="Barn",Pluto TV Tecknat
