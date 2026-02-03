@@ -485,6 +485,8 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-6322658be67cf9cd9011fcda.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-61d738b5a7b7c7f703418514.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-614398a08f30fa61e0da7c97" tvg-id="643054b1fc3be59477853717-614398a08f30fa61e0da7c97" tvg-chno="" tvg-name="True History" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f37684ab-5eb6-48dd-8999-fbb6345689d4/1500x1000-DarkBG.png" group-title="History & Science",True History
 https://jmp2.uk/plex-643054b1fc3be59477853717-614398a08f30fa61e0da7c97.m3u8
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-68a799722895f21006e758e4" tvg-id="643054b1fc3be59477853717-68a799722895f21006e758e4" tvg-chno="" tvg-name="TV5MONDE Info" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1ac1bf6b-ab6e-4a44-9268-c8c2374befce/TV5MONDE_INFO_WHT_1500x1000_-_Patrice.png" group-title="Uncategorized",TV5MONDE Info
+https://jmp2.uk/plex-643054b1fc3be59477853717-68a799722895f21006e758e4.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-66ccae1a78822c7edc4b6df1" tvg-id="643054b1fc3be59477853717-66ccae1a78822c7edc4b6df1" tvg-chno="" tvg-name="UFC" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e1cfac6a-9e69-443a-b14c-c99e2cb50ead/UFC_logo_WHT_1500x1000.png" group-title="Sports",UFC
 https://jmp2.uk/plex-643054b1fc3be59477853717-66ccae1a78822c7edc4b6df1.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-67f45ef989089d917e1b1634" tvg-id="643054b1fc3be59477853717-67f45ef989089d917e1b1634" tvg-chno="" tvg-name="Unbeaten" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0b6f4951-d177-464c-aafc-0e35b61b48da/Unbeaten_logo_dark_-_Sam_Neazi.png" group-title="Sports",Unbeaten
