@@ -89,7 +89,7 @@ https://jmp2.uk/plu-67a23b899a300a00086f3371.m3u8
 https://jmp2.uk/plu-68f0f7571d26140175255e43.m3u8
 #EXTINF:-1 channel-id="657739fcb9adc40008fe02f4" tvg-id="657739fcb9adc40008fe02f4" tvg-chno="434" tvg-name="Duck Dynasty" tvg-logo="https://images.pluto.tv/channels/657739fcb9adc40008fe02f4/colorLogoPNG.png" group-title="Realityserier",Duck Dynasty
 https://jmp2.uk/plu-657739fcb9adc40008fe02f4.m3u8
-#EXTINF:-1 channel-id="68f0fad2fae18f8db62a9f37" tvg-id="68f0fad2fae18f8db62a9f37" tvg-chno="2" tvg-name="Dynastiet" tvg-logo="https://images.pluto.tv/channels/68f0fad2fae18f8db62a9f37/colorLogoPNG_1762758122454.png" group-title="Nytt på Pluto TV",Dynastiet
+#EXTINF:-1 channel-id="68f0fad2fae18f8db62a9f37" tvg-id="68f0fad2fae18f8db62a9f37" tvg-chno="3" tvg-name="Dynastiet" tvg-logo="https://images.pluto.tv/channels/68f0fad2fae18f8db62a9f37/colorLogoPNG_1762758122454.png" group-title="Nytt på Pluto TV",Dynastiet
 https://jmp2.uk/plu-68f0fad2fae18f8db62a9f37.m3u8
 #EXTINF:-1 channel-id="66d71485167a8b0008fd3345" tvg-id="66d71485167a8b0008fd3345" tvg-chno="560" tvg-name="Escape to the Country" tvg-logo="https://images.pluto.tv/channels/66d71485167a8b0008fd3345/colorLogoPNG.png" group-title="Mat & livsstil",Escape to the Country
 https://jmp2.uk/plu-66d71485167a8b0008fd3345.m3u8
@@ -133,6 +133,8 @@ https://jmp2.uk/plu-619e286e093e7c0007489e6a.m3u8
 https://jmp2.uk/plu-671b4e47daad7f000868b840.m3u8
 #EXTINF:-1 channel-id="655ca968c917a5000830f8f5" tvg-id="655ca968c917a5000830f8f5" tvg-chno="704" tvg-name="Hot Ones" tvg-logo="https://images.pluto.tv/channels/655ca968c917a5000830f8f5/colorLogoPNG_1756259939441.png" group-title="Talkshow",Hot Ones
 https://jmp2.uk/plu-655ca968c917a5000830f8f5.m3u8
+#EXTINF:-1 channel-id="693ae65fab5959c036fa6c1e" tvg-id="693ae65fab5959c036fa6c1e" tvg-chno="2" tvg-name="House of Lies" tvg-logo="https://images.pluto.tv/channels/693ae65fab5959c036fa6c1e/colorLogoPNG_1769415741148.png" group-title="Nytt på Pluto TV",House of Lies
+https://jmp2.uk/plu-693ae65fab5959c036fa6c1e.m3u8
 #EXTINF:-1 channel-id="6501ad3a98020f0008503dba" tvg-id="6501ad3a98020f0008503dba" tvg-chno="442" tvg-name="Hundehviskeren" tvg-logo="https://images.pluto.tv/channels/6501ad3a98020f0008503dba/colorLogoPNG.png" group-title="Realityserier",Hundehviskeren
 https://jmp2.uk/plu-6501ad3a98020f0008503dba.m3u8
 #EXTINF:-1 channel-id="6578852bcbd0d60008f876d7" tvg-id="6578852bcbd0d60008f876d7" tvg-chno="758" tvg-name="I Survived" tvg-logo="https://images.pluto.tv/channels/6578852bcbd0d60008f876d7/colorLogoPNG.png" group-title="Dokumentarer",I Survived

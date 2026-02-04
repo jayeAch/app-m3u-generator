@@ -143,6 +143,8 @@ https://jmp2.uk/plu-619e4a3518d6970008bebc95.m3u8
 https://jmp2.uk/plu-671b4e8bc7626f00089b7194.m3u8
 #EXTINF:-1 channel-id="655caa815812e80008884322" tvg-id="655caa815812e80008884322" tvg-chno="664" tvg-name="Hot Ones" tvg-logo="https://images.pluto.tv/channels/655caa815812e80008884322/colorLogoPNG_1756234606437.png" group-title="Talkshow",Hot Ones
 https://jmp2.uk/plu-655caa815812e80008884322.m3u8
+#EXTINF:-1 channel-id="693ae6bf0ddf7d2a40b7fd35" tvg-id="693ae6bf0ddf7d2a40b7fd35" tvg-chno="2" tvg-name="House of Lies" tvg-logo="https://images.pluto.tv/channels/693ae6bf0ddf7d2a40b7fd35/colorLogoPNG_1769415899854.png" group-title="Nytt på Pluto TV",House of Lies
+https://jmp2.uk/plu-693ae6bf0ddf7d2a40b7fd35.m3u8
 #EXTINF:-1 channel-id="6537abf42cf1310008441686" tvg-id="6537abf42cf1310008441686" tvg-chno="60" tvg-name="Högspänning" tvg-logo="https://images.pluto.tv/channels/6537abf42cf1310008441686/colorLogoPNG.png" group-title="Svensk reality och underhållning",Högspänning
 https://jmp2.uk/plu-6537abf42cf1310008441686.m3u8
 #EXTINF:-1 channel-id="657887d9dfed030008ce8aa8" tvg-id="657887d9dfed030008ce8aa8" tvg-chno="760" tvg-name="I Survived" tvg-logo="https://images.pluto.tv/channels/657887d9dfed030008ce8aa8/colorLogoPNG.png" group-title="Dokumentärer",I Survived
