@@ -197,7 +197,7 @@ https://jmp2.uk/plu-6825efbb9eed174f7ffbe5b0.m3u8
 https://jmp2.uk/plu-6501ae4998020f00085040ed.m3u8
 #EXTINF:-1 channel-id="66290c12801af8000850c1a9" tvg-id="66290c12801af8000850c1a9" tvg-chno="554" tvg-name="Matlock" tvg-logo="https://images.pluto.tv/channels/66290c12801af8000850c1a9/colorLogoPNG.png" group-title="Gamla godingar",Matlock
 https://jmp2.uk/plu-66290c12801af8000850c1a9.m3u8
-#EXTINF:-1 channel-id="68f0f642a25ba0aab3e64e66" tvg-id="68f0f642a25ba0aab3e64e66" tvg-chno="5" tvg-name="Medium" tvg-logo="https://images.pluto.tv/channels/68f0f642a25ba0aab3e64e66/colorLogoPNG_1764726581344.png" group-title="Nytt på Pluto TV",Medium
+#EXTINF:-1 channel-id="68f0f642a25ba0aab3e64e66" tvg-id="68f0f642a25ba0aab3e64e66" tvg-chno="203" tvg-name="Medium" tvg-logo="https://images.pluto.tv/channels/68f0f642a25ba0aab3e64e66/colorLogoPNG_1764726581344.png" group-title="Drama",Medium
 https://jmp2.uk/plu-68f0f642a25ba0aab3e64e66.m3u8
 #EXTINF:-1 channel-id="62a0b070d4566c0007a0d1bd" tvg-id="62a0b070d4566c0007a0d1bd" tvg-chno="206" tvg-name="Melrose Place" tvg-logo="https://images.pluto.tv/channels/62a0b070d4566c0007a0d1bd/colorLogoPNG.png" group-title="Drama",Melrose Place
 https://jmp2.uk/plu-62a0b070d4566c0007a0d1bd.m3u8
@@ -289,7 +289,7 @@ https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8
 https://jmp2.uk/plu-67f3fc1707d2ba4121bd34a8.m3u8
 #EXTINF:-1 channel-id="677d3ad04bd63600082f7c54" tvg-id="677d3ad04bd63600082f7c54" tvg-chno="754" tvg-name="Pluto TV Världskrigen" tvg-logo="https://images.pluto.tv/channels/677d3ad04bd63600082f7c54/colorLogoPNG_1759445391825.png" group-title="Dokumentärer",Pluto TV Världskrigen
 https://jmp2.uk/plu-677d3ad04bd63600082f7c54.m3u8
-#EXTINF:-1 channel-id="68c017bf337652ee75db201f" tvg-id="68c017bf337652ee75db201f" tvg-chno="3" tvg-name="Pluto TV Wild West" tvg-logo="https://images.pluto.tv/channels/68c017bf337652ee75db201f/colorLogoPNG_1761920427770.png" group-title="Nytt på Pluto TV",Pluto TV Wild West
+#EXTINF:-1 channel-id="68c017bf337652ee75db201f" tvg-id="68c017bf337652ee75db201f" tvg-chno="558" tvg-name="Pluto TV Wild West" tvg-logo="https://images.pluto.tv/channels/68c017bf337652ee75db201f/colorLogoPNG_1761920427770.png" group-title="Gamla godingar",Pluto TV Wild West
 https://jmp2.uk/plu-68c017bf337652ee75db201f.m3u8
 #EXTINF:-1 channel-id="62724c8465731f0007b6cd86" tvg-id="62724c8465731f0007b6cd86" tvg-chno="510" tvg-name="Project Runway" tvg-logo="https://images.pluto.tv/channels/62724c8465731f0007b6cd86/colorLogoPNG.png" group-title="Mat & livsstil",Project Runway
 https://jmp2.uk/plu-62724c8465731f0007b6cd86.m3u8
@@ -339,6 +339,8 @@ https://jmp2.uk/plu-65d882394e01740008a36768.m3u8
 https://jmp2.uk/plu-65d881914e01740008a36603.m3u8
 #EXTINF:-1 channel-id="6400c2a6cb41a40008dbe5bc" tvg-id="6400c2a6cb41a40008dbe5bc" tvg-chno="301" tvg-name="Star Trek Movies" tvg-logo="https://images.pluto.tv/channels/6400c2a6cb41a40008dbe5bc/colorLogoPNG.png" group-title="Filmer",Star Trek Movies
 https://jmp2.uk/plu-6400c2a6cb41a40008dbe5bc.m3u8
+#EXTINF:-1 channel-id="693ade4d569386f93f235bb6" tvg-id="693ade4d569386f93f235bb6" tvg-chno="1" tvg-name="Star Trek: The Original Series" tvg-logo="https://images.pluto.tv/channels/693ade4d569386f93f235bb6/colorLogoPNG_1765465720677.png" group-title="Nytt på Pluto TV",Star Trek: The Original Series
+https://jmp2.uk/plu-693ade4d569386f93f235bb6.m3u8
 #EXTINF:-1 channel-id="61c18ec6ac860c0007684981" tvg-id="61c18ec6ac860c0007684981" tvg-chno="502" tvg-name="Stugfixarna Norge" tvg-logo="https://images.pluto.tv/channels/61c18ec6ac860c0007684981/colorLogoPNG.png" group-title="Mat & livsstil",Stugfixarna Norge
 https://jmp2.uk/plu-61c18ec6ac860c0007684981.m3u8
 #EXTINF:-1 channel-id="61c0ba0816e2fd00086cb6b1" tvg-id="61c0ba0816e2fd00086cb6b1" tvg-chno="910" tvg-name="SvampBob Fyrkant" tvg-logo="https://images.pluto.tv/channels/61c0ba0816e2fd00086cb6b1/colorLogoPNG.png" group-title="Barn",SvampBob Fyrkant

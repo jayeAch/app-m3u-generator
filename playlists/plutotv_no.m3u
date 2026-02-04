@@ -89,7 +89,7 @@ https://jmp2.uk/plu-67a23b899a300a00086f3371.m3u8
 https://jmp2.uk/plu-68f0f7571d26140175255e43.m3u8
 #EXTINF:-1 channel-id="657739fcb9adc40008fe02f4" tvg-id="657739fcb9adc40008fe02f4" tvg-chno="434" tvg-name="Duck Dynasty" tvg-logo="https://images.pluto.tv/channels/657739fcb9adc40008fe02f4/colorLogoPNG.png" group-title="Realityserier",Duck Dynasty
 https://jmp2.uk/plu-657739fcb9adc40008fe02f4.m3u8
-#EXTINF:-1 channel-id="68f0fad2fae18f8db62a9f37" tvg-id="68f0fad2fae18f8db62a9f37" tvg-chno="1" tvg-name="Dynastiet" tvg-logo="https://images.pluto.tv/channels/68f0fad2fae18f8db62a9f37/colorLogoPNG_1762758122454.png" group-title="Nytt på Pluto TV",Dynastiet
+#EXTINF:-1 channel-id="68f0fad2fae18f8db62a9f37" tvg-id="68f0fad2fae18f8db62a9f37" tvg-chno="2" tvg-name="Dynastiet" tvg-logo="https://images.pluto.tv/channels/68f0fad2fae18f8db62a9f37/colorLogoPNG_1762758122454.png" group-title="Nytt på Pluto TV",Dynastiet
 https://jmp2.uk/plu-68f0fad2fae18f8db62a9f37.m3u8
 #EXTINF:-1 channel-id="66d71485167a8b0008fd3345" tvg-id="66d71485167a8b0008fd3345" tvg-chno="560" tvg-name="Escape to the Country" tvg-logo="https://images.pluto.tv/channels/66d71485167a8b0008fd3345/colorLogoPNG.png" group-title="Mat & livsstil",Escape to the Country
 https://jmp2.uk/plu-66d71485167a8b0008fd3345.m3u8
@@ -171,7 +171,7 @@ https://jmp2.uk/plu-61c1e060197fe600073c1ffb.m3u8
 https://jmp2.uk/plu-61c1e0f1d6d97900076ea16f.m3u8
 #EXTINF:-1 channel-id="654a59d483595c0008187514" tvg-id="654a59d483595c0008187514" tvg-chno="602" tvg-name="MacGyver" tvg-logo="https://images.pluto.tv/channels/654a59d483595c0008187514/colorLogoPNG.png" group-title="Gamle godbiter",MacGyver
 https://jmp2.uk/plu-654a59d483595c0008187514.m3u8
-#EXTINF:-1 channel-id="6825eeeeb19ce6d4a34ebb2a" tvg-id="6825eeeeb19ce6d4a34ebb2a" tvg-chno="4" tvg-name="Man with a Plan" tvg-logo="https://images.pluto.tv/channels/6825eeeeb19ce6d4a34ebb2a/colorLogoPNG_1747316618902.png" group-title="Nytt på Pluto TV",Man with a Plan
+#EXTINF:-1 channel-id="6825eeeeb19ce6d4a34ebb2a" tvg-id="6825eeeeb19ce6d4a34ebb2a" tvg-chno="961" tvg-name="Man with a Plan" tvg-logo="https://images.pluto.tv/channels/6825eeeeb19ce6d4a34ebb2a/colorLogoPNG_1747316618902.png" group-title="Sitcoms",Man with a Plan
 https://jmp2.uk/plu-6825eeeeb19ce6d4a34ebb2a.m3u8
 #EXTINF:-1 channel-id="66290b7523e24f000832cc17" tvg-id="66290b7523e24f000832cc17" tvg-chno="608" tvg-name="Matlock" tvg-logo="https://images.pluto.tv/channels/66290b7523e24f000832cc17/colorLogoPNG.png" group-title="Gamle godbiter",Matlock
 https://jmp2.uk/plu-66290b7523e24f000832cc17.m3u8
@@ -261,7 +261,7 @@ https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8
 https://jmp2.uk/plu-67f3fb7d07d2ba4121bd0c8b.m3u8
 #EXTINF:-1 channel-id="677d3a424bd63600082f7baf" tvg-id="677d3a424bd63600082f7baf" tvg-chno="754" tvg-name="Pluto TV Verdenskrigene" tvg-logo="https://images.pluto.tv/channels/677d3a424bd63600082f7baf/colorLogoPNG_1759400600947.png" group-title="Dokumentarer",Pluto TV Verdenskrigene
 https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8
-#EXTINF:-1 channel-id="68c01785b3900870ec7480e4" tvg-id="68c01785b3900870ec7480e4" tvg-chno="3" tvg-name="Pluto TV Wild West" tvg-logo="https://images.pluto.tv/channels/68c01785b3900870ec7480e4/colorLogoPNG_1761916453250.png" group-title="Nytt på Pluto TV",Pluto TV Wild West
+#EXTINF:-1 channel-id="68c01785b3900870ec7480e4" tvg-id="68c01785b3900870ec7480e4" tvg-chno="610" tvg-name="Pluto TV Wild West" tvg-logo="https://images.pluto.tv/channels/68c01785b3900870ec7480e4/colorLogoPNG_1761916453250.png" group-title="Gamle godbiter",Pluto TV Wild West
 https://jmp2.uk/plu-68c01785b3900870ec7480e4.m3u8
 #EXTINF:-1 channel-id="61814ff322e67b00074a5c43" tvg-id="61814ff322e67b00074a5c43" tvg-chno="558" tvg-name="Project Runway" tvg-logo="https://images.pluto.tv/channels/61814ff322e67b00074a5c43/colorLogoPNG.png" group-title="Mat & livsstil",Project Runway
 https://jmp2.uk/plu-61814ff322e67b00074a5c43.m3u8
@@ -305,6 +305,8 @@ https://jmp2.uk/plu-65d88004ec9fda0008a5b8b3.m3u8
 https://jmp2.uk/plu-65d87f7a28730900088e7fbf.m3u8
 #EXTINF:-1 channel-id="6400c228498393000878a9b7" tvg-id="6400c228498393000878a9b7" tvg-chno="351" tvg-name="Star Trek Movies" tvg-logo="https://images.pluto.tv/channels/6400c228498393000878a9b7/colorLogoPNG.png" group-title="Film",Star Trek Movies
 https://jmp2.uk/plu-6400c228498393000878a9b7.m3u8
+#EXTINF:-1 channel-id="693addd62bf6cf7414c4b2fc" tvg-id="693addd62bf6cf7414c4b2fc" tvg-chno="1" tvg-name="Star Trek: The Original Series" tvg-logo="https://images.pluto.tv/channels/693addd62bf6cf7414c4b2fc/colorLogoPNG_1765465615277.png" group-title="Nytt på Pluto TV",Star Trek: The Original Series
+https://jmp2.uk/plu-693addd62bf6cf7414c4b2fc.m3u8
 #EXTINF:-1 channel-id="61c1d59a244e500007581861" tvg-id="61c1d59a244e500007581861" tvg-chno="854" tvg-name="SvampeBob Firkant" tvg-logo="https://images.pluto.tv/channels/61c1d59a244e500007581861/colorLogoPNG.png" group-title="For barn",SvampeBob Firkant
 https://jmp2.uk/plu-61c1d59a244e500007581861.m3u8
 #EXTINF:-1 channel-id="645cc855e1979c000875ee47" tvg-id="645cc855e1979c000875ee47" tvg-chno="404" tvg-name="Svenske Truckers" tvg-logo="https://images.pluto.tv/channels/645cc855e1979c000875ee47/colorLogoPNG.png" group-title="Realityserier",Svenske Truckers
