@@ -341,16 +341,16 @@ https://jmp2.uk/plu-62ac405b3874370007419b7f.m3u8
 https://jmp2.uk/plu-62bdae69a47b6c00076af298.m3u8
 #EXTINF:-1 channel-id="65819e62b228b70008570e9f-de" tvg-id="65819e62b228b70008570e9f" tvg-chno="433" tvg-name="Baywatch" tvg-logo="https://images.pluto.tv/channels/65819e62b228b70008570e9f/colorLogoPNG.png" group-title="Germany",Baywatch
 https://jmp2.uk/plu-65819e62b228b70008570e9f.m3u8
-#EXTINF:-1 channel-id="60dafb9a0df1ba000758d37b-es" tvg-id="60dafb9a0df1ba000758d37b" tvg-chno="354" tvg-name="BBC Drama" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png" group-title="Spain",BBC Drama
-https://jmp2.uk/plu-60dafb9a0df1ba000758d37b.m3u8
 #EXTINF:-1 channel-id="60d35a74c63c3c0008df6a90-fr" tvg-id="60d35a74c63c3c0008df6a90" tvg-chno="160" tvg-name="BBC Drama" tvg-logo="https://images.pluto.tv/channels/60d35a74c63c3c0008df6a90/colorLogoPNG.png" group-title="France",BBC Drama
 https://jmp2.uk/plu-60d35a74c63c3c0008df6a90.m3u8
-#EXTINF:-1 channel-id="62e7fa5ab5062e0007dcf97d-it" tvg-id="62e7fa5ab5062e0007dcf97d" tvg-chno="125" tvg-name="BBC Drama" tvg-logo="https://images.pluto.tv/channels/62e7fa5ab5062e0007dcf97d/colorLogoPNG.png" group-title="Italy",BBC Drama
-https://jmp2.uk/plu-62e7fa5ab5062e0007dcf97d.m3u8
 #EXTINF:-1 channel-id="656535fc2c46f30008870fae-us" tvg-id="656535fc2c46f30008870fae" tvg-chno="3560" tvg-name="BBC Earth" tvg-logo="https://images.pluto.tv/channels/656535fc2c46f30008870fae/colorLogoPNG.png" group-title="United States",BBC Earth
 https://jmp2.uk/plu-656535fc2c46f30008870fae.m3u8
 #EXTINF:-1 channel-id="65d92a8c8b24c80008e285c0-us" tvg-id="65d92a8c8b24c80008e285c0" tvg-chno="2629" tvg-name="BBC News" tvg-logo="https://images.pluto.tv/channels/65d92a8c8b24c80008e285c0/colorLogoPNG.png" group-title="United States",BBC News
 https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8
+#EXTINF:-1 channel-id="60dafb9a0df1ba000758d37b-es" tvg-id="60dafb9a0df1ba000758d37b" tvg-chno="22" tvg-name="BBC Series" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG_1770367705306.png" group-title="Spain",BBC Series
+https://jmp2.uk/plu-60dafb9a0df1ba000758d37b.m3u8
+#EXTINF:-1 channel-id="62e7fa5ab5062e0007dcf97d-it" tvg-id="62e7fa5ab5062e0007dcf97d" tvg-chno="125" tvg-name="BBC Series" tvg-logo="https://images.pluto.tv/channels/62e7fa5ab5062e0007dcf97d/colorLogoPNG_1770365241843.png" group-title="Italy",BBC Series
+https://jmp2.uk/plu-62e7fa5ab5062e0007dcf97d.m3u8
 #EXTINF:-1 channel-id="60e4519e6873180007d3cddb-de" tvg-id="60e4519e6873180007d3cddb" tvg-chno="291" tvg-name="BBC Travel" tvg-logo="https://images.pluto.tv/channels/60e4519e6873180007d3cddb/colorLogoPNG.png" group-title="Germany",BBC Travel
 https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8
 #EXTINF:-1 channel-id="68bb162bb3900870ec364cbe-us" tvg-id="68bb162bb3900870ec364cbe" tvg-chno="3340" tvg-name="Beach Day" tvg-logo="https://images.pluto.tv/channels/68bb162bb3900870ec364cbe/colorLogoPNG_1757977922278.png" group-title="United States",Beach Day
@@ -1145,7 +1145,7 @@ https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
 https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8
 #EXTINF:-1 channel-id="6720e2bddaad7f000872f274-es" tvg-id="6720e2bddaad7f000872f274" tvg-chno="556" tvg-name="DFB Play TV" tvg-logo="https://images.pluto.tv/channels/6720e2bddaad7f000872f274/colorLogoPNG.png" group-title="Spain",DFB Play TV
 https://jmp2.uk/plu-6720e2bddaad7f000872f274.m3u8
-#EXTINF:-1 channel-id="66461e4394d5580008cfd9c5-it" tvg-id="66461e4394d5580008cfd9c5" tvg-chno="570" tvg-name="DFB Play TV" tvg-logo="https://images.pluto.tv/channels/66461e4394d5580008cfd9c5/colorLogoPNG.png" group-title="Italy",DFB Play TV
+#EXTINF:-1 channel-id="66461e4394d5580008cfd9c5-it" tvg-id="66461e4394d5580008cfd9c5" tvg-chno="565" tvg-name="DFB Play TV" tvg-logo="https://images.pluto.tv/channels/66461e4394d5580008cfd9c5/colorLogoPNG.png" group-title="Italy",DFB Play TV
 https://jmp2.uk/plu-66461e4394d5580008cfd9c5.m3u8
 #EXTINF:-1 channel-id="66461f433d173b000805eeeb-se" tvg-id="66461f433d173b000805eeeb" tvg-chno="120" tvg-name="DFB Play TV" tvg-logo="https://images.pluto.tv/channels/66461f433d173b000805eeeb/colorLogoPNG_1769414859996.png" group-title="Sweden",DFB Play TV
 https://jmp2.uk/plu-66461f433d173b000805eeeb.m3u8
@@ -1309,6 +1309,8 @@ https://jmp2.uk/plu-61099f2b40d0640007fc5aa2.m3u8
 https://jmp2.uk/plu-61099f2b40d0640007fc5aa2.m3u8
 #EXTINF:-1 channel-id="61099f2b40d0640007fc5aa2-ar" tvg-id="61099f2b40d0640007fc5aa2" tvg-chno="486" tvg-name="El Encantador de Perros" tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png" group-title="Argentina",El Encantador de Perros
 https://jmp2.uk/plu-61099f2b40d0640007fc5aa2.m3u8
+#EXTINF:-1 channel-id="690dd10a37b131228d76d5b1-es" tvg-id="690dd10a37b131228d76d5b1" tvg-chno="21" tvg-name="El Mueble" tvg-logo="https://images.pluto.tv/channels/690dd10a37b131228d76d5b1/colorLogoPNG_1764966923664.png" group-title="Spain",El Mueble
+https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
 #EXTINF:-1 channel-id="66fedd65d7de140008dccd66-us" tvg-id="66fedd65d7de140008dccd66" tvg-chno="3755" tvg-name="El Reino Infantil" tvg-logo="https://images.pluto.tv/channels/66fedd65d7de140008dccd66/colorLogoPNG.png" group-title="United States",El Reino Infantil
 https://jmp2.uk/plu-66fedd65d7de140008dccd66.m3u8
 #EXTINF:-1 channel-id="6523f672a6c38300088cb807-es" tvg-id="6523f672a6c38300088cb807" tvg-chno="523" tvg-name="El Reino Infantil" tvg-logo="https://images.pluto.tv/channels/6523f672a6c38300088cb807/colorLogoPNG.png" group-title="Spain",El Reino Infantil
@@ -1529,8 +1531,6 @@ https://jmp2.uk/plu-6272511cb389bb0007b30b09.m3u8
 https://jmp2.uk/plu-5bb1af6a268cae539bcedb0a.m3u8
 #EXTINF:-1 channel-id="62e92392a3e6270007f562e8-ca" tvg-id="62e92392a3e6270007f562e8" tvg-chno="259" tvg-name="Forensic Files" tvg-logo="https://images.pluto.tv/channels/62e92392a3e6270007f562e8/colorLogoPNG.png" group-title="Canada",Forensic Files
 https://jmp2.uk/plu-62e92392a3e6270007f562e8.m3u8
-#EXTINF:-1 channel-id="67b4b44a8344dd93339d3757-fr" tvg-id="67b4b44a8344dd93339d3757" tvg-chno="450" tvg-name="Forensic Files" tvg-logo="https://images.pluto.tv/channels/67b4b44a8344dd93339d3757/colorLogoPNG_1756550807332.png" group-title="France",Forensic Files
-https://jmp2.uk/plu-67b4b44a8344dd93339d3757.m3u8
 #EXTINF:-1 channel-id="64ec5cf50f73a800081310a5-it" tvg-id="64ec5cf50f73a800081310a5" tvg-chno="380" tvg-name="Forensic Files" tvg-logo="https://images.pluto.tv/channels/64ec5cf50f73a800081310a5/colorLogoPNG.png" group-title="Italy",Forensic Files
 https://jmp2.uk/plu-64ec5cf50f73a800081310a5.m3u8
 #EXTINF:-1 channel-id="6181262dc68b92000780fed2-no" tvg-id="6181262dc68b92000780fed2" tvg-chno="736" tvg-name="Forensic Files" tvg-logo="https://images.pluto.tv/channels/6181262dc68b92000780fed2/colorLogoPNG.png" group-title="Norway",Forensic Files
@@ -2489,7 +2489,7 @@ https://jmp2.uk/plu-671645c4529ac900080c9a0b.m3u8
 https://jmp2.uk/plu-66337e6ba0a74e000889563b.m3u8
 #EXTINF:-1 channel-id="671643fc5534bb00089187ad-fr" tvg-id="671643fc5534bb00089187ad" tvg-chno="1220" tvg-name="MODUS Super Series Darts" tvg-logo="https://images.pluto.tv/channels/671643fc5534bb00089187ad/colorLogoPNG_1732094996069.png" group-title="France",MODUS Super Series Darts
 https://jmp2.uk/plu-671643fc5534bb00089187ad.m3u8
-#EXTINF:-1 channel-id="671655b2daad7f00085d202d-it" tvg-id="671655b2daad7f00085d202d" tvg-chno="580" tvg-name="MODUS Super Series Darts" tvg-logo="https://images.pluto.tv/channels/671655b2daad7f00085d202d/colorLogoPNG_1732093506297.png" group-title="Italy",MODUS Super Series Darts
+#EXTINF:-1 channel-id="671655b2daad7f00085d202d-it" tvg-id="671655b2daad7f00085d202d" tvg-chno="575" tvg-name="MODUS Super Series Darts" tvg-logo="https://images.pluto.tv/channels/671655b2daad7f00085d202d/colorLogoPNG_1732093506297.png" group-title="Italy",MODUS Super Series Darts
 https://jmp2.uk/plu-671655b2daad7f00085d202d.m3u8
 #EXTINF:-1 channel-id="671656dfdaad7f00085d2133-no" tvg-id="671656dfdaad7f00085d2133" tvg-chno="157" tvg-name="MODUS Super Series Darts" tvg-logo="https://images.pluto.tv/channels/671656dfdaad7f00085d2133/colorLogoPNG_1732093602845.png" group-title="Norway",MODUS Super Series Darts
 https://jmp2.uk/plu-671656dfdaad7f00085d2133.m3u8
@@ -3083,8 +3083,6 @@ https://jmp2.uk/plu-66c86fed85e28d0008f8a9ec.m3u8
 https://jmp2.uk/plu-66c870112630fc0008137ae2.m3u8
 #EXTINF:-1 channel-id="6565413e4261ca0008215320-us" tvg-id="6565413e4261ca0008215320" tvg-chno="1465" tvg-name="Pickers & Pawn" tvg-logo="https://images.pluto.tv/channels/6565413e4261ca0008215320/colorLogoPNG.png" group-title="United States",Pickers & Pawn
 https://jmp2.uk/plu-6565413e4261ca0008215320.m3u8
-#EXTINF:-1 channel-id="636a4eaf77279a0007f14861-it" tvg-id="636a4eaf77279a0007f14861" tvg-chno="540" tvg-name="Pimp My Ride" tvg-logo="https://images.pluto.tv/channels/636a4eaf77279a0007f14861/colorLogoPNG.png" group-title="Italy",Pimp My Ride
-https://jmp2.uk/plu-636a4eaf77279a0007f14861.m3u8
 #EXTINF:-1 channel-id="61c1d6e1f5acaf0007f8381d-no" tvg-id="61c1d6e1f5acaf0007f8381d" tvg-chno="517" tvg-name="Pimp My Ride" tvg-logo="https://images.pluto.tv/channels/61c1d6e1f5acaf0007f8381d/colorLogoPNG.png" group-title="Norway",Pimp My Ride
 https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8
 #EXTINF:-1 channel-id="61c09a3894aa450007814aea-se" tvg-id="61c09a3894aa450007814aea" tvg-chno="472" tvg-name="Pimp My Ride" tvg-logo="https://images.pluto.tv/channels/61c09a3894aa450007814aea/colorLogoPNG.png" group-title="Sweden",Pimp My Ride
@@ -4003,7 +4001,7 @@ https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8
 https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8
 #EXTINF:-1 channel-id="61b86c6ef30f5d0007e4c6d1-dk" tvg-id="61b86c6ef30f5d0007e4c6d1" tvg-chno="905" tvg-name="Pluto TV Space" tvg-logo="https://images.pluto.tv/channels/61b86c6ef30f5d0007e4c6d1/colorLogoPNG.png" group-title="Denmark",Pluto TV Space
 https://jmp2.uk/plu-61b86c6ef30f5d0007e4c6d1.m3u8
-#EXTINF:-1 channel-id="608030eff4b6f70007e1684c-it" tvg-id="608030eff4b6f70007e1684c" tvg-chno="565" tvg-name="Pluto TV Sport" tvg-logo="https://images.pluto.tv/channels/608030eff4b6f70007e1684c/colorLogoPNG_1746816937164.png" group-title="Italy",Pluto TV Sport
+#EXTINF:-1 channel-id="608030eff4b6f70007e1684c-it" tvg-id="608030eff4b6f70007e1684c" tvg-chno="560" tvg-name="Pluto TV Sport" tvg-logo="https://images.pluto.tv/channels/608030eff4b6f70007e1684c/colorLogoPNG_1746816937164.png" group-title="Italy",Pluto TV Sport
 https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8
 #EXTINF:-1 channel-id="6357f33cb51d2d00077927c6-no" tvg-id="6357f33cb51d2d00077927c6" tvg-chno="152" tvg-name="Pluto TV Sport" tvg-logo="https://images.pluto.tv/channels/6357f33cb51d2d00077927c6/colorLogoPNG_1746816938002.png" group-title="Norway",Pluto TV Sport
 https://jmp2.uk/plu-6357f33cb51d2d00077927c6.m3u8
@@ -5177,7 +5175,7 @@ https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8
 https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8
 #EXTINF:-1 channel-id="67921b78b83355184c667770-fr" tvg-id="67921b78b83355184c667770" tvg-chno="1205" tvg-name="UFC" tvg-logo="https://images.pluto.tv/channels/67921b78b83355184c667770/colorLogoPNG.png" group-title="France",UFC
 https://jmp2.uk/plu-67921b78b83355184c667770.m3u8
-#EXTINF:-1 channel-id="679203d4bc03978b9b4b79a6-it" tvg-id="679203d4bc03978b9b4b79a6" tvg-chno="575" tvg-name="UFC" tvg-logo="https://images.pluto.tv/channels/679203d4bc03978b9b4b79a6/colorLogoPNG.png" group-title="Italy",UFC
+#EXTINF:-1 channel-id="679203d4bc03978b9b4b79a6-it" tvg-id="679203d4bc03978b9b4b79a6" tvg-chno="570" tvg-name="UFC" tvg-logo="https://images.pluto.tv/channels/679203d4bc03978b9b4b79a6/colorLogoPNG.png" group-title="Italy",UFC
 https://jmp2.uk/plu-679203d4bc03978b9b4b79a6.m3u8
 #EXTINF:-1 channel-id="679205a13de7c8cf941e7857-no" tvg-id="679205a13de7c8cf941e7857" tvg-chno="172" tvg-name="UFC" tvg-logo="https://images.pluto.tv/channels/679205a13de7c8cf941e7857/colorLogoPNG.png" group-title="Norway",UFC
 https://jmp2.uk/plu-679205a13de7c8cf941e7857.m3u8
