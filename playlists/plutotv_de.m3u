@@ -287,6 +287,8 @@ https://jmp2.uk/plu-61923bd34b1ec000075e5e89.m3u8
 https://jmp2.uk/plu-630dd3b2605f140007e002f5.m3u8
 #EXTINF:-1 channel-id="67d984c989788ef7f058b084" tvg-id="67d984c989788ef7f058b084" tvg-chno="241" tvg-name="Profiling Paris" tvg-logo="https://images.pluto.tv/channels/67d984c989788ef7f058b084/colorLogoPNG.png" group-title="Crime",Profiling Paris
 https://jmp2.uk/plu-67d984c989788ef7f058b084.m3u8
+#EXTINF:-1 channel-id="677fafd91da79bfe4fb0b4ec" tvg-id="677fafd91da79bfe4fb0b4ec" tvg-chno="1" tvg-name="Quantum Leap" tvg-logo="https://images.pluto.tv/channels/677fafd91da79bfe4fb0b4ec/colorLogoPNG_1770397003859.png" group-title="Neu auf Pluto TV",Quantum Leap
+https://jmp2.uk/plu-677fafd91da79bfe4fb0b4ec.m3u8
 #EXTINF:-1 channel-id="638f2bc7bc363100072f02dd" tvg-id="638f2bc7bc363100072f02dd" tvg-chno="392" tvg-name="Rauchende Colts" tvg-logo="https://images.pluto.tv/channels/638f2bc7bc363100072f02dd/colorLogoPNG.png" group-title="Western",Rauchende Colts
 https://jmp2.uk/plu-638f2bc7bc363100072f02dd.m3u8
 #EXTINF:-1 channel-id="638f2983dcd9100008c2374d" tvg-id="638f2983dcd9100008c2374d" tvg-chno="393" tvg-name="Rawhide - Tausend Meilen Staub" tvg-logo="https://images.pluto.tv/channels/638f2983dcd9100008c2374d/colorLogoPNG.png" group-title="Western",Rawhide - Tausend Meilen Staub
@@ -347,8 +349,6 @@ https://jmp2.uk/plu-65b923f90cb1a100088a03ab.m3u8
 https://jmp2.uk/plu-68d2759a59fd82da3226492d.m3u8
 #EXTINF:-1 channel-id="677fb0231da79bfe4fb0bf4e" tvg-id="677fb0231da79bfe4fb0bf4e" tvg-chno="445" tvg-name="The Real Housewives" tvg-logo="https://images.pluto.tv/channels/677fb0231da79bfe4fb0bf4e/colorLogoPNG_1761917749572.png" group-title="Reality",The Real Housewives
 https://jmp2.uk/plu-677fb0231da79bfe4fb0bf4e.m3u8
-#EXTINF:-1 channel-id="677fafd91da79bfe4fb0b4ec" tvg-id="677fafd91da79bfe4fb0b4ec" tvg-chno="446" tvg-name="Top Chef" tvg-logo="https://images.pluto.tv/channels/677fafd91da79bfe4fb0b4ec/colorLogoPNG_1761931782945.png" group-title="Reality",Top Chef
-https://jmp2.uk/plu-677fafd91da79bfe4fb0b4ec.m3u8
 #EXTINF:-1 channel-id="64c109735dc1660008a4a2dc" tvg-id="64c109735dc1660008a4a2dc" tvg-chno="120" tvg-name="Top Gear" tvg-logo="https://images.pluto.tv/channels/64c109735dc1660008a4a2dc/colorLogoPNG.png" group-title="Sport",Top Gear
 https://jmp2.uk/plu-64c109735dc1660008a4a2dc.m3u8
 #EXTINF:-1 channel-id="5d6792bd6be2998ad0ccce30" tvg-id="5d6792bd6be2998ad0ccce30" tvg-chno="483" tvg-name="Totally Turtles" tvg-logo="https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png" group-title="Kids",Totally Turtles
