@@ -57,6 +57,8 @@ https://jmp2.uk/plu-66337e365a402e00087eccaf.m3u8
 https://jmp2.uk/plu-66c45b1803e3b20008d8c200.m3u8
 #EXTINF:-1 channel-id="60c716084d842c00085f6e64" tvg-id="60c716084d842c00085f6e64" tvg-chno="351" tvg-name="Comedy Central South Park" tvg-logo="https://images.pluto.tv/channels/60c716084d842c00085f6e64/colorLogoPNG_1748434979824.png" group-title="South Park",Comedy Central South Park
 https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8
+#EXTINF:-1 channel-id="691b2b690d121b44ad4a53ef" tvg-id="691b2b690d121b44ad4a53ef" tvg-chno="11" tvg-name="Dating hinter Gittern" tvg-logo="https://images.pluto.tv/channels/691b2b690d121b44ad4a53ef/colorLogoPNG_1768906011060.png" group-title="Volle Pulle Liebe",Dating hinter Gittern
+https://jmp2.uk/plu-691b2b690d121b44ad4a53ef.m3u8
 #EXTINF:-1 channel-id="64b67f0424ade50008a3be17" tvg-id="64b67f0424ade50008a3be17" tvg-chno="90" tvg-name="DAZN Darts x Pluto TV" tvg-logo="https://images.pluto.tv/channels/64b67f0424ade50008a3be17/colorLogoPNG.png" group-title="Live Sports",DAZN Darts x Pluto TV
 https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
 #EXTINF:-1 channel-id="6683f7fe36a2f9000804940c" tvg-id="6683f7fe36a2f9000804940c" tvg-chno="93" tvg-name="DAZN Handball x Pluto TV" tvg-logo="https://images.pluto.tv/channels/6683f7fe36a2f9000804940c/colorLogoPNG.png" group-title="Live Sports",DAZN Handball x Pluto TV
@@ -109,7 +111,7 @@ https://jmp2.uk/plu-62a0b2aff4cf470007e47e29.m3u8
 https://jmp2.uk/plu-62cebf042ffc6d0007c4e59a.m3u8
 #EXTINF:-1 channel-id="6447dea7e94c380008dba94c" tvg-id="6447dea7e94c380008dba94c" tvg-chno="455" tvg-name="Germany Shore" tvg-logo="https://images.pluto.tv/channels/6447dea7e94c380008dba94c/colorLogoPNG.png" group-title="Reality",Germany Shore
 https://jmp2.uk/plu-6447dea7e94c380008dba94c.m3u8
-#EXTINF:-1 channel-id="68d27437e6767bdeb23f0336" tvg-id="68d27437e6767bdeb23f0336" tvg-chno="10" tvg-name="Gigolos" tvg-logo="https://images.pluto.tv/channels/68d27437e6767bdeb23f0336/colorLogoPNG_1758705599610.png" group-title="Volle Pulle Liebe",Gigolos
+#EXTINF:-1 channel-id="68d27437e6767bdeb23f0336" tvg-id="68d27437e6767bdeb23f0336" tvg-chno="12" tvg-name="Gigolos" tvg-logo="https://images.pluto.tv/channels/68d27437e6767bdeb23f0336/colorLogoPNG_1758705599610.png" group-title="Volle Pulle Liebe",Gigolos
 https://jmp2.uk/plu-68d27437e6767bdeb23f0336.m3u8
 #EXTINF:-1 channel-id="622f6faf65be650007f57aab" tvg-id="622f6faf65be650007f57aab" tvg-chno="55" tvg-name="Hausmeister Krause" tvg-logo="https://images.pluto.tv/channels/622f6faf65be650007f57aab/colorLogoPNG.png" group-title="Sitcoms + Comedy",Hausmeister Krause
 https://jmp2.uk/plu-622f6faf65be650007f57aab.m3u8
@@ -257,7 +259,7 @@ https://jmp2.uk/plu-68ada399247c66a111528aaa.m3u8
 https://jmp2.uk/plu-67ebc1b6432a0e406f141341.m3u8
 #EXTINF:-1 channel-id="68ada3edf84960586ad31c7d" tvg-id="68ada3edf84960586ad31c7d" tvg-chno="295" tvg-name="Pluto TV Reportagen" tvg-logo="https://images.pluto.tv/channels/68ada3edf84960586ad31c7d/colorLogoPNG_1760078189640.png" group-title="Dokus + Wissen",Pluto TV Reportagen
 https://jmp2.uk/plu-68ada3edf84960586ad31c7d.m3u8
-#EXTINF:-1 channel-id="5dc287ce3086a20009f5024c" tvg-id="5dc287ce3086a20009f5024c" tvg-chno="10" tvg-name="Pluto TV Romance" tvg-logo="https://images.pluto.tv/channels/5dc287ce3086a20009f5024c/colorLogoPNG.png" group-title="Volle Pulle Liebe",Pluto TV Romance
+#EXTINF:-1 channel-id="5dc287ce3086a20009f5024c" tvg-id="5dc287ce3086a20009f5024c" tvg-chno="13" tvg-name="Pluto TV Romance" tvg-logo="https://images.pluto.tv/channels/5dc287ce3086a20009f5024c/colorLogoPNG.png" group-title="Volle Pulle Liebe",Pluto TV Romance
 https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8
 #EXTINF:-1 channel-id="67d983d6a1609bdb523f5f9b" tvg-id="67d983d6a1609bdb523f5f9b" tvg-chno="224" tvg-name="Pluto TV Sanfte Berührungen" tvg-logo="https://images.pluto.tv/channels/67d983d6a1609bdb523f5f9b/colorLogoPNG_1745932379351.png" group-title="Sinnliche Fantasien",Pluto TV Sanfte Berührungen
 https://jmp2.uk/plu-67d983d6a1609bdb523f5f9b.m3u8
@@ -281,7 +283,7 @@ https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8
 https://jmp2.uk/plu-5e1efdbf90ba3e0009d99082.m3u8
 #EXTINF:-1 channel-id="615333098185f00008715a56" tvg-id="615333098185f00008715a56" tvg-chno="262" tvg-name="Pluto TV True Crime" tvg-logo="https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png" group-title="True Crime",Pluto TV True Crime
 https://jmp2.uk/plu-615333098185f00008715a56.m3u8
-#EXTINF:-1 channel-id="61923bd34b1ec000075e5e89" tvg-id="61923bd34b1ec000075e5e89" tvg-chno="11" tvg-name="Pluto TV Weddings" tvg-logo="https://images.pluto.tv/channels/61923bd34b1ec000075e5e89/colorLogoPNG_1766156077466.png" group-title="Volle Pulle Liebe",Pluto TV Weddings
+#EXTINF:-1 channel-id="61923bd34b1ec000075e5e89" tvg-id="61923bd34b1ec000075e5e89" tvg-chno="14" tvg-name="Pluto TV Weddings" tvg-logo="https://images.pluto.tv/channels/61923bd34b1ec000075e5e89/colorLogoPNG_1766156077466.png" group-title="Volle Pulle Liebe",Pluto TV Weddings
 https://jmp2.uk/plu-61923bd34b1ec000075e5e89.m3u8
 #EXTINF:-1 channel-id="630dd3b2605f140007e002f5" tvg-id="630dd3b2605f140007e002f5" tvg-chno="390" tvg-name="Pluto TV Western" tvg-logo="https://images.pluto.tv/channels/630dd3b2605f140007e002f5/colorLogoPNG_1732030684562.png" group-title="Western",Pluto TV Western
 https://jmp2.uk/plu-630dd3b2605f140007e002f5.m3u8
@@ -339,13 +341,13 @@ https://jmp2.uk/plu-686cff3224918d4300fa542b.m3u8
 https://jmp2.uk/plu-691491c6bb69fb3258c3524a.m3u8
 #EXTINF:-1 channel-id="6054a9f4bc8a5f000771504c" tvg-id="6054a9f4bc8a5f000771504c" tvg-chno="69" tvg-name="Takeshi's Castle" tvg-logo="https://images.pluto.tv/channels/6054a9f4bc8a5f000771504c/colorLogoPNG.png" group-title="Sitcoms + Comedy",Takeshi's Castle
 https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
-#EXTINF:-1 channel-id="5cb5d043a461406ffe3fb2de" tvg-id="5cb5d043a461406ffe3fb2de" tvg-chno="15" tvg-name="Telenovela ZDF" tvg-logo="https://images.pluto.tv/channels/5cb5d043a461406ffe3fb2de/colorLogoPNG.png" group-title="Volle Pulle Liebe",Telenovela ZDF
+#EXTINF:-1 channel-id="5cb5d043a461406ffe3fb2de" tvg-id="5cb5d043a461406ffe3fb2de" tvg-chno="16" tvg-name="Telenovela ZDF" tvg-logo="https://images.pluto.tv/channels/5cb5d043a461406ffe3fb2de/colorLogoPNG.png" group-title="Volle Pulle Liebe",Telenovela ZDF
 https://jmp2.uk/plu-5cb5d043a461406ffe3fb2de.m3u8
 #EXTINF:-1 channel-id="6870c9333ffa5e0c914e9205" tvg-id="6870c9333ffa5e0c914e9205" tvg-chno="99" tvg-name="Tennis Channel" tvg-logo="https://images.pluto.tv/channels/6870c9333ffa5e0c914e9205/colorLogoPNG_1756709434849.png" group-title="Live Sports",Tennis Channel
 https://jmp2.uk/plu-6870c9333ffa5e0c914e9205.m3u8
 #EXTINF:-1 channel-id="65b923f90cb1a100088a03ab" tvg-id="65b923f90cb1a100088a03ab" tvg-chno="289" tvg-name="Terra Mater WILD" tvg-logo="https://images.pluto.tv/channels/65b923f90cb1a100088a03ab/colorLogoPNG.png" group-title="Dokus + Wissen",Terra Mater WILD
 https://jmp2.uk/plu-65b923f90cb1a100088a03ab.m3u8
-#EXTINF:-1 channel-id="68d2759a59fd82da3226492d" tvg-id="68d2759a59fd82da3226492d" tvg-chno="8" tvg-name="The L Word – Wenn Frauen lieben" tvg-logo="https://images.pluto.tv/channels/68d2759a59fd82da3226492d/colorLogoPNG_1769617985920.png" group-title="Volle Pulle Liebe",The L Word – Wenn Frauen lieben
+#EXTINF:-1 channel-id="68d2759a59fd82da3226492d" tvg-id="68d2759a59fd82da3226492d" tvg-chno="10" tvg-name="The L Word – Wenn Frauen lieben" tvg-logo="https://images.pluto.tv/channels/68d2759a59fd82da3226492d/colorLogoPNG_1769617985920.png" group-title="Volle Pulle Liebe",The L Word – Wenn Frauen lieben
 https://jmp2.uk/plu-68d2759a59fd82da3226492d.m3u8
 #EXTINF:-1 channel-id="677fb0231da79bfe4fb0bf4e" tvg-id="677fb0231da79bfe4fb0bf4e" tvg-chno="445" tvg-name="The Real Housewives" tvg-logo="https://images.pluto.tv/channels/677fb0231da79bfe4fb0bf4e/colorLogoPNG_1761917749572.png" group-title="Reality",The Real Housewives
 https://jmp2.uk/plu-677fb0231da79bfe4fb0bf4e.m3u8
