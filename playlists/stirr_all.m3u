@@ -185,6 +185,8 @@ https://jmp2.uk/str-6641.m3u8
 https://jmp2.uk/str-6643.m3u8
 #EXTINF:-1 channel-id="7273" tvg-id="7273" tvg-chno="331" tvg-name="MMA TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/06/30/1751326202WBJHDDSd4D-632x395-325fBBzz.png" group-title="Sports Live, Entertainment Live",MMA TV
 https://jmp2.uk/str-7273.m3u8
+#EXTINF:-1 channel-id="7301" tvg-id="7301" tvg-chno="311" tvg-name="Motor Racing" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/1751335161N0GAOYQhXb-632x395-0EPTyj4u.png" group-title="Sports Live",Motor Racing
+https://jmp2.uk/str-7301.m3u8
 #EXTINF:-1 channel-id="7063" tvg-id="7063" tvg-chno="226" tvg-name="MVMT of Culture" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/06/06/1749168432etnDgHtMlC-632x395-nR3B8TS2.png" group-title="Other",MVMT of Culture
 https://jmp2.uk/str-7063.m3u8
 #EXTINF:-1 channel-id="6441" tvg-id="6441" tvg-chno="209" tvg-name="My Money" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/11/12/173145112098GcT6p6jd-632x395-YxSXqXwK.png" group-title="News Flash Live",My Money
@@ -243,6 +245,8 @@ https://jmp2.uk/str-5408.m3u8
 https://jmp2.uk/str-7271.m3u8
 #EXTINF:-1 channel-id="7293" tvg-id="7293" tvg-chno="220" tvg-name="Screams TV" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/1751332692b40VdW0H1c-632x395-K8jFdLpO.png" group-title="Documentary Series, Paranormal Series",Screams TV
 https://jmp2.uk/str-7293.m3u8
+#EXTINF:-1 channel-id="9101" tvg-id="9101" tvg-chno="312" tvg-name="Shooting Sports Life" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2026/02/12/1770926243pAmnqfeRaR-632x395-hxl3b3HM.png" group-title="Sports Live",Shooting Sports Life
+https://jmp2.uk/str-9101.m3u8
 #EXTINF:-1 channel-id="5417" tvg-id="5417" tvg-chno="550" tvg-name="Shop LC" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/28/17091442539RbHfoa9hA-632x395-rpNigyAp.jpeg" group-title="Shopping Live",Shop LC
 https://jmp2.uk/str-5417.m3u8
 #EXTINF:-1 channel-id="6587" tvg-id="6587" tvg-chno="167" tvg-name="Slick Slime Sam" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/01/24/1737757705MAD8ogPDkE-632x395-mE5B3LSI.png" group-title="Comedy Live",Slick Slime Sam
