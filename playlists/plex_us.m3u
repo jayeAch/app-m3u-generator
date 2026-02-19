@@ -667,10 +667,6 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-680adc83ea62ac6a05a626e6.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-67d06764f14e6c3252dc70eb.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6377ea0e13bb6b1757e14695" tvg-id="5e20b730f2f8d5003d739db7-6377ea0e13bb6b1757e14695" tvg-chno="" tvg-name="LiveNOW from FOX" tvg-logo="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/724a2b5cb46150f051d492f356de5e0f.png" group-title="News",LiveNOW from FOX
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6377ea0e13bb6b1757e14695.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-62a2272df7d323d4cc893218" tvg-id="5e20b730f2f8d5003d739db7-62a2272df7d323d4cc893218" tvg-chno="" tvg-name="Local Now DC" tvg-logo="https://provider-static.plex.tv/epg/cms/production/13263157-852b-4034-975a-5a48b5ad1742/LN_DC_logo_dark.png" group-title="News",Local Now DC
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62a2272df7d323d4cc893218.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-62a787793ccfe207c22a5e5a" tvg-id="5e20b730f2f8d5003d739db7-62a787793ccfe207c22a5e5a" tvg-chno="" tvg-name="Local Now Hagerstown" tvg-logo="https://provider-static.plex.tv/epg/cms/production/625183c0-cb7d-4867-acc8-7df1794030a9/LN_Hagerstown_logo_dark.png" group-title="News",Local Now Hagerstown
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62a787793ccfe207c22a5e5a.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-628ea9fcffe4cec6361f5310" tvg-id="5e20b730f2f8d5003d739db7-628ea9fcffe4cec6361f5310" tvg-chno="" tvg-name="LOL! Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ccac86b4-f8b8-445a-89ce-1b79927b857c/1500_x_1000_Color_Logo_PLEX.png" group-title="Comedy",LOL! Network
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-628ea9fcffe4cec6361f5310.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6196c9241d310bf925e02616" tvg-id="5e20b730f2f8d5003d739db7-6196c9241d310bf925e02616" tvg-chno="" tvg-name="Lone Star" tvg-logo="https://provider-static.plex.tv/1/epg/channels/logos/gracenote/1d8c9bf417f3e12668fecafc25fc8f72.png" group-title="Classic TV",Lone Star
@@ -787,8 +783,6 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-661fcbcf414d94009d1206ee.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-666e2178d91d13cb4c8cbb75.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-66ccb35278822c7edc4b6e01" tvg-id="5e20b730f2f8d5003d739db7-66ccb35278822c7edc4b6e01" tvg-chno="" tvg-name="Naturaleza Salvaje" tvg-logo="https://provider-static.plex.tv/epg/cms/production/80f7a8a5-199f-43a8-a4e7-c678df5efd7f/Plex_NatSalv_Logo_Light.png" group-title="En Español",Naturaleza Salvaje
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66ccb35278822c7edc4b6e01.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-64511fb8416ddf4040dd5e53" tvg-id="5e20b730f2f8d5003d739db7-64511fb8416ddf4040dd5e53" tvg-chno="" tvg-name="NBC 4 Washington News" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/27dd791385c4c8dd99a869ebd83501b6.png" group-title="Uncategorized",NBC 4 Washington News
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-64511fb8416ddf4040dd5e53.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca" tvg-id="5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca" tvg-chno="" tvg-name="NBC News NOW" tvg-logo="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/713ea11a46bcb609bc91c386c29076e6.png" group-title="News",NBC News NOW
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5fc70600598c41002da3dd43" tvg-id="5e20b730f2f8d5003d739db7-5fc70600598c41002da3dd43" tvg-chno="" tvg-name="NBC Sports NOW" tvg-logo="https://provider-static.plex.tv/c/epg/channels/logos/gracenote/ccdbca6785ac89ad9cb6b6626b891a33.png" group-title="Uncategorized",NBC Sports NOW
@@ -1123,6 +1117,8 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6582a024a90606db3c841b1b.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-681620c4a11533c312abacbe.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-68dcbb869beaa3a402966dba" tvg-id="5e20b730f2f8d5003d739db7-68dcbb869beaa3a402966dba" tvg-chno="" tvg-name="The Graham Norton Show" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f4b4443f-36c5-4bc2-b361-01358026113a/GrahamNorton_Logo_Colour_1500X1000.png" group-title="Uncategorized",The Graham Norton Show
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68dcbb869beaa3a402966dba.m3u8
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-698a78e0d77c25ac0d681bbb" tvg-id="5e20b730f2f8d5003d739db7-698a78e0d77c25ac0d681bbb" tvg-chno="" tvg-name="The Great British Competition Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db71d5d3-f073-4893-a501-59f832539cad/GBCC_Logo-White_h1000_-_Moira_GrahamRDX.png" group-title="Uncategorized",The Great British Competition Channel
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-698a78e0d77c25ac0d681bbb.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5fe27da18cdd46002d85efed" tvg-id="5e20b730f2f8d5003d739db7-5fe27da18cdd46002d85efed" tvg-chno="" tvg-name="The Grio" tvg-logo="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/e2b22c28c76774811fcd7847400aeda6.png" group-title="Black Entertainment",The Grio
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5fe27da18cdd46002d85efed.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-64b7170c4612b1f48e9ad31e" tvg-id="5e20b730f2f8d5003d739db7-64b7170c4612b1f48e9ad31e" tvg-chno="" tvg-name="The Jamie Oliver Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5dccd34e-4587-4168-999c-eda400c74715/PLEX_JO_WHT_LOGO_1500X1000_-_Elaine_De_Santiago.png" group-title="Food & Home",The Jamie Oliver Channel
@@ -1243,12 +1239,6 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6674bc83a9c715b93ca6ca92.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63c9773e187b3c9f3581fdf8.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" tvg-id="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" tvg-chno="" tvg-name="USA TODAY" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ae42c76a-809f-465b-aed8-cfdc8e33a04b/usatoday_logo_light.png" group-title="News",USA TODAY
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-624402b29d5efeceb0d783ae" tvg-id="5e20b730f2f8d5003d739db7-624402b29d5efeceb0d783ae" tvg-chno="" tvg-name="Very Baltimore by WBAL-TV" tvg-logo="https://provider-static.plex.tv/epg/cms/staging/a57811b3-c2ae-48bf-9feb-0924052b7914/WBAL_baltimore_logo.png" group-title="News",Very Baltimore by WBAL-TV
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-624402b29d5efeceb0d783ae.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-62440f5ccc4140a6505193d8" tvg-id="5e20b730f2f8d5003d739db7-62440f5ccc4140a6505193d8" tvg-chno="" tvg-name="Very Pennsylvania by WGAL" tvg-logo="https://provider-static.plex.tv/epg/cms/staging/a7d93c3b-8715-4dd0-bef5-0d53b843a174/WGAL_pennsylvania_logo.png" group-title="News",Very Pennsylvania by WGAL
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62440f5ccc4140a6505193d8.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-62440beecc4140a6505193d2" tvg-id="5e20b730f2f8d5003d739db7-62440beecc4140a6505193d2" tvg-chno="" tvg-name="Very Pittsburgh by WTAE" tvg-logo="https://provider-static.plex.tv/epg/cms/staging/0d99559c-efe9-42ac-9cc9-ad48f36ac162/WTAE_pittsburgh_logo.png" group-title="News",Very Pittsburgh by WTAE
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62440beecc4140a6505193d2.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-62c47062085f5c338b9c6360" tvg-id="5e20b730f2f8d5003d739db7-62c47062085f5c338b9c6360" tvg-chno="" tvg-name="VICE" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7d2a038b-fd7a-4a79-8c7a-2ce78037ec2d/vice_logo_lightrdx.png" group-title="Reality",VICE
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62c47062085f5c338b9c6360.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-635ff8bb66f96b46951ab7f3" tvg-id="5e20b730f2f8d5003d739db7-635ff8bb66f96b46951ab7f3" tvg-chno="" tvg-name="Vice News" tvg-logo="https://provider-static.plex.tv/epg/cms/production/62e098a4-a681-4654-adb3-37f203080daa/ViceNews_logo_whiterdx.png" group-title="News",Vice News
