@@ -733,12 +733,12 @@ https://jmp2.uk/plu-5dc9b8223687ff000936ed79.m3u8
 https://jmp2.uk/plu-5dc48170e280c80009a861ab.m3u8
 #EXTINF:-1 channel-id="5eb1b05ea168cc000767ba67-us" tvg-id="5eb1b05ea168cc000767ba67" tvg-chno="5210" tvg-name="CBS News Philadelphia" tvg-logo="https://images.pluto.tv/channels/5eb1b05ea168cc000767ba67/colorLogoPNG.png" group-title="United States",CBS News Philadelphia
 https://jmp2.uk/plu-5eb1b05ea168cc000767ba67.m3u8
+#EXTINF:-1 channel-id="62cdcac1be7a970008781a64-us" tvg-id="62cdcac1be7a970008781a64" tvg-chno="2570" tvg-name="CBS News Pittsburgh" tvg-logo="https://images.pluto.tv/channels/62cdcac1be7a970008781a64/colorLogoPNG.png" group-title="United States",CBS News Pittsburgh
+https://jmp2.uk/plu-62cdcac1be7a970008781a64.m3u8
 #EXTINF:-1 channel-id="5eb1b17aa5277e00083f6521-us" tvg-id="5eb1b17aa5277e00083f6521" tvg-chno="5220" tvg-name="CBS News Pittsburgh" tvg-logo="https://images.pluto.tv/channels/5eb1b17aa5277e00083f6521/colorLogoPNG.png" group-title="United States",CBS News Pittsburgh
 https://jmp2.uk/plu-5eb1b17aa5277e00083f6521.m3u8
 #EXTINF:-1 channel-id="60cb6df2b2ad610008cd5bea-us" tvg-id="60cb6df2b2ad610008cd5bea" tvg-chno="5230" tvg-name="CBS News Sacramento" tvg-logo="https://images.pluto.tv/channels/60cb6df2b2ad610008cd5bea/colorLogoPNG.png" group-title="United States",CBS News Sacramento
 https://jmp2.uk/plu-60cb6df2b2ad610008cd5bea.m3u8
-#EXTINF:-1 channel-id="62cdc813f5def500070361eb-us" tvg-id="62cdc813f5def500070361eb" tvg-chno="2570" tvg-name="CBS News Texas" tvg-logo="https://images.pluto.tv/channels/62cdc813f5def500070361eb/colorLogoPNG.png" group-title="United States",CBS News Texas
-https://jmp2.uk/plu-62cdc813f5def500070361eb.m3u8
 #EXTINF:-1 channel-id="5eceb0d4065c240007688ec6-us" tvg-id="5eceb0d4065c240007688ec6" tvg-chno="5250" tvg-name="CBS News Texas" tvg-logo="https://images.pluto.tv/channels/5eceb0d4065c240007688ec6/colorLogoPNG.png" group-title="United States",CBS News Texas
 https://jmp2.uk/plu-5eceb0d4065c240007688ec6.m3u8
 #EXTINF:-1 channel-id="5e9f2c05172a0f0007db4786-us" tvg-id="5e9f2c05172a0f0007db4786" tvg-chno="2780" tvg-name="CBS Sports HQ" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG_1731837352945.png" group-title="United States",CBS Sports HQ
@@ -1045,7 +1045,7 @@ https://jmp2.uk/plu-62f54c6439183b000769fb8f.m3u8
 https://jmp2.uk/plu-632b606e12a67b0007c9e371.m3u8
 #EXTINF:-1 channel-id="5f1acd36779de70007a680d1-es" tvg-id="5f1acd36779de70007a680d1" tvg-chno="56" tvg-name="Curro Jiménez" tvg-logo="https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png" group-title="Spain",Curro Jiménez
 https://jmp2.uk/plu-5f1acd36779de70007a680d1.m3u8
-#EXTINF:-1 channel-id="68b5a7b69ac85c428f54c441-gb" tvg-id="68b5a7b69ac85c428f54c441" tvg-chno="112" tvg-name="Curzon Cinema" tvg-logo="https://images.pluto.tv/channels/68b5a7b69ac85c428f54c441/colorLogoPNG_1762359402221.png" group-title="United Kingdom",Curzon Cinema
+#EXTINF:-1 channel-id="68b5a7b69ac85c428f54c441-gb" tvg-id="68b5a7b69ac85c428f54c441" tvg-chno="112" tvg-name="Curzon" tvg-logo="https://images.pluto.tv/channels/68b5a7b69ac85c428f54c441/colorLogoPNG_1762359402221.png" group-title="United Kingdom",Curzon
 https://jmp2.uk/plu-68b5a7b69ac85c428f54c441.m3u8
 #EXTINF:-1 channel-id="64e77016324d190008291c13-no" tvg-id="64e77016324d190008291c13" tvg-chno="438" tvg-name="Dallas Cowboys Cheerleaders" tvg-logo="https://images.pluto.tv/channels/64e77016324d190008291c13/colorLogoPNG.png" group-title="Norway",Dallas Cowboys Cheerleaders
 https://jmp2.uk/plu-64e77016324d190008291c13.m3u8

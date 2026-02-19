@@ -379,8 +379,6 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-682dff1fdfc9c452b8f9842a.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69153808ca8cd63ab14ece0d.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-656fb124cb7e8e6a9bc3f36a" tvg-id="647f8d22a2fc3fadb4721685-656fb124cb7e8e6a9bc3f36a" tvg-chno="" tvg-name="Kidz Bop TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ca4eaf02-b31d-4b56-8cad-1ff4601bb17b/KB_PLEX_1500x1000_Logo-Light-BG_-_James_Stowe.png" group-title="Kids & Family",Kidz Bop TV
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-656fb124cb7e8e6a9bc3f36a.m3u8
-#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-668d3bc6aa19f3bf5ee4fd1a" tvg-id="647f8d22a2fc3fadb4721685-668d3bc6aa19f3bf5ee4fd1a" tvg-chno="" tvg-name="Les débatteurs Noovo" tvg-logo="https://provider-static.plex.tv/epg/cms/production/606b58d1-0a4f-43d9-a700-2f4a59bbf2ef/NV_Plex_FastChan_1500x1000_Debatteurs_BlancRDX.png" group-title="Uncategorized",Les débatteurs Noovo
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-668d3bc6aa19f3bf5ee4fd1a.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-66a2df930b91165254efdb46" tvg-id="647f8d22a2fc3fadb4721685-66a2df930b91165254efdb46" tvg-chno="" tvg-name="Let's Make a Deal" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7cf32a69-c1c2-49f7-8db5-00ee4b740a23/LMAD_Plex_Logo_DrkBkg_1500x1000.png" group-title="Game Shows",Let's Make a Deal
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-66a2df930b91165254efdb46.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-666e1bc2d91d13cb4c8cbb6f" tvg-id="647f8d22a2fc3fadb4721685-666e1bc2d91d13cb4c8cbb6f" tvg-chno="" tvg-name="Life+Style" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c61624db-2926-433a-850c-a9ce4a359336/channel_logo_1500x1000_light.png.png" group-title="Lifestyle",Life+Style
@@ -473,6 +471,8 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-64b1e1217d4037206787f384.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-65bd5a538314c24e11553543.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-668d3d9c164d5df264c08d2d" tvg-id="647f8d22a2fc3fadb4721685-668d3d9c164d5df264c08d2d" tvg-chno="" tvg-name="Noovo Cinéma" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1074acb8-2aa3-47eb-9af6-090709900359/NV_Plex_FastChan_1500x1000_CIN_Bleu.png" group-title="Movies",Noovo Cinéma
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-668d3d9c164d5df264c08d2d.m3u8
+#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-698fb1938f934d915eb13488" tvg-id="647f8d22a2fc3fadb4721685-698fb1938f934d915eb13488" tvg-chno="" tvg-name="Noovo Crime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/73c1feb7-0ae5-4847-81b8-cc4a47adb195/WHITENV_CRI_Logo_BL_FastCh_PLEX_1500x1000__4_.png" group-title="Uncategorized",Noovo Crime
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-698fb1938f934d915eb13488.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-5f0ff262d71dcb00449ec015" tvg-id="647f8d22a2fc3fadb4721685-5f0ff262d71dcb00449ec015" tvg-chno="" tvg-name="Nosey" tvg-logo="https://provider-static.plex.tv/epg/cms/production/881d4e9f-10ec-4ca8-9309-17cc1126b768/nosey_green.png" group-title="Daytime TV",Nosey
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5f0ff262d71dcb00449ec015.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6154a863e3e4d9577f96b31a" tvg-id="647f8d22a2fc3fadb4721685-6154a863e3e4d9577f96b31a" tvg-chno="" tvg-name="Nosey Escándalos" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png" group-title="En Español",Nosey Escándalos
