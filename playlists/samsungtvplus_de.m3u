@@ -83,7 +83,7 @@ https://jmp2.uk/stvp-DEBD3800001QD
 https://jmp2.uk/stvp-DE340000678
 #EXTINF:-1 channel-id="DE30000067I" tvg-id="DE30000067I" tvg-chno="4877" tvg-name="Deutsches Kino - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE30000067I_20250107T024828SQUARE.png" group-title="Filme",Deutsches Kino - Rakuten TV
 https://jmp2.uk/stvp-DE30000067I
-#EXTINF:-1 channel-id="DE400010IF" tvg-id="DE400010IF" tvg-chno="4613" tvg-name="DF1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE400010IF_20260224T030508SQUARE.png" group-title="Sport",DF1
+#EXTINF:-1 channel-id="DE400010IF" tvg-id="DE400010IF" tvg-chno="4003" tvg-name="DF1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE400010IF_20260224T030508SQUARE.png" group-title="Sport",DF1
 https://jmp2.uk/stvp-DE400010IF
 #EXTINF:-1 channel-id="DE3800003CU" tvg-id="DE3800003CU" tvg-chno="4157" tvg-name="Dhar Mann TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3800003CU_20251111T013942SQUARE.png" group-title="Entertainment",Dhar Mann TV
 https://jmp2.uk/stvp-DE3800003CU
@@ -93,7 +93,7 @@ https://jmp2.uk/stvp-DE2600007ET
 https://jmp2.uk/stvp-DEBC4700007JV
 #EXTINF:-1 channel-id="DE3900001WX" tvg-id="DE3900001WX" tvg-chno="4799" tvg-name="Emily Erdbeer" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3900001WX_20250107T024831SQUARE.png" group-title="Kids",Emily Erdbeer
 https://jmp2.uk/stvp-DE3900001WX
-#EXTINF:-1 channel-id="DEBC4700002Z2" tvg-id="DEBC4700002Z2" tvg-chno="4007" tvg-name="Entertainment Mix" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC4700002Z2_20260224T030511SQUARE.png" group-title="Entertainment",Entertainment Mix
+#EXTINF:-1 channel-id="DEBC4700002Z2" tvg-id="DEBC4700002Z2" tvg-chno="4001" tvg-name="Entertainment Mix" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC4700002Z2_20260224T030511SQUARE.png" group-title="Entertainment",Entertainment Mix
 https://jmp2.uk/stvp-DEBC4700002Z2
 #EXTINF:-1 channel-id="DE2600003TR" tvg-id="DE2600003TR" tvg-chno="4004" tvg-name="Euronews LIVE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2600003TR_20250415T021654SQUARE.png" group-title="News",Euronews LIVE
 https://jmp2.uk/stvp-DE2600003TR
@@ -291,6 +291,8 @@ https://jmp2.uk/stvp-DE32000175T
 https://jmp2.uk/stvp-DEBA3300016EV
 #EXTINF:-1 channel-id="DEBD5100001XP" tvg-id="DEBD5100001XP" tvg-chno="4801" tvg-name="SuperToons TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD5100001XP_20260210T035715SQUARE.png" group-title="Kids",SuperToons TV
 https://jmp2.uk/stvp-DEBD5100001XP
+#EXTINF:-1 channel-id="DE4600003OS" tvg-id="DE4600003OS" tvg-chno="4364" tvg-name="Swamp People - überleben im sumpf" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4600003OS_20260224T025342SQUARE.png" group-title="Dokus & Wissen",Swamp People - überleben im sumpf
+https://jmp2.uk/stvp-DE4600003OS
 #EXTINF:-1 channel-id="DEAJ700004BT" tvg-id="DEAJ700004BT" tvg-chno="4827" tvg-name="Teen Nick" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ700004BT_20250603T004853SQUARE.png" group-title="Kids",Teen Nick
 https://jmp2.uk/stvp-DEAJ700004BT
 #EXTINF:-1 channel-id="DE400011F2" tvg-id="DE400011F2" tvg-chno="4265" tvg-name="Telenovela ZDF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE400011F2_20250422T045301SQUARE.png" group-title="Serien",Telenovela ZDF
@@ -311,7 +313,7 @@ https://jmp2.uk/stvp-DEBC3000003IG
 https://jmp2.uk/stvp-DE3700008VR
 #EXTINF:-1 channel-id="DE40000191" tvg-id="DE40000191" tvg-chno="4136" tvg-name="The Graham Norton Show" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE40000191_20250107T024744SQUARE.png" group-title="Entertainment",The Graham Norton Show
 https://jmp2.uk/stvp-DE40000191
-#EXTINF:-1 channel-id="DE200003PX" tvg-id="DE200003PX" tvg-chno="4001" tvg-name="The Jamie Oliver Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200003PX_20260224T030540SQUARE.png" group-title="Food & Travel",The Jamie Oliver Channel
+#EXTINF:-1 channel-id="DE200003PX" tvg-id="DE200003PX" tvg-chno="4511" tvg-name="The Jamie Oliver Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200003PX_20260224T030540SQUARE.png" group-title="Food & Travel",The Jamie Oliver Channel
 https://jmp2.uk/stvp-DE200003PX
 #EXTINF:-1 channel-id="DEAJ3200005JH" tvg-id="DEAJ3200005JH" tvg-chno="4168" tvg-name="The Pet Collective" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ3200005JH_20250107T024024SQUARE.png" group-title="Entertainment",The Pet Collective
 https://jmp2.uk/stvp-DEAJ3200005JH
@@ -319,6 +321,8 @@ https://jmp2.uk/stvp-DEAJ3200005JH
 https://jmp2.uk/stvp-DEBC220000422
 #EXTINF:-1 channel-id="DEAJ0500423A" tvg-id="DEAJ0500423A" tvg-chno="4494" tvg-name="Tierwelt" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500423A_20250107T024203SQUARE.png" group-title="Dokus & Wissen",Tierwelt
 https://jmp2.uk/stvp-DEAJ0500423A
+#EXTINF:-1 channel-id="DE1100003YR" tvg-id="DE1100003YR" tvg-chno="4635" tvg-name="Top Barça" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1100003YR_20260224T030543SQUARE.png" group-title="Fußball",Top Barça
+https://jmp2.uk/stvp-DE1100003YR
 #EXTINF:-1 channel-id="DEBD5000001VL" tvg-id="DEBD5000001VL" tvg-chno="4870" tvg-name="Top Filme" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD5000001VL_20250107T024749SQUARE.png" group-title="Filme",Top Filme
 https://jmp2.uk/stvp-DEBD5000001VL
 #EXTINF:-1 channel-id="DE26000096S" tvg-id="DE26000096S" tvg-chno="4879" tvg-name="Top Filme - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE26000096S_20250107T024752SQUARE.png" group-title="Filme",Top Filme - Rakuten TV
@@ -331,6 +335,8 @@ https://jmp2.uk/stvp-DE2300002KX
 https://jmp2.uk/stvp-DEBA3300038NO
 #EXTINF:-1 channel-id="DEBA3300030O1" tvg-id="DEBA3300030O1" tvg-chno="4740" tvg-name="Trace Urban" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300030O1_20250107T024248SQUARE.png" group-title="Musik",Trace Urban
 https://jmp2.uk/stvp-DEBA3300030O1
+#EXTINF:-1 channel-id="DE200044MH" tvg-id="DE200044MH" tvg-chno="4293" tvg-name="Vera" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200044MH_20260224T030547SQUARE.png" group-title="Crime",Vera
+https://jmp2.uk/stvp-DE200044MH
 #EXTINF:-1 channel-id="DEBC2100001ZJ" tvg-id="DEBC2100001ZJ" tvg-chno="4682" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2100001ZJ_20250107T024435SQUARE.png" group-title="Musik",Vevo Pop
 https://jmp2.uk/stvp-DEBC2100001ZJ
 #EXTINF:-1 channel-id="DEBC21000022L" tvg-id="DEBC21000022L" tvg-chno="4684" tvg-name="Vevo Schlager Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC21000022L_20250107T024438SQUARE.png" group-title="Musik",Vevo Schlager Pop
@@ -339,7 +345,7 @@ https://jmp2.uk/stvp-DEBC21000022L
 https://jmp2.uk/stvp-DE4400005PI
 #EXTINF:-1 channel-id="DEBA3300034HH" tvg-id="DEBA3300034HH" tvg-chno="4872" tvg-name="wedo movies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300034HH_20250107T024240SQUARE.png" group-title="Filme",wedo movies
 https://jmp2.uk/stvp-DEBA3300034HH
-#EXTINF:-1 channel-id="DEBA3300042XG" tvg-id="DEBA3300042XG" tvg-chno="4486" tvg-name="Wilder Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300042XG_20260224T030434SQUARE.png" group-title="Dokus & Wissen",Wilder Planet
+#EXTINF:-1 channel-id="DEBA3300042XG" tvg-id="DEBA3300042XG" tvg-chno="4002" tvg-name="Wilder Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300042XG_20260224T030434SQUARE.png" group-title="Dokus & Wissen",Wilder Planet
 https://jmp2.uk/stvp-DEBA3300042XG
 #EXTINF:-1 channel-id="DEBD5000002EW" tvg-id="DEBD5000002EW" tvg-chno="4675" tvg-name="World of Freesports - WoF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD5000002EW_20250107T024757SQUARE.png" group-title="Sport",World of Freesports - WoF
 https://jmp2.uk/stvp-DEBD5000002EW
@@ -353,9 +359,9 @@ https://jmp2.uk/stvp-DE1300001XL
 https://jmp2.uk/stvp-DEAJ0500422A
 #EXTINF:-1 channel-id="DE7000038K" tvg-id="DE7000038K" tvg-chno="4192" tvg-name="Yu-Gi-Oh!" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE7000038K_20250408T021658SQUARE.png" group-title="Anime",Yu-Gi-Oh!
 https://jmp2.uk/stvp-DE7000038K
-#EXTINF:-1 channel-id="DEBD3700002HO" tvg-id="DEBD3700002HO" tvg-chno="4003" tvg-name="ZDF kocht!" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3700002HO_20260224T030550SQUARE.png" group-title="Food & Travel",ZDF kocht!
+#EXTINF:-1 channel-id="DEBD3700002HO" tvg-id="DEBD3700002HO" tvg-chno="4515" tvg-name="ZDF kocht!" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3700002HO_20260224T030550SQUARE.png" group-title="Food & Travel",ZDF kocht!
 https://jmp2.uk/stvp-DEBD3700002HO
-#EXTINF:-1 channel-id="DE37000038D" tvg-id="DE37000038D" tvg-chno="4002" tvg-name="ZDF zu Hause" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE37000038D_20260224T030455SQUARE.png" group-title="Entertainment",ZDF zu Hause
+#EXTINF:-1 channel-id="DE37000038D" tvg-id="DE37000038D" tvg-chno="4201" tvg-name="ZDF zu Hause" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE37000038D_20260224T030455SQUARE.png" group-title="Entertainment",ZDF zu Hause
 https://jmp2.uk/stvp-DE37000038D
 #EXTINF:-1 channel-id="DEAJ2900003CN" tvg-id="DEAJ2900003CN" tvg-chno="4242" tvg-name="Zee One" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ2900003CN_20251013T054836SQUARE.png" group-title="Serien",Zee One
 https://jmp2.uk/stvp-DEAJ2900003CN
