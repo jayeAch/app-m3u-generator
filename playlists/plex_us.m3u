@@ -227,6 +227,8 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-64fb8ec0214cf8b3b54b5ec8.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-67db0a3892cb453db28ab020.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-616df1e90dfa27ee465797fa" tvg-id="5e20b730f2f8d5003d739db7-616df1e90dfa27ee465797fa" tvg-chno="" tvg-name="CineLife" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e4ba10a4-dbb2-4d15-b268-1ed43ddf7e4b/cinelife-logo.png" group-title="Movies",CineLife
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-616df1e90dfa27ee465797fa.m3u8
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6995ed8173f56d61dc078f0d" tvg-id="5e20b730f2f8d5003d739db7-6995ed8173f56d61dc078f0d" tvg-chno="" tvg-name="Circle Country" tvg-logo="https://provider-static.plex.tv/epg/cms/production/87241472-e99a-4908-8953-72a4b173f04a/CircleWhite_Logo__2_.png" group-title="Uncategorized",Circle Country
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6995ed8173f56d61dc078f0d.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-67642f277c5e3b38af72dcdb" tvg-id="5e20b730f2f8d5003d739db7-67642f277c5e3b38af72dcdb" tvg-chno="" tvg-name="Cirque du Soleil" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png" group-title="Uncategorized",Cirque du Soleil
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-67642f277c5e3b38af72dcdb.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-67c614985908ba2cc8775bf5" tvg-id="5e20b730f2f8d5003d739db7-67c614985908ba2cc8775bf5" tvg-chno="" tvg-name="Classic Car Auctions" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6ec1a14f-5b64-4782-a743-b175c60213f3/Classic_Car_Auctions_By_HISTORY_COLOR_WhtTEXT_RDX.png" group-title="Uncategorized",Classic Car Auctions
@@ -295,8 +297,6 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-671c2353572427bfa1eb7ed3.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63c97410187b3c9f3581fdf4.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" tvg-id="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" tvg-chno="" tvg-name="Curiosity NOW" tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/9cd5ae861f257ae45332af9b63addf18.png" group-title="History & Science",Curiosity NOW
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-67c7ba04799b4ecdbb4e9a71" tvg-id="5e20b730f2f8d5003d739db7-67c7ba04799b4ecdbb4e9a71" tvg-chno="" tvg-name="CUT" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5df35482-6676-47cf-9e6f-c9f7dc92bcfa/1500x1000_CUTLogo_WhiteTransparent..png" group-title="Uncategorized",CUT
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-67c7ba04799b4ecdbb4e9a71.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-66635fc0ca7b22f4c3a2d743" tvg-id="5e20b730f2f8d5003d739db7-66635fc0ca7b22f4c3a2d743" tvg-chno="" tvg-name="CW Forever" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9418a5d-f191-4b8a-bf3a-2eda3d2cd137/PLEX_CWFOREVER_UPDATEDLOGO_RDX.png" group-title="Hit TV",CW Forever
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66635fc0ca7b22f4c3a2d743.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-66635e41ca7b22f4c3a2d741" tvg-id="5e20b730f2f8d5003d739db7-66635e41ca7b22f4c3a2d741" tvg-chno="" tvg-name="CW Gold" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e03763f1-e83b-46f1-aaaa-8052d316bbc9/PLEX_CWGOLD_UPDATEDLOGO_RDX.png" group-title="Hit TV",CW Gold
@@ -897,8 +897,6 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-60afc726623f2f002c5bb49f.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-64ac687b4192b4e1bab96279.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-62ee7992271f393d2d9f709c" tvg-id="5e20b730f2f8d5003d739db7-62ee7992271f393d2d9f709c" tvg-chno="" tvg-name="Pop Adult" tvg-logo="https://provider-static.plex.tv/epg/cms/production/050c6ca4-f732-4d97-aa14-0ed9fe3d2d36/pop_adult.png" group-title="Music",Pop Adult
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62ee7992271f393d2d9f709c.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d6" tvg-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d6" tvg-chno="" tvg-name="Popstar! TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/POPSTAR TV_logo_dark_v4.png" group-title="Lifestyle",Popstar! TV
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d6.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" tvg-id="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" tvg-chno="" tvg-name="Popular Science" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c6bfca5e-58fe-4ed4-a87d-5e2ccde7f085/Logo_Art_-_Popular_Science_Dark_Backgrounds.png" group-title="Uncategorized",Popular Science
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-61d735fea7b7c7f703418512" tvg-id="5e20b730f2f8d5003d739db7-61d735fea7b7c7f703418512" tvg-chno="" tvg-name="Portlandia" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b6397d23-f64f-4f16-bdef-d24d4dc24436/AMCN-PortlandiaIFC_Plex_logo_dark_v01.png" group-title="Comedy",Portlandia
@@ -1349,8 +1347,6 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6617f52f0049fcb8e2b0d5b8.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66ce3e009ac0b1441b19ca29.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-682512b03d06c8e426a2941a" tvg-id="5e20b730f2f8d5003d739db7-682512b03d06c8e426a2941a" tvg-chno="" tvg-name="Z Nation" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b4044a25-a901-4ad8-b5ad-de971302f4cf/ZNation_Channel_Logo_White__1_.png" group-title="Sci-Fi & Action",Z Nation
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-682512b03d06c8e426a2941a.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-678287e75fe5e4eb1e030c65" tvg-id="5e20b730f2f8d5003d739db7-678287e75fe5e4eb1e030c65" tvg-chno="" tvg-name="Zee BollyWorld" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fbe45dbe-fbb4-4055-85cd-2f029df61dbb/1500X1000-PNG-_Logo-suitable-for-dark-backgrounds__-_Jordan_Warkol.png" group-title="Uncategorized",Zee BollyWorld
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-678287e75fe5e4eb1e030c65.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6642a07d0e0ec7b4ce5eb294" tvg-id="5e20b730f2f8d5003d739db7-6642a07d0e0ec7b4ce5eb294" tvg-chno="" tvg-name="ZenLIFE by Stingray" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b019aa95-c5a6-4ccf-8eac-0740effe749f/10423_ZL_Plex_Launch-assets_Channel-Logo_1500x1000_V01-White_-_Sacha_Portaria.png" group-title="Nature & Travel",ZenLIFE by Stingray
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6642a07d0e0ec7b4ce5eb294.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-65f0da6f046e6131ecc31841" tvg-id="5e20b730f2f8d5003d739db7-65f0da6f046e6131ecc31841" tvg-chno="" tvg-name="Zona Investigación" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f653ff7d-39d9-4da4-a3d3-dc0fc71b6dd4/Zone_Investigacion_-_1500X1000_PNG_w_transparent_background_Logo_for_dark___white_backgrounds_-_JuanMa_Velasquez.png" group-title="En Español",Zona Investigación
