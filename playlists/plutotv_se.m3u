@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/se.xml.gz"
 #EXTINF:-1 channel-id="6346935b94aa8c0007c5b7a2" tvg-id="6346935b94aa8c0007c5b7a2" tvg-chno="704" tvg-name="48 Hours" tvg-logo="https://images.pluto.tv/channels/6346935b94aa8c0007c5b7a2/colorLogoPNG.png" group-title="True Crime",48 Hours
 https://jmp2.uk/plu-6346935b94aa8c0007c5b7a2.m3u8
-#EXTINF:-1 channel-id="6728cab6e482950008b76d8c" tvg-id="6728cab6e482950008b76d8c" tvg-chno="208" tvg-name="7th Heaven" tvg-logo="https://images.pluto.tv/channels/6728cab6e482950008b76d8c/colorLogoPNG.png" group-title="Drama",7th Heaven
+#EXTINF:-1 channel-id="6728cab6e482950008b76d8c" tvg-id="6728cab6e482950008b76d8c" tvg-chno="209" tvg-name="7th Heaven" tvg-logo="https://images.pluto.tv/channels/6728cab6e482950008b76d8c/colorLogoPNG.png" group-title="Drama",7th Heaven
 https://jmp2.uk/plu-6728cab6e482950008b76d8c.m3u8
 #EXTINF:-1 channel-id="68c01954f89c82a68b084a50" tvg-id="68c01954f89c82a68b084a50" tvg-chno="50" tvg-name="Afterwork TV" tvg-logo="https://images.pluto.tv/channels/68c01954f89c82a68b084a50/colorLogoPNG_1760708260418.png" group-title="Svensk reality och underhållning",Afterwork TV
 https://jmp2.uk/plu-68c01954f89c82a68b084a50.m3u8
@@ -95,11 +95,11 @@ https://jmp2.uk/plu-62b1e5e77d15410007f798c6.m3u8
 https://jmp2.uk/plu-657886bfb9adc40008025554.m3u8
 #EXTINF:-1 channel-id="67a23bb777796f00080edaec" tvg-id="67a23bb777796f00080edaec" tvg-chno="107" tvg-name="Dominance FC TV" tvg-logo="https://images.pluto.tv/channels/67a23bb777796f00080edaec/colorLogoPNG_1750773346598.png" group-title="Sport",Dominance FC TV
 https://jmp2.uk/plu-67a23bb777796f00080edaec.m3u8
-#EXTINF:-1 channel-id="68f0f7dea362b63a8df50bd4" tvg-id="68f0f7dea362b63a8df50bd4" tvg-chno="207" tvg-name="Dr. Quinn, Medicine Woman" tvg-logo="https://images.pluto.tv/channels/68f0f7dea362b63a8df50bd4/colorLogoPNG_1762757713795.png" group-title="Drama",Dr. Quinn Medicine Woman
+#EXTINF:-1 channel-id="68f0f7dea362b63a8df50bd4" tvg-id="68f0f7dea362b63a8df50bd4" tvg-chno="208" tvg-name="Dr. Quinn, Medicine Woman" tvg-logo="https://images.pluto.tv/channels/68f0f7dea362b63a8df50bd4/colorLogoPNG_1762757713795.png" group-title="Drama",Dr. Quinn Medicine Woman
 https://jmp2.uk/plu-68f0f7dea362b63a8df50bd4.m3u8
 #EXTINF:-1 channel-id="65788611a620e30008fe36ff" tvg-id="65788611a620e30008fe36ff" tvg-chno="378" tvg-name="Duck Dynasty" tvg-logo="https://images.pluto.tv/channels/65788611a620e30008fe36ff/colorLogoPNG.png" group-title="Reality",Duck Dynasty
 https://jmp2.uk/plu-65788611a620e30008fe36ff.m3u8
-#EXTINF:-1 channel-id="68f0fb155d6fb43948165d32" tvg-id="68f0fb155d6fb43948165d32" tvg-chno="6" tvg-name="Dynastin" tvg-logo="https://images.pluto.tv/channels/68f0fb155d6fb43948165d32/colorLogoPNG_1762758211490.png" group-title="Nytt på Pluto TV",Dynastin
+#EXTINF:-1 channel-id="68f0fb155d6fb43948165d32" tvg-id="68f0fb155d6fb43948165d32" tvg-chno="207" tvg-name="Dynastin" tvg-logo="https://images.pluto.tv/channels/68f0fb155d6fb43948165d32/colorLogoPNG_1762758211490.png" group-title="Drama",Dynastin
 https://jmp2.uk/plu-68f0fb155d6fb43948165d32.m3u8
 #EXTINF:-1 channel-id="646ce0e2e1979c0008983939" tvg-id="646ce0e2e1979c0008983939" tvg-chno="707" tvg-name="Efterlyst" tvg-logo="https://images.pluto.tv/channels/646ce0e2e1979c0008983939/colorLogoPNG.png" group-title="True Crime",Efterlyst
 https://jmp2.uk/plu-646ce0e2e1979c0008983939.m3u8
@@ -227,7 +227,7 @@ https://jmp2.uk/plu-61c09342b3a6230007a45119.m3u8
 https://jmp2.uk/plu-6728d33f030a2c0008edf4be.m3u8
 #EXTINF:-1 channel-id="619e4833244e500007564d5a" tvg-id="619e4833244e500007564d5a" tvg-chno="668" tvg-name="Nosey" tvg-logo="https://images.pluto.tv/channels/619e4833244e500007564d5a/colorLogoPNG.png" group-title="Talkshow",Nosey
 https://jmp2.uk/plu-619e4833244e500007564d5a.m3u8
-#EXTINF:-1 channel-id="63dbe8a1c111bc0008dec8b8" tvg-id="63dbe8a1c111bc0008dec8b8" tvg-chno="209" tvg-name="Numb3rs" tvg-logo="https://images.pluto.tv/channels/63dbe8a1c111bc0008dec8b8/colorLogoPNG.png" group-title="Drama",Numb3rs
+#EXTINF:-1 channel-id="63dbe8a1c111bc0008dec8b8" tvg-id="63dbe8a1c111bc0008dec8b8" tvg-chno="210" tvg-name="Numb3rs" tvg-logo="https://images.pluto.tv/channels/63dbe8a1c111bc0008dec8b8/colorLogoPNG.png" group-title="Drama",Numb3rs
 https://jmp2.uk/plu-63dbe8a1c111bc0008dec8b8.m3u8
 #EXTINF:-1 channel-id="62cdad7b5c38c00007f566c2" tvg-id="62cdad7b5c38c00007f566c2" tvg-chno="724" tvg-name="On the Case" tvg-logo="https://images.pluto.tv/channels/62cdad7b5c38c00007f566c2/colorLogoPNG.png" group-title="True Crime",On the Case
 https://jmp2.uk/plu-62cdad7b5c38c00007f566c2.m3u8
@@ -395,7 +395,7 @@ https://jmp2.uk/plu-6181498caf6afc0007de9e72.m3u8
 https://jmp2.uk/plu-62f64ec9eb1045000728cad6.m3u8
 #EXTINF:-1 channel-id="62a0b114a1c8650007e93688" tvg-id="62a0b114a1c8650007e93688" tvg-chno="556" tvg-name="Walker Texas Ranger" tvg-logo="https://images.pluto.tv/channels/62a0b114a1c8650007e93688/colorLogoPNG.png" group-title="Gamla godingar",Walker Texas Ranger
 https://jmp2.uk/plu-62a0b114a1c8650007e93688.m3u8
-#EXTINF:-1 channel-id="62beb0de371e6c000775930c" tvg-id="62beb0de371e6c000775930c" tvg-chno="210" tvg-name="Wildfire" tvg-logo="https://images.pluto.tv/channels/62beb0de371e6c000775930c/colorLogoPNG.png" group-title="Drama",Wildfire
+#EXTINF:-1 channel-id="62beb0de371e6c000775930c" tvg-id="62beb0de371e6c000775930c" tvg-chno="212" tvg-name="Wildfire" tvg-logo="https://images.pluto.tv/channels/62beb0de371e6c000775930c/colorLogoPNG.png" group-title="Drama",Wildfire
 https://jmp2.uk/plu-62beb0de371e6c000775930c.m3u8
 #EXTINF:-1 channel-id="6440f73ee94c380008ccddc8" tvg-id="6440f73ee94c380008ccddc8" tvg-chno="359" tvg-name="World of Love Island" tvg-logo="https://images.pluto.tv/channels/6440f73ee94c380008ccddc8/colorLogoPNG.png" group-title="Reality",World of Love Island
 https://jmp2.uk/plu-6440f73ee94c380008ccddc8.m3u8
