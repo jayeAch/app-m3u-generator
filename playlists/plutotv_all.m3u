@@ -1893,12 +1893,6 @@ https://jmp2.uk/plu-67ed0c86f7c5d70b90889a51.m3u8
 https://jmp2.uk/plu-68590366010ddd78ef837d29.m3u8
 #EXTINF:-1 channel-id="67ebbdced2832b463faa1e79-de" tvg-id="67ebbdced2832b463faa1e79" tvg-chno="435" tvg-name="KultKrimi: Küstenwache" tvg-logo="https://images.pluto.tv/channels/67ebbdced2832b463faa1e79/colorLogoPNG_1745819408443.png" group-title="Germany",KultKrimi: Küstenwache
 https://jmp2.uk/plu-67ebbdced2832b463faa1e79.m3u8
-#EXTINF:-1 channel-id="63e38ca4c111bc0008ee6023-se" tvg-id="63e38ca4c111bc0008ee6023" tvg-chno="1002" tvg-name="Kungen Av Queens" tvg-logo="https://images.pluto.tv/channels/63e38ca4c111bc0008ee6023/colorLogoPNG.png" group-title="Sweden",Kungen Av Queens
-https://jmp2.uk/plu-63e38ca4c111bc0008ee6023.m3u8
-#EXTINF:-1 channel-id="670cc67eb2ffb1000823a592-se" tvg-id="670cc67eb2ffb1000823a592" tvg-chno="1004" tvg-name="Kungen av Queens: På vift" tvg-logo="https://images.pluto.tv/channels/670cc67eb2ffb1000823a592/colorLogoPNG_1730529528623.png" group-title="Sweden",Kungen av Queens: På vift
-https://jmp2.uk/plu-670cc67eb2ffb1000823a592.m3u8
-#EXTINF:-1 channel-id="670cc6a85049580008ecf945-se" tvg-id="670cc6a85049580008ecf945" tvg-chno="1006" tvg-name="Kungen av Queens: Svärfar special" tvg-logo="https://images.pluto.tv/channels/670cc6a85049580008ecf945/colorLogoPNG_1730528994981.png" group-title="Sweden",Kungen av Queens: Svärfar special
-https://jmp2.uk/plu-670cc6a85049580008ecf945.m3u8
 #EXTINF:-1 channel-id="668c566d08d5490008075948-us" tvg-id="668c566d08d5490008075948" tvg-chno="4335" tvg-name="La Familia del Barrio" tvg-logo="https://images.pluto.tv/channels/668c566d08d5490008075948/colorLogoPNG.png" group-title="United States",La Familia del Barrio
 https://jmp2.uk/plu-668c566d08d5490008075948.m3u8
 #EXTINF:-1 channel-id="62d08af527ce19000731eaa0-mx" tvg-id="62d08af527ce19000731eaa0" tvg-chno="939" tvg-name="La Familia del Barrio" tvg-logo="https://images.pluto.tv/channels/62d08af527ce19000731eaa0/colorLogoPNG.png" group-title="Mexico",La Familia del Barrio
@@ -3147,11 +3141,11 @@ https://jmp2.uk/plu-66335489307fa300082bd6e4.m3u8
 https://jmp2.uk/plu-65a7ab137bdc8d0008487dfb.m3u8
 #EXTINF:-1 channel-id="5f32d2db0af67400077f29c4-br" tvg-id="5f32d2db0af67400077f29c4" tvg-chno="827" tvg-name="Pluto TV Esportes" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG_1762439215914.png" group-title="Brazil",Pluto TV Esportes
 https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
-#EXTINF:-1 channel-id="5dcde0657444a40009cd2422-mx" tvg-id="5dcde0657444a40009cd2422" tvg-chno="1199" tvg-name="Pluto TV Estilo de Vida" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG_1769706464896.png" group-title="Mexico",Pluto TV Estilo de Vida
+#EXTINF:-1 channel-id="5dcde0657444a40009cd2422-mx" tvg-id="5dcde0657444a40009cd2422" tvg-chno="1199" tvg-name="Pluto TV Estilo de Vida" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG_1772217964895.png" group-title="Mexico",Pluto TV Estilo de Vida
 https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8
-#EXTINF:-1 channel-id="5dcde0657444a40009cd2422-cl" tvg-id="5dcde0657444a40009cd2422" tvg-chno="1199" tvg-name="Pluto TV Estilo de Vida" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG_1769706464896.png" group-title="Chile",Pluto TV Estilo de Vida
+#EXTINF:-1 channel-id="5dcde0657444a40009cd2422-cl" tvg-id="5dcde0657444a40009cd2422" tvg-chno="1199" tvg-name="Pluto TV Estilo de Vida" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG_1772217964895.png" group-title="Chile",Pluto TV Estilo de Vida
 https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8
-#EXTINF:-1 channel-id="5dcde0657444a40009cd2422-ar" tvg-id="5dcde0657444a40009cd2422" tvg-chno="1199" tvg-name="Pluto TV Estilo de Vida" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG_1769706464896.png" group-title="Argentina",Pluto TV Estilo de Vida
+#EXTINF:-1 channel-id="5dcde0657444a40009cd2422-ar" tvg-id="5dcde0657444a40009cd2422" tvg-chno="1199" tvg-name="Pluto TV Estilo de Vida" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG_1772217964895.png" group-title="Argentina",Pluto TV Estilo de Vida
 https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8
 #EXTINF:-1 channel-id="68b176c2a4841127a8ed1ade-de" tvg-id="68b176c2a4841127a8ed1ade" tvg-chno="239" tvg-name="Pluto TV Europäische Krimis" tvg-logo="https://images.pluto.tv/channels/68b176c2a4841127a8ed1ade/colorLogoPNG_1760724753068.png" group-title="Germany",Pluto TV Europäische Krimis
 https://jmp2.uk/plu-68b176c2a4841127a8ed1ade.m3u8
