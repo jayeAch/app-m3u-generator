@@ -169,6 +169,8 @@ https://jmp2.uk/plu-6408ae8f9b39550008caf94f.m3u8
 https://jmp2.uk/plu-5f1acce7f17797000718f9be.m3u8
 #EXTINF:-1 channel-id="6887a8fd8e92b5e0a7244e88-us" tvg-id="6887a8fd8e92b5e0a7244e88" tvg-chno="1405" tvg-name="Ancient Aliens" tvg-logo="https://images.pluto.tv/channels/6887a8fd8e92b5e0a7244e88/colorLogoPNG_1753992701393.png" group-title="United States",Ancient Aliens
 https://jmp2.uk/plu-6887a8fd8e92b5e0a7244e88.m3u8
+#EXTINF:-1 channel-id="66c638726838ee00085ac20d-us" tvg-id="66c638726838ee00085ac20d" tvg-chno="875" tvg-name="Andromeda" tvg-logo="https://images.pluto.tv/channels/66c638726838ee00085ac20d/colorLogoPNG_1772843691075.png" group-title="United States",Andromeda
+https://jmp2.uk/plu-66c638726838ee00085ac20d.m3u8
 #EXTINF:-1 channel-id="5e8db96bccae160007c71eec-gb" tvg-id="5e8db96bccae160007c71eec" tvg-chno="282" tvg-name="Andromeda" tvg-logo="https://images.pluto.tv/channels/5e8db96bccae160007c71eec/colorLogoPNG.png" group-title="United Kingdom",Andromeda
 https://jmp2.uk/plu-5e8db96bccae160007c71eec.m3u8
 #EXTINF:-1 channel-id="6850335b5965a2fd49f7e36d-ca" tvg-id="6850335b5965a2fd49f7e36d" tvg-chno="276" tvg-name="Andromeda" tvg-logo="https://images.pluto.tv/channels/6850335b5965a2fd49f7e36d/colorLogoPNG_1750087529738.png" group-title="Canada",Andromeda
@@ -2993,8 +2995,6 @@ https://jmp2.uk/plu-63221e41af69b500076f84e7.m3u8
 https://jmp2.uk/plu-68b88ae1943f6fb1fb2ad749.m3u8
 #EXTINF:-1 channel-id="667ac79c15f35c00088a2409-gb" tvg-id="667ac79c15f35c00088a2409" tvg-chno="704" tvg-name="Outback Truckers" tvg-logo="https://images.pluto.tv/channels/667ac79c15f35c00088a2409/colorLogoPNG.png" group-title="United Kingdom",Outback Truckers
 https://jmp2.uk/plu-667ac79c15f35c00088a2409.m3u8
-#EXTINF:-1 channel-id="66c638726838ee00085ac20d-us" tvg-id="66c638726838ee00085ac20d" tvg-chno="875" tvg-name="OuterSphere" tvg-logo="https://images.pluto.tv/channels/66c638726838ee00085ac20d/colorLogoPNG.png" group-title="United States",OuterSphere
-https://jmp2.uk/plu-66c638726838ee00085ac20d.m3u8
 #EXTINF:-1 channel-id="6368e15a51e9560007c592ed-ca" tvg-id="6368e15a51e9560007c592ed" tvg-chno="57" tvg-name="OUTflix Movies" tvg-logo="https://images.pluto.tv/channels/6368e15a51e9560007c592ed/colorLogoPNG_1770024035875.png" group-title="Canada",OUTflix Movies
 https://jmp2.uk/plu-6368e15a51e9560007c592ed.m3u8
 #EXTINF:-1 channel-id="654930a8346f420008d3b0b8-us" tvg-id="654930a8346f420008d3b0b8" tvg-chno="1310" tvg-name="Oxygen True Crime Archives" tvg-logo="https://images.pluto.tv/channels/654930a8346f420008d3b0b8/colorLogoPNG.png" group-title="United States",Oxygen True Crime Archives
@@ -3747,11 +3747,11 @@ https://jmp2.uk/plu-6911c8dd8caba6f046c5c5d5.m3u8
 https://jmp2.uk/plu-5cf96c0222df39f1a338d163.m3u8
 #EXTINF:-1 channel-id="5f512365abe1f50007d3ff56-br" tvg-id="5f512365abe1f50007d3ff56" tvg-chno="278" tvg-name="Pluto TV Novelas" tvg-logo="https://images.pluto.tv/channels/5f512365abe1f50007d3ff56/colorLogoPNG.png" group-title="Brazil",Pluto TV Novelas
 https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
-#EXTINF:-1 channel-id="5dcde0cc2efd2700090b7ff4-mx" tvg-id="5dcde0cc2efd2700090b7ff4" tvg-chno="278" tvg-name="Pluto TV Novelas" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG_1771613462863.png" group-title="Mexico",Pluto TV Novelas
+#EXTINF:-1 channel-id="5dcde0cc2efd2700090b7ff4-mx" tvg-id="5dcde0cc2efd2700090b7ff4" tvg-chno="278" tvg-name="Pluto TV Novelas" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG_1772819701162.png" group-title="Mexico",Pluto TV Novelas
 https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8
-#EXTINF:-1 channel-id="5dcde0cc2efd2700090b7ff4-cl" tvg-id="5dcde0cc2efd2700090b7ff4" tvg-chno="278" tvg-name="Pluto TV Novelas" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG_1771613462863.png" group-title="Chile",Pluto TV Novelas
+#EXTINF:-1 channel-id="5dcde0cc2efd2700090b7ff4-cl" tvg-id="5dcde0cc2efd2700090b7ff4" tvg-chno="278" tvg-name="Pluto TV Novelas" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG_1772819701162.png" group-title="Chile",Pluto TV Novelas
 https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8
-#EXTINF:-1 channel-id="5dcde0cc2efd2700090b7ff4-ar" tvg-id="5dcde0cc2efd2700090b7ff4" tvg-chno="278" tvg-name="Pluto TV Novelas" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG_1771613462863.png" group-title="Argentina",Pluto TV Novelas
+#EXTINF:-1 channel-id="5dcde0cc2efd2700090b7ff4-ar" tvg-id="5dcde0cc2efd2700090b7ff4" tvg-chno="278" tvg-name="Pluto TV Novelas" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG_1772819701162.png" group-title="Argentina",Pluto TV Novelas
 https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8
 #EXTINF:-1 channel-id="6474a7958e3c0a0008b97cae-mx" tvg-id="6474a7958e3c0a0008b97cae" tvg-chno="305" tvg-name="Pluto TV Novelas de México" tvg-logo="https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG_1765475296297.png" group-title="Mexico",Pluto TV Novelas de México
 https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
