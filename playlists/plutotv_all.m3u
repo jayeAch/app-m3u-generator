@@ -3461,8 +3461,6 @@ https://jmp2.uk/plu-66335489307fa300082bd6e4.m3u8
 https://jmp2.uk/plu-65a7ab137bdc8d0008487dfb.m3u8
 #EXTINF:-1 channel-id="5f32d2db0af67400077f29c4-br" tvg-id="5f32d2db0af67400077f29c4" tvg-chno="827" tvg-name="Pluto TV Esportes" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG_1762439215914.png" group-title="Brazil",Pluto TV Esportes
 https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
-#EXTINF:-1 channel-id="69440d7d56acdcad6af9c8f3-br" tvg-id="69440d7d56acdcad6af9c8f3" tvg-chno="828" tvg-name="Pluto TV Esportes 2" tvg-logo="https://images.pluto.tv/channels/69440d7d56acdcad6af9c8f3/colorLogoPNG_1768442739098.png" group-title="Brazil",Pluto TV Esportes 2
-https://jmp2.uk/plu-69440d7d56acdcad6af9c8f3.m3u8
 #EXTINF:-1 channel-id="5dcde0657444a40009cd2422-mx" tvg-id="5dcde0657444a40009cd2422" tvg-chno="1199" tvg-name="Pluto TV Estilo de Vida" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG_1772217964895.png" group-title="Mexico",Pluto TV Estilo de Vida
 https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8
 #EXTINF:-1 channel-id="5dcde0657444a40009cd2422-cl" tvg-id="5dcde0657444a40009cd2422" tvg-chno="1199" tvg-name="Pluto TV Estilo de Vida" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG_1772217964895.png" group-title="Chile",Pluto TV Estilo de Vida
@@ -3524,6 +3522,8 @@ https://jmp2.uk/plu-691ddf2a3ae32cf55263476d.m3u8
 #EXTINF:-1 channel-id="62f3e0522443200008c567d7-fr" tvg-id="62f3e0522443200008c567d7" tvg-chno="265" tvg-name="Pluto TV French Collection" tvg-logo="https://images.pluto.tv/channels/62f3e0522443200008c567d7/colorLogoPNG.png" group-title="France",Pluto TV French Collection
 https://jmp2.uk/plu-62f3e0522443200008c567d7.m3u8
 #EXTINF:-1 channel-id="63c6e37e636b7e0007ccb635-cl" tvg-id="63c6e37e636b7e0007ccb635" tvg-chno="780" tvg-name="Pluto TV Fútbol" tvg-logo="https://images.pluto.tv/channels/63c6e37e636b7e0007ccb635/colorLogoPNG.png" group-title="Chile",Pluto TV Fútbol
+https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8
+#EXTINF:-1 channel-id="63c6e37e636b7e0007ccb635-ar" tvg-id="63c6e37e636b7e0007ccb635" tvg-chno="780" tvg-name="Pluto TV Fútbol" tvg-logo="https://images.pluto.tv/channels/63c6e37e636b7e0007ccb635/colorLogoPNG.png" group-title="Argentina",Pluto TV Fútbol
 https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8
 #EXTINF:-1 channel-id="6036e7c385749f00075dbd3b-us" tvg-id="6036e7c385749f00075dbd3b" tvg-chno="2350" tvg-name="Pluto TV Game Shows" tvg-logo="https://images.pluto.tv/channels/6036e7c385749f00075dbd3b/colorLogoPNG.png" group-title="United States",Pluto TV Game Shows
 https://jmp2.uk/plu-6036e7c385749f00075dbd3b.m3u8
