@@ -3461,6 +3461,8 @@ https://jmp2.uk/plu-66335489307fa300082bd6e4.m3u8
 https://jmp2.uk/plu-65a7ab137bdc8d0008487dfb.m3u8
 #EXTINF:-1 channel-id="5f32d2db0af67400077f29c4-br" tvg-id="5f32d2db0af67400077f29c4" tvg-chno="827" tvg-name="Pluto TV Esportes" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG_1762439215914.png" group-title="Brazil",Pluto TV Esportes
 https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
+#EXTINF:-1 channel-id="69440d7d56acdcad6af9c8f3-br" tvg-id="69440d7d56acdcad6af9c8f3" tvg-chno="828" tvg-name="Pluto TV Esportes 2" tvg-logo="https://images.pluto.tv/channels/69440d7d56acdcad6af9c8f3/colorLogoPNG_1768442739098.png" group-title="Brazil",Pluto TV Esportes 2
+https://jmp2.uk/plu-69440d7d56acdcad6af9c8f3.m3u8
 #EXTINF:-1 channel-id="5dcde0657444a40009cd2422-mx" tvg-id="5dcde0657444a40009cd2422" tvg-chno="1199" tvg-name="Pluto TV Estilo de Vida" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG_1772217964895.png" group-title="Mexico",Pluto TV Estilo de Vida
 https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8
 #EXTINF:-1 channel-id="5dcde0657444a40009cd2422-cl" tvg-id="5dcde0657444a40009cd2422" tvg-chno="1199" tvg-name="Pluto TV Estilo de Vida" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG_1772217964895.png" group-title="Chile",Pluto TV Estilo de Vida
@@ -4695,7 +4697,7 @@ https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
 https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
 #EXTINF:-1 channel-id="693a85c44b296a40bb0cb3b8-ca" tvg-id="693a85c44b296a40bb0cb3b8" tvg-chno="273" tvg-name="Star Trek: Voyager" tvg-logo="https://images.pluto.tv/channels/693a85c44b296a40bb0cb3b8/colorLogoPNG_1765443104655.png" group-title="Canada",Star Trek: Voyager
 https://jmp2.uk/plu-693a85c44b296a40bb0cb3b8.m3u8
-#EXTINF:-1 channel-id="65cb73d33ba51e00084cabad-it" tvg-id="65cb73d33ba51e00084cabad" tvg-chno="345" tvg-name="Star Trek: Voyager" tvg-logo="https://images.pluto.tv/channels/65cb73d33ba51e00084cabad/colorLogoPNG.png" group-title="Italy",Star Trek: Voyager
+#EXTINF:-1 channel-id="65cb73d33ba51e00084cabad-it" tvg-id="65cb73d33ba51e00084cabad" tvg-chno="355" tvg-name="Star Trek: Voyager" tvg-logo="https://images.pluto.tv/channels/65cb73d33ba51e00084cabad/colorLogoPNG.png" group-title="Italy",Star Trek: Voyager
 https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
 #EXTINF:-1 channel-id="620bfa7df72827000703ddb1-us" tvg-id="620bfa7df72827000703ddb1" tvg-chno="860" tvg-name="Stargate" tvg-logo="https://images.pluto.tv/channels/620bfa7df72827000703ddb1/colorLogoPNG.png" group-title="United States",Stargate
 https://jmp2.uk/plu-620bfa7df72827000703ddb1.m3u8
