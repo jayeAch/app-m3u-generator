@@ -4233,6 +4233,8 @@ https://jmp2.uk/plu-65a6818c7bdc8d0008457b21.m3u8
 https://jmp2.uk/plu-62cc1e1e0d0611000837dc1d.m3u8
 #EXTINF:-1 channel-id="696e024a7e92438c27a425a8-gb" tvg-id="696e024a7e92438c27a425a8" tvg-chno="1" tvg-name="Rally TV" tvg-logo="https://images.pluto.tv/channels/696e024a7e92438c27a425a8/colorLogoPNG_1770892518087.png" group-title="United Kingdom",Rally TV
 https://jmp2.uk/plu-696e024a7e92438c27a425a8.m3u8
+#EXTINF:-1 channel-id="696e02423b9ce349c90edef9-es" tvg-id="696e02423b9ce349c90edef9" tvg-chno="19" tvg-name="Rally TV" tvg-logo="https://images.pluto.tv/channels/696e02423b9ce349c90edef9/colorLogoPNG_1770892063713.png" group-title="Spain",Rally TV
+https://jmp2.uk/plu-696e02423b9ce349c90edef9.m3u8
 #EXTINF:-1 channel-id="696e0fe49ba4ac18057433ac-it" tvg-id="696e0fe49ba4ac18057433ac" tvg-chno="54" tvg-name="Rally TV" tvg-logo="https://images.pluto.tv/channels/696e0fe49ba4ac18057433ac/colorLogoPNG_1770893941495.png" group-title="Italy",Rally TV
 https://jmp2.uk/plu-696e0fe49ba4ac18057433ac.m3u8
 #EXTINF:-1 channel-id="638f2bc7bc363100072f02dd-de" tvg-id="638f2bc7bc363100072f02dd" tvg-chno="392" tvg-name="Rauchende Colts" tvg-logo="https://images.pluto.tv/channels/638f2bc7bc363100072f02dd/colorLogoPNG.png" group-title="Germany",Rauchende Colts

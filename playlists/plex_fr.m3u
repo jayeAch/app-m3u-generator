@@ -41,6 +41,8 @@ https://jmp2.uk/plex-6430aa45fc3be5947780904e-69222c105cbe620c1f9b6bbf.m3u8
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-61d73c3ca7b7c7f703418518.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-61d73ab0a7b7c7f703418516" tvg-id="6430aa45fc3be5947780904e-61d73ab0a7b7c7f703418516" tvg-chno="" tvg-name="Bloomberg TV" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/66a30548bffdf5f5e158e3baf755afad.png" group-title="News",Bloomberg TV
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-61d73ab0a7b7c7f703418516.m3u8
+#EXTINF:-1 channel-id="6430aa45fc3be5947780904e-69ae4f38e657bab5f7a9b7ec" tvg-id="6430aa45fc3be5947780904e-69ae4f38e657bab5f7a9b7ec" tvg-chno="" tvg-name="Bondi Rescue" tvg-logo="https://provider-static.plex.tv/epg/cms/production/91ffbeaa-df66-4074-83d6-94cacb9622fa/Plex_Totem_BondiRescue_Logo_White_-_Rowan_Williams.png" group-title="Uncategorized",Bondi Rescue
+https://jmp2.uk/plex-6430aa45fc3be5947780904e-69ae4f38e657bab5f7a9b7ec.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-6970fdabbde579fb71262401" tvg-id="6430aa45fc3be5947780904e-6970fdabbde579fb71262401" tvg-chno="" tvg-name="Bowling TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/573ed04e-775e-41c9-a367-81b9597eff00/Channel_Logo_Color_Evann_D___AdamoRDX_WHT_LETTERS.png" group-title="Uncategorized",Bowling TV
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-6970fdabbde579fb71262401.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-67f996d0ef39c314d31b042e" tvg-id="6430aa45fc3be5947780904e-67f996d0ef39c314d31b042e" tvg-chno="" tvg-name="Box Office Action" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9ce8c6ee-80d4-4690-a22d-e676cde659cb/BO_ActionRDX.png" group-title="Uncategorized",Box Office Action
@@ -71,6 +73,8 @@ https://jmp2.uk/plex-6430aa45fc3be5947780904e-65847f56d60830ce4d4f303c.m3u8
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-67642f277c5e3b38af72dcdb.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-61aaa0cc784a2161d3caf7ff" tvg-id="6430aa45fc3be5947780904e-61aaa0cc784a2161d3caf7ff" tvg-chno="" tvg-name="Classic Rock" tvg-logo="https://provider-static.plex.tv/epg/cms/production/393a107b-669d-4e64-9b1f-6fc06e5b858b/Classic_ROCK.png" group-title="Music",Classic Rock
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-61aaa0cc784a2161d3caf7ff.m3u8
+#EXTINF:-1 channel-id="6430aa45fc3be5947780904e-69b164bc87340e48b7b72247" tvg-id="6430aa45fc3be5947780904e-69b164bc87340e48b7b72247" tvg-chno="" tvg-name="CNN Headlines International" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c6b66b76-8050-4cc8-9e61-1ab6cc2b0015/CNN_HeadlinesInternational_RED_wht_logo.png" group-title="Uncategorized",CNN Headlines International
+https://jmp2.uk/plex-6430aa45fc3be5947780904e-69b164bc87340e48b7b72247.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-63f0ca427b78030ed9990309" tvg-id="6430aa45fc3be5947780904e-63f0ca427b78030ed9990309" tvg-chno="" tvg-name="CombaTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2230b4ec-e410-4f49-b5b2-8ac4dfd20c5c/combatv_logo_dark_-_Jordan_Warkol.png" group-title="Uncategorized",CombaTV
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-63f0ca427b78030ed9990309.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-5f07e9fdf313eb0041bbecda" tvg-id="6430aa45fc3be5947780904e-5f07e9fdf313eb0041bbecda" tvg-chno="" tvg-name="Cooking Panda" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="Food & Home",Cooking Panda
