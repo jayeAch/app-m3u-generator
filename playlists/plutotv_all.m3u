@@ -3465,8 +3465,6 @@ https://jmp2.uk/plu-66335489307fa300082bd6e4.m3u8
 https://jmp2.uk/plu-65a7ab137bdc8d0008487dfb.m3u8
 #EXTINF:-1 channel-id="5f32d2db0af67400077f29c4-br" tvg-id="5f32d2db0af67400077f29c4" tvg-chno="827" tvg-name="Pluto TV Esportes" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG_1762439215914.png" group-title="Brazil",Pluto TV Esportes
 https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
-#EXTINF:-1 channel-id="69440d7d56acdcad6af9c8f3-br" tvg-id="69440d7d56acdcad6af9c8f3" tvg-chno="828" tvg-name="Pluto TV Esportes 2" tvg-logo="https://images.pluto.tv/channels/69440d7d56acdcad6af9c8f3/colorLogoPNG_1768442739098.png" group-title="Brazil",Pluto TV Esportes 2
-https://jmp2.uk/plu-69440d7d56acdcad6af9c8f3.m3u8
 #EXTINF:-1 channel-id="5dcde0657444a40009cd2422-mx" tvg-id="5dcde0657444a40009cd2422" tvg-chno="1199" tvg-name="Pluto TV Estilo de Vida" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG_1772217964895.png" group-title="Mexico",Pluto TV Estilo de Vida
 https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8
 #EXTINF:-1 channel-id="5dcde0657444a40009cd2422-cl" tvg-id="5dcde0657444a40009cd2422" tvg-chno="1199" tvg-name="Pluto TV Estilo de Vida" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG_1772217964895.png" group-title="Chile",Pluto TV Estilo de Vida
@@ -5045,6 +5043,12 @@ https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8
 https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
 #EXTINF:-1 channel-id="664e640a0120f40008be4582-us" tvg-id="664e640a0120f40008be4582" tvg-chno="800" tvg-name="The Wild Wild West" tvg-logo="https://images.pluto.tv/channels/664e640a0120f40008be4582/colorLogoPNG.png" group-title="United States",The Wild Wild West
 https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
+#EXTINF:-1 channel-id="6964bca2a6c400fd418854a2-no" tvg-id="6964bca2a6c400fd418854a2" tvg-chno="2" tvg-name="The Wild Wild West" tvg-logo="https://images.pluto.tv/channels/6964bca2a6c400fd418854a2/colorLogoPNG_1768209614642.png" group-title="Norway",The Wild Wild West
+https://jmp2.uk/plu-6964bca2a6c400fd418854a2.m3u8
+#EXTINF:-1 channel-id="6964bcf9ae33e24d911d7e1c-se" tvg-id="6964bcf9ae33e24d911d7e1c" tvg-chno="2" tvg-name="The Wild Wild West" tvg-logo="https://images.pluto.tv/channels/6964bcf9ae33e24d911d7e1c/colorLogoPNG_1768209721347.png" group-title="Sweden",The Wild Wild West
+https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8
+#EXTINF:-1 channel-id="6964bc3806d76f50db3e315e-dk" tvg-id="6964bc3806d76f50db3e315e" tvg-chno="3" tvg-name="The Wild Wild West" tvg-logo="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" group-title="Denmark",The Wild Wild West
+https://jmp2.uk/plu-6964bc3806d76f50db3e315e.m3u8
 #EXTINF:-1 channel-id="6913e381b6bf26bb6e798c13-us" tvg-id="6913e381b6bf26bb6e798c13" tvg-chno="856" tvg-name="The X-Files" tvg-logo="https://images.pluto.tv/channels/6913e381b6bf26bb6e798c13/colorLogoPNG_1767310653556.png" group-title="United States",The X-Files
 https://jmp2.uk/plu-6913e381b6bf26bb6e798c13.m3u8
 #EXTINF:-1 channel-id="691b023a7613e09a8b209539-ca" tvg-id="691b023a7613e09a8b209539" tvg-chno="270" tvg-name="The X-Files" tvg-logo="https://images.pluto.tv/channels/691b023a7613e09a8b209539/colorLogoPNG_1767288050074.png" group-title="Canada",The X-Files
@@ -5349,8 +5353,6 @@ https://jmp2.uk/plu-61e9af6bfbbcc6000700119b.m3u8
 https://jmp2.uk/plu-688a44cf5d73ec0a3f49718b.m3u8
 #EXTINF:-1 channel-id="65819f83a620e300080f692a-gb" tvg-id="65819f83a620e300080f692a" tvg-chno="408" tvg-name="Weird or What? With William Shatner" tvg-logo="https://images.pluto.tv/channels/65819f83a620e300080f692a/colorLogoPNG_1764171950040.png" group-title="United Kingdom",Weird or What? With William Shatner
 https://jmp2.uk/plu-65819f83a620e300080f692a.m3u8
-#EXTINF:-1 channel-id="609539fa709d6b0007b19887-de" tvg-id="609539fa709d6b0007b19887" tvg-chno="61" tvg-name="Wer ist hier der Boss?" tvg-logo="https://images.pluto.tv/channels/609539fa709d6b0007b19887/colorLogoPNG.png" group-title="Germany",Wer ist hier der Boss?
-https://jmp2.uk/plu-609539fa709d6b0007b19887.m3u8
 #EXTINF:-1 channel-id="5e8df4bc16e34700077e77d3-us" tvg-id="5e8df4bc16e34700077e77d3" tvg-chno="791" tvg-name="Western TV" tvg-logo="https://images.pluto.tv/channels/5e8df4bc16e34700077e77d3/colorLogoPNG.png" group-title="United States",Western TV
 https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8
 #EXTINF:-1 channel-id="672cb91149c40600081cbee5-gb" tvg-id="672cb91149c40600081cbee5" tvg-chno="3" tvg-name="Whose Line Is It Anyway?" tvg-logo="https://images.pluto.tv/channels/672cb91149c40600081cbee5/colorLogoPNG_1772035532114.png" group-title="United Kingdom",Whose Line Is It Anyway?
