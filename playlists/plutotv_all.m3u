@@ -4681,6 +4681,8 @@ https://jmp2.uk/plu-6400c2a6cb41a40008dbe5bc.m3u8
 https://jmp2.uk/plu-6400c281dff38e00083f59da.m3u8
 #EXTINF:-1 channel-id="65c69bbfd77d450008c7ffee-us" tvg-id="65c69bbfd77d450008c7ffee" tvg-chno="844" tvg-name="Star Trek: Deep Space Nine" tvg-logo="https://images.pluto.tv/channels/65c69bbfd77d450008c7ffee/colorLogoPNG_1758310416057.png" group-title="United States",Star Trek: Deep Space Nine
 https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
+#EXTINF:-1 channel-id="695c32671ca20bb8ca7fd8f7-us" tvg-id="695c32671ca20bb8ca7fd8f7" tvg-chno="848" tvg-name="Star Trek: Enterprise" tvg-logo="https://images.pluto.tv/channels/695c32671ca20bb8ca7fd8f7/colorLogoPNG_1768440939423.png" group-title="United States",Star Trek: Enterprise
+https://jmp2.uk/plu-695c32671ca20bb8ca7fd8f7.m3u8
 #EXTINF:-1 channel-id="66337ed7a0a74e0008895699-de" tvg-id="66337ed7a0a74e0008895699" tvg-chno="18" tvg-name="Star Trek: Enterprise" tvg-logo="https://images.pluto.tv/channels/66337ed7a0a74e0008895699/colorLogoPNG.png" group-title="Germany",Star Trek: Enterprise
 https://jmp2.uk/plu-66337ed7a0a74e0008895699.m3u8
 #EXTINF:-1 channel-id="6675c88da1d7ad00084762cb-us" tvg-id="6675c88da1d7ad00084762cb" tvg-chno="25" tvg-name="Star Trek: The Motion Pictures" tvg-logo="https://images.pluto.tv/channels/6675c88da1d7ad00084762cb/colorLogoPNG.png" group-title="United States",Star Trek: The Motion Pictures
@@ -5435,8 +5437,6 @@ https://jmp2.uk/plu-6177f8fdef21ab0007332b53.m3u8
 https://jmp2.uk/plu-6319ee0cf78bb10007ee5e6b.m3u8
 #EXTINF:-1 channel-id="5f8ecfb9db6c180007a6d1b0-fr" tvg-id="5f8ecfb9db6c180007a6d1b0" tvg-chno="1225" tvg-name="WPT" tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" group-title="France",WPT
 https://jmp2.uk/plu-5f8ecfb9db6c180007a6d1b0.m3u8
-#EXTINF:-1 channel-id="68c85164b7af374ee483210f-us" tvg-id="68c85164b7af374ee483210f" tvg-chno="2895" tvg-name="Wrestling Central" tvg-logo="https://images.pluto.tv/channels/68c85164b7af374ee483210f/colorLogoPNG_1760475182481.png" group-title="United States",Wrestling Central
-https://jmp2.uk/plu-68c85164b7af374ee483210f.m3u8
 #EXTINF:-1 channel-id="68c820525ec82769fdfcd104-gb" tvg-id="68c820525ec82769fdfcd104" tvg-chno="958" tvg-name="Wrestling Legends TV" tvg-logo="https://images.pluto.tv/channels/68c820525ec82769fdfcd104/colorLogoPNG_1765359753710.png" group-title="United Kingdom",Wrestling Legends TV
 https://jmp2.uk/plu-68c820525ec82769fdfcd104.m3u8
 #EXTINF:-1 channel-id="642d7e029189ce0008958af5-de" tvg-id="642d7e029189ce0008958af5" tvg-chno="323" tvg-name="X-Factor: Das Unfassbare" tvg-logo="https://images.pluto.tv/channels/642d7e029189ce0008958af5/colorLogoPNG.png" group-title="Germany",X-Factor: Das Unfassbare
