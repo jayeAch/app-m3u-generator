@@ -245,6 +245,8 @@ https://jmp2.uk/plu-6368e15a51e9560007c592ed.m3u8
 https://jmp2.uk/plu-63e20bd160bc8f0008b4c949.m3u8
 #EXTINF:-1 channel-id="66dad50215d2c60008d7afbd" tvg-id="66dad50215d2c60008d7afbd" tvg-chno="215" tvg-name="Pluto Classic Movie Westerns" tvg-logo="https://images.pluto.tv/channels/66dad50215d2c60008d7afbd/colorLogoPNG.png" group-title="Westerns",Pluto Classic Movie Westerns
 https://jmp2.uk/plu-66dad50215d2c60008d7afbd.m3u8
+#EXTINF:-1 channel-id="66d717c6abec540008ba7eb5" tvg-id="66d717c6abec540008ba7eb5" tvg-chno="250" tvg-name="Pluto TV 80's Action" tvg-logo="https://images.pluto.tv/channels/66d717c6abec540008ba7eb5/colorLogoPNG.png" group-title="Crime Drama",Pluto TV 80's Action
+https://jmp2.uk/plu-66d717c6abec540008ba7eb5.m3u8
 #EXTINF:-1 channel-id="62ea3c2e4823db00072788ed" tvg-id="62ea3c2e4823db00072788ed" tvg-chno="52" tvg-name="Pluto TV Action Movies" tvg-logo="https://images.pluto.tv/channels/62ea3c2e4823db00072788ed/colorLogoPNG.png" group-title="Movies",Pluto TV Action Movies
 https://jmp2.uk/plu-62ea3c2e4823db00072788ed.m3u8
 #EXTINF:-1 channel-id="653bdb0fbdf3cf00089cc395" tvg-id="653bdb0fbdf3cf00089cc395" tvg-chno="460" tvg-name="Pluto TV Adventure" tvg-logo="https://images.pluto.tv/channels/653bdb0fbdf3cf00089cc395/colorLogoPNG.png" group-title="Reality",Pluto TV Adventure
