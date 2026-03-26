@@ -1,104 +1,52 @@
-name: Generate M3U Playlists
-
-on:
-  schedule:
-    # Runs every day at 3:00 AM UTC
-    - cron: '0 */12 * * *'
-  workflow_dispatch: # Allows manual triggering from the Actions tab
-  push:
-    branches:
-      - main # Optional: Run when the script itself is updated on the main branch
-    paths:
-      - 'generate_playlists.py'
-      - '.github/workflows/generate_playlists.yml'
-
-jobs:
-  build-playlists:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write # Allow the job to push changes back to the repo
-
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10' # Or your preferred Python version
-
-      - name: Install Dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests
-
-      - name: Run Playlist Generation Script
-        run: python generate_playlists.py
-
-      - name: Create/Update Release with Static URLs
-        run: |
-          # Use a static tag name that never changes
-          STATIC_TAG="latest-playlists"
-          
-          # Install GitHub CLI if not present
-          if ! command -v gh &> /dev/null; then
-            curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
-            echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
-            sudo apt update
-            sudo apt install gh -y
-          fi
-          
-          # Check if release exists and delete it
-          if gh release view $STATIC_TAG &>/dev/null 2>&1; then
-            echo "Deleting existing release to update..."
-            gh release delete $STATIC_TAG --yes
-          fi
-          
-          # Find all .m3u files in playlists directory
-          PLAYLIST_FILES=$(find playlists -name "*.m3u" -type f)
-          
-          if [ -z "$PLAYLIST_FILES" ]; then
-            echo "No playlist files found to upload!"
-            exit 1
-          fi
-          
-          # Create new release with all playlist files
-          echo "Creating release with static tag: $STATIC_TAG"
-          gh release create $STATIC_TAG \
-            --title "Latest M3U Playlists" \
-            --notes "Updated: $(date -u +'%Y-%m-%d %H:%M UTC')" \
-            $PLAYLIST_FILES \
-            --latest
-          
-          echo ""
-          echo "✅ Playlists uploaded to static URLs:"
-          echo ""
-          echo "Static URLs (will always point to latest version):"
-          for file in $PLAYLIST_FILES; do
-            FILENAME=$(basename "$file")
-            echo "   https://github.com/${{ github.repository }}/releases/download/$STATIC_TAG/$FILENAME"
-          done
-          echo ""
-          echo "🔗 Latest release link: https://github.com/${{ github.repository }}/releases/tag/$STATIC_TAG"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Clean up local files (optional)
-        run: |
-          # Remove the playlists directory after uploading to keep repo clean
-          rm -rf playlists/
-          echo "🗑️  Local playlists removed - repository stays clean"
-          
-      - name: Optional - Keep commit history clean by resetting
-        run: |
-          # If you want to prevent commits entirely, uncomment this section
-          # This removes the playlists directory from git history
-          if git ls-files --error-unmatch playlists/ &>/dev/null; then
-            git rm -rf --cached playlists/ 2>/dev/null || true
-            git config --global user.name 'github-actions[bot]'
-            git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-            git commit -m "Remove playlists from repo [skip ci]" || true
-            git push || true
-          fi
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+- name: Create/Update Release with Static URLs
+  run: |
+    # Use a static tag name that never changes
+    STATIC_TAG="latest-playlists"
+    
+    # Install GitHub CLI if not present
+    if ! command -v gh &> /dev/null; then
+      curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
+      echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
+      sudo apt update
+      sudo apt install gh -y
+    fi
+    
+    # Check if release exists and delete it
+    if gh release view $STATIC_TAG &>/dev/null 2>&1; then
+      echo "Deleting existing release to update..."
+      gh release delete $STATIC_TAG --yes
+    fi
+    
+    # Find all .m3u files and flatten them by copying to temp directory
+    echo "Flattening files for upload..."
+    mkdir -p flat_uploads
+    find playlists -name "*.m3u" -type f -exec cp {} flat_uploads/ \;
+    
+    # Get list of flattened files
+    FLATTENED_FILES=$(find flat_uploads -name "*.m3u" -type f)
+    
+    if [ -z "$FLATTENED_FILES" ]; then
+      echo "No playlist files found to upload!"
+      exit 1
+    fi
+    
+    # Create new release with flattened files
+    echo "Creating release with static tag: $STATIC_TAG"
+    gh release create $STATIC_TAG \
+      --title "Latest M3U Playlists" \
+      --notes "Updated: $(date -u +'%Y-%m-%d %H:%M UTC')" \
+      $FLATTENED_FILES \
+      --latest
+    
+    echo ""
+    echo "✅ Playlists uploaded to static URLs:"
+    echo ""
+    echo "Static URLs (will always point to latest version):"
+    for file in $FLATTENED_FILES; do
+      FILENAME=$(basename "$file")
+      echo "   https://github.com/${{ github.repository }}/releases/download/$STATIC_TAG/$FILENAME"
+    done
+    echo ""
+    echo "🔗 Latest release link: https://github.com/${{ github.repository }}/releases/tag/$STATIC_TAG"
+  env:
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
