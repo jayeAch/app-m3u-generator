@@ -193,8 +193,6 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-5fd115bdb7ef8d002dcf1820.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-62ee7ae2271f393d2d9f709e.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-671ff7a5769d5ec4bf51d63a" tvg-id="643054b1fc3be59477853717-671ff7a5769d5ec4bf51d63a" tvg-chno="" tvg-name="Historia Y Vida" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d93cbfe7-324c-46eb-8c7a-6d959837e20c/Logo_Historia_Vida_1500x1000_DarkBackground_-_Belen_Bruno.png" group-title="Uncategorized",Historia Y Vida
 https://jmp2.uk/plex-643054b1fc3be59477853717-671ff7a5769d5ec4bf51d63a.m3u8
-#EXTINF:-1 channel-id="643054b1fc3be59477853717-686457b84051ba2be659baaa" tvg-id="643054b1fc3be59477853717-686457b84051ba2be659baaa" tvg-chno="" tvg-name="Historias de Ultratumba" tvg-logo="https://provider-static.plex.tv/epg/cms/production/07e53e33-126e-464e-86ec-cfdc5add8b85/Historias_de_Ultratumba_whiteRDX.png" group-title="Uncategorized",Historias de Ultratumba
-https://jmp2.uk/plex-643054b1fc3be59477853717-686457b84051ba2be659baaa.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-61aaa014784a2161d3caf7fd" tvg-id="643054b1fc3be59477853717-61aaa014784a2161d3caf7fd" tvg-chno="" tvg-name="Hit List" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6d559f3-6a3d-4ce0-839e-55681e4a7928/Hit_List.png" group-title="Music",Hit List
 https://jmp2.uk/plex-643054b1fc3be59477853717-61aaa014784a2161d3caf7fd.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-682dfb2ddfc9c452b8f98426" tvg-id="643054b1fc3be59477853717-682dfb2ddfc9c452b8f98426" tvg-chno="" tvg-name="Homeful" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e407e666-03b2-4244-ae4f-841ca20736d6/Plex_Homeful_Logo-white_1500x1000_-_Nerissa_Jones.png" group-title="Food & Home",Homeful
@@ -231,6 +229,8 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-5eea605574085f0040ddc79a.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-656fb124cb7e8e6a9bc3f36a.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-666e1af3d91d13cb4c8cbb6d" tvg-id="643054b1fc3be59477853717-666e1af3d91d13cb4c8cbb6d" tvg-chno="" tvg-name="La Fiebre del Jade" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fd21a845-1ffb-443d-91de-35d2dc3cb12c/channel_logo_1500x1000_light.png.png" group-title="Reality, En Español",La Fiebre del Jade
 https://jmp2.uk/plex-643054b1fc3be59477853717-666e1af3d91d13cb4c8cbb6d.m3u8
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-69bb1f002028859eafc637e1" tvg-id="643054b1fc3be59477853717-69bb1f002028859eafc637e1" tvg-chno="" tvg-name="Legacy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png" group-title="Uncategorized",Legacy
+https://jmp2.uk/plex-643054b1fc3be59477853717-69bb1f002028859eafc637e1.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-67c2496d45ae99120c071588" tvg-id="643054b1fc3be59477853717-67c2496d45ae99120c071588" tvg-chno="" tvg-name="Life Down Under" tvg-logo="https://provider-static.plex.tv/epg/cms/production/457ba162-d75e-4b43-96b0-125f61a47a44/LDU_Logo_1500_x_1000_Anna.png" group-title="Uncategorized",Life Down Under
 https://jmp2.uk/plex-643054b1fc3be59477853717-67c2496d45ae99120c071588.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-6196c9241d310bf925e02616" tvg-id="643054b1fc3be59477853717-6196c9241d310bf925e02616" tvg-chno="" tvg-name="Lone Star" tvg-logo="https://provider-static.plex.tv/1/epg/channels/logos/gracenote/1d8c9bf417f3e12668fecafc25fc8f72.png" group-title="Classic TV",Lone Star
@@ -493,8 +493,8 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-68b74890b5b437bf872b6b72.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-68a799722895f21006e758e4.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-68b74a235dc5413c905efd62" tvg-id="643054b1fc3be59477853717-68b74a235dc5413c905efd62" tvg-chno="" tvg-name="TV5MONDE Voyage" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1fbf682f-90ba-4318-a649-12c7f89cdc48/LOGO_PLEX_VOYAGE_1500X1000_WHITE.png" group-title="Uncategorized",TV5MONDE Voyage
 https://jmp2.uk/plex-643054b1fc3be59477853717-68b74a235dc5413c905efd62.m3u8
-#EXTINF:-1 channel-id="643054b1fc3be59477853717-66ccae1a78822c7edc4b6df1" tvg-id="643054b1fc3be59477853717-66ccae1a78822c7edc4b6df1" tvg-chno="" tvg-name="UFC" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e1cfac6a-9e69-443a-b14c-c99e2cb50ead/UFC_logo_WHT_1500x1000.png" group-title="Sports",UFC
-https://jmp2.uk/plex-643054b1fc3be59477853717-66ccae1a78822c7edc4b6df1.m3u8
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-66ccac69fdf9cd3a568ef135" tvg-id="643054b1fc3be59477853717-66ccac69fdf9cd3a568ef135" tvg-chno="" tvg-name="UFC" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c2e95493-6f98-4a65-be46-d17200ea068a/UFC_logo_WHT_1500x1000.png" group-title="Sports",UFC
+https://jmp2.uk/plex-643054b1fc3be59477853717-66ccac69fdf9cd3a568ef135.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-67f45ef989089d917e1b1634" tvg-id="643054b1fc3be59477853717-67f45ef989089d917e1b1634" tvg-chno="" tvg-name="Unbeaten" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0b6f4951-d177-464c-aafc-0e35b61b48da/Unbeaten_logo_dark_-_Sam_Neazi.png" group-title="Sports",Unbeaten
 https://jmp2.uk/plex-643054b1fc3be59477853717-67f45ef989089d917e1b1634.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-60df3e18541143002f3b8607" tvg-id="643054b1fc3be59477853717-60df3e18541143002f3b8607" tvg-chno="" tvg-name="USA TODAY" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ae42c76a-809f-465b-aed8-cfdc8e33a04b/usatoday_logo_light.png" group-title="News",USA TODAY
@@ -529,8 +529,6 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-630fa9e577ec3866def38fa2.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-68b9f334fc12601028c5651e.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-652875586425fdb1f32d2169" tvg-id="643054b1fc3be59477853717-652875586425fdb1f32d2169" tvg-chno="" tvg-name="World Surf League 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b4cf623f-e45e-4706-ba5c-fdf92a9e1e44/WSL_WHITE_LOGO.png" group-title="Uncategorized",World Surf League 24/7
 https://jmp2.uk/plex-643054b1fc3be59477853717-652875586425fdb1f32d2169.m3u8
-#EXTINF:-1 channel-id="643054b1fc3be59477853717-66e3b5c1797aba6bb732c5c9" tvg-id="643054b1fc3be59477853717-66e3b5c1797aba6bb732c5c9" tvg-chno="" tvg-name="Xataka" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec585cbb-dd5b-4604-9a9b-557a60920685/Plex_Xataka_light_-_ColorRDX.png" group-title="Uncategorized",Xataka
-https://jmp2.uk/plex-643054b1fc3be59477853717-66e3b5c1797aba6bb732c5c9.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-621670feab2095ca85353ad4" tvg-id="643054b1fc3be59477853717-621670feab2095ca85353ad4" tvg-chno="" tvg-name="XFC TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/90cd03c9-281a-4eea-964b-6a9ce5c8d07c/XFCTV_channel_logo_dark_-_Dana_Foster.png" group-title="Sports",XFC TV
 https://jmp2.uk/plex-643054b1fc3be59477853717-621670feab2095ca85353ad4.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-62ee72cc271f393d2d9f7098" tvg-id="643054b1fc3be59477853717-62ee72cc271f393d2d9f7098" tvg-chno="" tvg-name="Y2K" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ca8ce15a-6f58-4602-9d8c-d66bb894d7a2/Y2K.png" group-title="Music",Y2K
