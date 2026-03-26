@@ -7,7 +7,7 @@ on:
   workflow_dispatch: # Allows manual triggering from the Actions tab
   push:
     branches:
-      - main # Optional: Run when the script itself is updated on the main branch
+      - main
     paths:
       - 'generate_playlists.py'
       - '.github/workflows/generate_playlists.yml'
@@ -16,7 +16,7 @@ jobs:
   build-playlists:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Allow the job to push changes back to the repo
+      contents: write # Required for creating releases and pushing
 
     steps:
       - name: Checkout Repository
@@ -25,7 +25,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10' # Or your preferred Python version
+          python-version: '3.10'
 
       - name: Install Dependencies
         run: |
@@ -37,12 +37,12 @@ jobs:
 
       - name: Verify Files Exist
         run: |
-          if [ ! -d "playlists" ] || [ -z "$(find playlists -name "*.m3u" -type f)" ]; then
+          if [ ! -d "playlists" ] || [ -z "$(find playlists -name "*.m3u" -type f 2>/dev/null)" ]; then
             echo "❌ ERROR: No .m3u files found in playlists directory!"
-            echo "Contents of current directory:"
+            echo "Current directory contents:"
             ls -la
             if [ -d "playlists" ]; then
-              echo "Contents of playlists directory:"
+              echo "Playlists directory contents:"
               ls -la playlists/
             fi
             exit 1
@@ -50,7 +50,9 @@ jobs:
           echo "✅ Found .m3u files:"
           find playlists -name "*.m3u" -type f
 
-      - name: Create/Update Release with Static URLs (Flattened Files)
+      - name: Create/Update Release with Static URLs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # Use a static tag name that never changes
           STATIC_TAG="latest-playlists"
@@ -63,10 +65,10 @@ jobs:
             sudo apt install gh -y
           fi
           
-          # Authenticate GitHub CLI
-          echo "${{ secrets.GITHUB_TOKEN }}" | gh auth login --with-token
+          # Authenticate GitHub CLI using the token
+          echo "$GITHUB_TOKEN" | gh auth login --with-token
           
-          # Delete existing release and tag
+          # Delete existing release and tag (ignore errors if doesn't exist)
           echo "Removing existing release/tag if present..."
           gh release delete $STATIC_TAG --yes --cleanup-tag 2>/dev/null || true
           
@@ -109,8 +111,6 @@ jobs:
           
           # Clean up temp directory
           rm -rf flat_uploads/
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Clean up local files
         run: |
