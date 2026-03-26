@@ -52,7 +52,7 @@ jobs:
 
       - name: Create/Update Release with Static URLs
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # Use a static tag name that never changes
           STATIC_TAG="latest-playlists"
@@ -65,8 +65,8 @@ jobs:
             sudo apt install gh -y
           fi
           
-          # Authenticate GitHub CLI using the token
-          echo "$GITHUB_TOKEN" | gh auth login --with-token
+          # Unset GITHUB_TOKEN to avoid conflict, use GH_TOKEN instead
+          unset GITHUB_TOKEN
           
           # Delete existing release and tag (ignore errors if doesn't exist)
           echo "Removing existing release/tag if present..."
