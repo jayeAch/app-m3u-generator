@@ -12,10 +12,8 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout gh-pages branch
+      - name: Checkout Repository
         uses: actions/checkout@v4
-        with:
-          ref: gh-pages
 
       - name: Fetch M3U
         run: |
@@ -23,18 +21,45 @@ jobs:
             "http://tvmate.icu:8080/get.php?username=13KpN5&password=160160&type=m3u_plus&output=ts" \
             -o adultos.m3u
 
-      - name: Verify File
+      - name: Verify File Exists
         run: |
           if [ ! -f "adultos.m3u" ] || [ ! -s "adultos.m3u" ]; then
             echo "❌ ERROR: adultos.m3u is missing or empty!"
             exit 1
           fi
-          echo "✅ $(wc -l < adultos.m3u) lines fetched"
+          echo "✅ adultos.m3u found:"
+          wc -l adultos.m3u
 
-      - name: Commit and Push
+      - name: Create/Update Release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add adultos.m3u
-          git diff --cached --quiet || git commit -m "chore: update playlist"
-          git push
+          STATIC_TAG="latest-playlists"
+
+          if ! command -v gh &> /dev/null; then
+            curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
+            echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
+            sudo apt update
+            sudo apt install gh -y
+          fi
+
+          unset GITHUB_TOKEN
+
+          echo "Removing existing release/tag if present..."
+          gh release delete $STATIC_TAG --yes --cleanup-tag 2>/dev/null || true
+
+          echo "Creating release..."
+          gh release create $STATIC_TAG \
+            --title "Latest Adult Playlist" \
+            --notes "Updated: $(date -u +'%Y-%m-%d %H:%M UTC')" \
+            adultos.m3u \
+            --latest
+
+          echo ""
+          echo "✅ Playlist available at:"
+          echo "   https://github.com/${{ github.repository }}/releases/download/$STATIC_TAG/adultos.m3u"
+
+      - name: Clean up
+        run: |
+          rm -f adultos.m3u
+          echo "🗑️  Local file removed"
