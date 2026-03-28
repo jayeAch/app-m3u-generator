@@ -1,0 +1,40 @@
+name: Update Adult Playlist
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout gh-pages branch
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+
+      - name: Fetch M3U
+        run: |
+          curl -s -A "Mozilla/5.0" \
+            "http://tvmate.icu:8080/get.php?username=13KpN5&password=160160&type=m3u_plus&output=ts" \
+            -o adultos.m3u
+
+      - name: Verify File
+        run: |
+          if [ ! -f "adultos.m3u" ] || [ ! -s "adultos.m3u" ]; then
+            echo "❌ ERROR: adultos.m3u is missing or empty!"
+            exit 1
+          fi
+          echo "✅ $(wc -l < adultos.m3u) lines fetched"
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add adultos.m3u
+          git diff --cached --quiet || git commit -m "chore: update playlist"
+          git push
