@@ -126,3 +126,4 @@ shelf/ # Usually contains temporary code changes
 # --- Project Specific ---
 # IMPORTANT: Ensure you DO NOT add 'playlists/' or '*.m3u' here,
 # as you *want* Git to track those generated files.
+adultos.m3u
