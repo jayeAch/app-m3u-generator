@@ -30,6 +30,34 @@ jobs:
           echo "✅ adultos.m3u found:"
           wc -l adultos.m3u
 
+      - name: Add to .gitignore
+        run: |
+          # Create .gitignore if it doesn't exist
+          touch .gitignore
+          
+          # Remove any existing entry for adultos.m3u
+          sed -i '/^adultos\.m3u$/d' .gitignore
+          
+          # Add adultos.m3u to .gitignore
+          echo "adultos.m3u" >> .gitignore
+          
+          echo "✅ Added adultos.m3u to .gitignore"
+
+      - name: Commit and push .gitignore
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Check if .gitignore has changes
+          if git diff --quiet .gitignore; then
+            echo "No changes to .gitignore"
+          else
+            git add .gitignore
+            git commit -m "Hide adultos.m3u via .gitignore [skip ci]"
+            git push
+            echo "✅ .gitignore updated and pushed"
+          fi
+
       - name: Create/Update Release
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -59,7 +87,8 @@ jobs:
           echo "✅ Playlist available at:"
           echo "   https://github.com/${{ github.repository }}/releases/download/$STATIC_TAG/adultos.m3u"
 
-      - name: Clean up
+      - name: Hide file with .gitignore (keep local)
         run: |
-          rm -f adultos.m3u
-          echo "🗑️  Local file removed"
+          # The file remains in the working directory but is now ignored by git
+          echo "📁 adultos.m3u is now hidden from git tracking via .gitignore"
+          echo "   File still exists locally but won't be committed in future changes"
