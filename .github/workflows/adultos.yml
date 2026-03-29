@@ -58,37 +58,18 @@ jobs:
             echo "✅ .gitignore updated and pushed"
           fi
 
-      - name: Create/Update Release
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and push the playlist file
         run: |
-          STATIC_TAG="latest-playlists"
+          # Force add the file (bypassing .gitignore) for this commit only
+          git add -f adultos.m3u
+          git commit -m "Update adultos.m3u [skip ci]"
+          git push
+          echo "✅ adultos.m3u updated and pushed to repository"
 
-          if ! command -v gh &> /dev/null; then
-            curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
-            echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
-            sudo apt update
-            sudo apt install gh -y
-          fi
-
-          unset GITHUB_TOKEN
-
-          echo "Removing existing release/tag if present..."
-          gh release delete $STATIC_TAG --yes --cleanup-tag 2>/dev/null || true
-
-          echo "Creating release..."
-          gh release create $STATIC_TAG \
-            --title "Latest Adult Playlist" \
-            --notes "Updated: $(date -u +'%Y-%m-%d %H:%M UTC')" \
-            adultos.m3u \
-            --latest
-
-          echo ""
-          echo "✅ Playlist available at:"
-          echo "   https://github.com/${{ github.repository }}/releases/download/$STATIC_TAG/adultos.m3u"
-
-      - name: Hide file with .gitignore (keep local)
+      - name: Clean up tracking
         run: |
-          # The file remains in the working directory but is now ignored by git
-          echo "📁 adultos.m3u is now hidden from git tracking via .gitignore"
-          echo "   File still exists locally but won't be committed in future changes"
+          # Remove from git tracking but keep the file locally
+          git rm --cached adultos.m3u
+          git commit -m "Stop tracking adultos.m3u [skip ci]"
+          git push
+          echo "✅ adultos.m3u removed from git tracking, now hidden by .gitignore"
