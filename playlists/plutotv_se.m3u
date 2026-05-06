@@ -159,6 +159,8 @@ https://jmp2.uk/plu-657887d9dfed030008ce8aa8.m3u8
 https://jmp2.uk/plu-62cdaef300a4b3000739b1bf.m3u8
 #EXTINF:-1 channel-id="62beb6c0371e6c000775930f" tvg-id="62beb6c0371e6c000775930f" tvg-chno="370" tvg-name="Ice Road Truckers" tvg-logo="https://images.pluto.tv/channels/62beb6c0371e6c000775930f/colorLogoPNG.png" group-title="Reality",Ice Road Truckers
 https://jmp2.uk/plu-62beb6c0371e6c000775930f.m3u8
+#EXTINF:-1 channel-id="691ed77b1308fa77bb2d5562" tvg-id="691ed77b1308fa77bb2d5562" tvg-chno="1" tvg-name="Inter 24/7" tvg-logo="https://images.pluto.tv/channels/691ed77b1308fa77bb2d5562/colorLogoPNG_1775047038535.png" group-title="Nytt på Pluto TV",Inter 24/7
+https://jmp2.uk/plu-691ed77b1308fa77bb2d5562.m3u8
 #EXTINF:-1 channel-id="682b39defaaa60cd7dbfa5c3" tvg-id="682b39defaaa60cd7dbfa5c3" tvg-chno="507" tvg-name="Iron Chef" tvg-logo="https://images.pluto.tv/channels/682b39defaaa60cd7dbfa5c3/colorLogoPNG_1747663424753.png" group-title="Mat & livsstil",Iron Chef
 https://jmp2.uk/plu-682b39defaaa60cd7dbfa5c3.m3u8
 #EXTINF:-1 channel-id="654a515f986ad20008a4593b" tvg-id="654a515f986ad20008a4593b" tvg-chno="572" tvg-name="JAG" tvg-logo="https://images.pluto.tv/channels/654a515f986ad20008a4593b/colorLogoPNG.png" group-title="Gamla godingar",JAG
@@ -355,7 +357,7 @@ https://jmp2.uk/plu-61f128f68a1dfc00086470af.m3u8
 https://jmp2.uk/plu-63c95491808b740007608a74.m3u8
 #EXTINF:-1 channel-id="66b22c9aa79dea0008cee4a9" tvg-id="66b22c9aa79dea0008cee4a9" tvg-chno="1010" tvg-name="Taxi" tvg-logo="https://images.pluto.tv/channels/66b22c9aa79dea0008cee4a9/colorLogoPNG.png" group-title="Sitcoms",Taxi
 https://jmp2.uk/plu-66b22c9aa79dea0008cee4a9.m3u8
-#EXTINF:-1 channel-id="693ae39cc2fa3abe8ad8208c" tvg-id="693ae39cc2fa3abe8ad8208c" tvg-chno="1" tvg-name="Teen Wolf" tvg-logo="https://images.pluto.tv/channels/693ae39cc2fa3abe8ad8208c/colorLogoPNG_1770362446025.png" group-title="Nytt på Pluto TV",Teen Wolf
+#EXTINF:-1 channel-id="693ae39cc2fa3abe8ad8208c" tvg-id="693ae39cc2fa3abe8ad8208c" tvg-chno="2" tvg-name="Teen Wolf" tvg-logo="https://images.pluto.tv/channels/693ae39cc2fa3abe8ad8208c/colorLogoPNG_1770362446025.png" group-title="Nytt på Pluto TV",Teen Wolf
 https://jmp2.uk/plu-693ae39cc2fa3abe8ad8208c.m3u8
 #EXTINF:-1 channel-id="6870c9ca759366af055fe891" tvg-id="6870c9ca759366af055fe891" tvg-chno="147" tvg-name="Tennis Channel" tvg-logo="https://images.pluto.tv/channels/6870c9ca759366af055fe891/colorLogoPNG_1756971817950.png" group-title="Sport",Tennis Channel
 https://jmp2.uk/plu-6870c9ca759366af055fe891.m3u8
