@@ -1,8 +1,10 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/es.xml.gz"
 #EXTINF:-1 channel-id="67517fae5534bb0008187997" tvg-id="67517fae5534bb0008187997" tvg-chno="600" tvg-name="Actualidad 360" tvg-logo="https://images.pluto.tv/channels/67517fae5534bb0008187997/colorLogoPNG.png" group-title="Noticias",Actualidad 360
 https://jmp2.uk/plu-67517fae5534bb0008187997.m3u8
-#EXTINF:-1 channel-id="65b91e530d9ab40008340d8d" tvg-id="65b91e530d9ab40008340d8d" tvg-chno="55" tvg-name="Al salir de clase" tvg-logo="https://images.pluto.tv/channels/65b91e530d9ab40008340d8d/colorLogoPNG.png" group-title="Series Míticas",Al salir de clase
+#EXTINF:-1 channel-id="65b91e530d9ab40008340d8d" tvg-id="65b91e530d9ab40008340d8d" tvg-chno="359" tvg-name="Al salir de clase" tvg-logo="https://images.pluto.tv/channels/65b91e530d9ab40008340d8d/colorLogoPNG.png" group-title="Más series",Al salir de clase
 https://jmp2.uk/plu-65b91e530d9ab40008340d8d.m3u8
+#EXTINF:-1 channel-id="69c51060ed1b1f1acb5092dc" tvg-id="69c51060ed1b1f1acb5092dc" tvg-chno="20" tvg-name="Alaska y Mario" tvg-logo="https://images.pluto.tv/channels/69c51060ed1b1f1acb5092dc/colorLogoPNG_1778483817519.png" group-title="Nuevo en Pluto TV",Alaska y Mario
+https://jmp2.uk/plu-69c51060ed1b1f1acb5092dc.m3u8
 #EXTINF:-1 channel-id="664c76d68ea5560008c6c7a4" tvg-id="664c76d68ea5560008c6c7a4" tvg-chno="102" tvg-name="Alerta Cobra" tvg-logo="https://images.pluto.tv/channels/664c76d68ea5560008c6c7a4/colorLogoPNG.png" group-title="Policiacas",Alerta Cobra
 https://jmp2.uk/plu-664c76d68ea5560008c6c7a4.m3u8
 #EXTINF:-1 channel-id="66d71f8ee5de930008016f83" tvg-id="66d71f8ee5de930008016f83" tvg-chno="111" tvg-name="Alice Nevers" tvg-logo="https://images.pluto.tv/channels/66d71f8ee5de930008016f83/colorLogoPNG_1730816120590.png" group-title="Policiacas",Alice Nevers
@@ -67,9 +69,9 @@ https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
 https://jmp2.uk/plu-660c29f80cd4630008f1547c.m3u8
 #EXTINF:-1 channel-id="5f1abf5fafb5ee0007d4d0ca" tvg-id="5f1abf5fafb5ee0007d4d0ca" tvg-chno="322" tvg-name="FailArmy" tvg-logo="https://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/colorLogoPNG.png" group-title="Comedia",FailArmy
 https://jmp2.uk/plu-5f1abf5fafb5ee0007d4d0ca.m3u8
-#EXTINF:-1 channel-id="69c5100c3d2597380f0f6422" tvg-id="69c5100c3d2597380f0f6422" tvg-chno="20" tvg-name="Gata salvaje" tvg-logo="https://images.pluto.tv/missing.png" group-title="Nuevo en Pluto TV",Gata salvaje
+#EXTINF:-1 channel-id="69c5100c3d2597380f0f6422" tvg-id="69c5100c3d2597380f0f6422" tvg-chno="19" tvg-name="Gata salvaje" tvg-logo="https://images.pluto.tv/missing.png" group-title="Nuevo en Pluto TV",Gata salvaje
 https://jmp2.uk/plu-69c5100c3d2597380f0f6422.m3u8
-#EXTINF:-1 channel-id="69bd2cc70b6c04b3e635ba29" tvg-id="69bd2cc70b6c04b3e635ba29" tvg-chno="19" tvg-name="Goku Day" tvg-logo="https://images.pluto.tv/channels/69bd2cc70b6c04b3e635ba29/colorLogoPNG_1777475445645.png" group-title="Nuevo en Pluto TV",Goku Day
+#EXTINF:-1 channel-id="69bd2cc70b6c04b3e635ba29" tvg-id="69bd2cc70b6c04b3e635ba29" tvg-chno="18" tvg-name="Goku Day" tvg-logo="https://images.pluto.tv/channels/69bd2cc70b6c04b3e635ba29/colorLogoPNG_1777475445645.png" group-title="Nuevo en Pluto TV",Goku Day
 https://jmp2.uk/plu-69bd2cc70b6c04b3e635ba29.m3u8
 #EXTINF:-1 channel-id="68779a09c691b3f0964127c6" tvg-id="68779a09c691b3f0964127c6" tvg-chno="507" tvg-name="Heidi" tvg-logo="https://images.pluto.tv/channels/68779a09c691b3f0964127c6/colorLogoPNG_1760381113655.png" group-title="Infantil",Heidi
 https://jmp2.uk/plu-68779a09c691b3f0964127c6.m3u8
