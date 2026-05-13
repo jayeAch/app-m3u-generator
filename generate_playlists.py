@@ -240,12 +240,75 @@ def generate_roku_m3u():
     data = fetch_url('https://i.mjh.nz/Roku/.channels.json', is_json=True)
     if not data: return
 
+    # Map granular Roku genre tags to consolidated group names
+    ROKU_GROUP_MAP = {
+        # News & Weather
+        'News': 'News', 'Newsmagazine': 'News', 'Special': 'News', 'Politics': 'News',
+        'Weather': 'Weather',
+
+        # Sports (general)
+        'Sports': 'Sports', 'Sports Talk': 'Sports', 'Olympics': 'Sports',
+        'Action Sports': 'Sports', 'Action': 'Sports',
+
+        # Sports (specific — fold into Sports)
+        'Baseball': 'Sports', 'Basketball': 'Sports', 'Football': 'Sports',
+        'Soccer': 'Sports', 'Hockey': 'Sports', 'Tennis': 'Sports', 'Golf': 'Sports',
+        'Boxing': 'Sports', 'Mixed Martial Arts': 'Sports', 'Martial Arts': 'Sports',
+        'Wrestling': 'Sports', 'Rugby': 'Sports', 'Volleyball': 'Sports',
+        'Skateboarding': 'Sports', 'Snowboarding': 'Sports', 'Surfing': 'Sports',
+        'Cycling': 'Sports', 'Bicycle': 'Sports', 'Bmx Racing': 'Sports',
+        'Bullfighting': 'Sports', 'Rodeo': 'Sports', 'Western': 'Sports',
+        'Fishing': 'Sports', 'Hunting': 'Sports', 'Outdoors': 'Sports',
+        'Boat Racing': 'Sports', 'Drag Racing': 'Sports', 'Motorsports': 'Sports',
+        'Motorcycle': 'Sports', 'Motorcycle Racing': 'Sports',
+        'Judo': 'Sports', 'Karate': 'Sports', 'Billiards': 'Sports',
+
+        # Auto
+        'Auto': 'Auto & Motorsports', 'Auto Racing': 'Auto & Motorsports',
+
+        # Movies
+        'Adventure': 'Movies', 'Thriller': 'Movies', 'Suspense': 'Movies',
+        'Science Fiction': 'Movies', 'Fantasy': 'Movies', 'Horror': 'Movies',
+
+        # TV / Entertainment
+        'Entertainment': 'TV & Entertainment', 'Sitcom': 'TV & Entertainment',
+        'Drama': 'TV & Entertainment', 'Soap': 'TV & Entertainment',
+        'Talk': 'TV & Entertainment', 'Reality': 'TV & Entertainment',
+        'Comedy Drama': 'TV & Entertainment', 'History': 'TV & Entertainment',
+
+        # Comedy
+        'Comedy': 'Comedy', 'Romantic Comedy': 'Comedy',
+
+        # Romance
+        'Romance': 'Romance',
+
+        # Documentary
+        'Documentary': 'Documentary', 'Nature': 'Documentary',
+
+        # Music
+        'Music': 'Music',
+
+        # Anime
+        'Anime': 'Anime',
+
+        # Gaming & Tech
+        'Gaming': 'Gaming & Tech', 'Computers': 'Gaming & Tech',
+        'Esports': 'Gaming & Tech',
+
+        # Faith
+        'Faith': 'Faith & Family', 'Religious': 'Faith & Family',
+        'Family': 'Faith & Family',
+
+        # Health
+        'Health': 'Health', 'Medical': 'Health',
+    }
+
     channels = data.get('channels', {})
 
-    # Build group -> channels map using the first group tag per channel
     group_map = {}
     for c_id, ch in channels.items():
-        group = ch['groups'][0] if ch.get('groups') else 'Other'
+        raw_group = ch['groups'][0] if ch.get('groups') else 'Other'
+        group = ROKU_GROUP_MAP.get(raw_group, raw_group)
         group_map.setdefault(group, []).append((c_id, ch))
 
     output_lines = ['#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz"\n']
