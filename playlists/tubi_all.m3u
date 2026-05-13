@@ -217,6 +217,8 @@ https://live-manifest.production-public.tubi.io/live/e8f55e68-0e26-44f2-afac-c13
 https://live-manifest.production-public.tubi.io/live/8fa6f1c5-c602-426c-999d-8651180ca7ff/playlist.m3u8
 #EXTINF:-1 tvg-id="656575" tvg-logo="https://canvas-lb.tubitv.com/opts/g-dtAd_wR8w64w==/62dc5afa-c235-41ae-904e-e77b6c93e93e/CHgQeDoFMS4xLjlAAQ==" group-title="Comedy",Mystery Science Theater 3000
 https://live-manifest.production-public.tubi.io/live/da2d381e-93a5-466c-8807-74e18bac08f1/playlist.m3u8
+#EXTINF:-1 tvg-id="400000290" tvg-logo="https://canvas-lb.tubitv.com/opts/2mcvzKqRwgNrrg==/5a6b6a83-e437-41c9-a130-ebdde2b4665e/CHgQeDoFMS4xLjlAAQ==" group-title="Pop Culture",Mythical 24/7
+https://live-manifest.production-public.tubi.io/live/6aa8d0a3-22b0-450d-9971-1964d6308305/playlist.m3u8
 #EXTINF:-1 tvg-id="400000121" tvg-logo="https://canvas-lb.tubitv.com/opts/1hBihc5u12jjfA==/7739dd1a-423d-4a56-92c7-d27129356eb0/CHgQeDoFMS4xLjlAAQ==" group-title="Sports On Now",NASCAR
 https://live-manifest.production-public.tubi.io/live/3404f25c-24bd-4ced-9d72-f2b4d5f63c57/playlist.m3u8
 #EXTINF:-1 tvg-id="400000105" tvg-logo="https://canvas-lb.tubitv.com/opts/WNnMH6qKRZWqEw==/13cb369b-10c8-4017-82f6-3658ff67b899/CHgQeDoFMS4xLjlAAQ==" group-title="Classic TV",Nash Bridges
