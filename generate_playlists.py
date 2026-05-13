@@ -239,9 +239,23 @@ def generate_samsungtvplus_m3u():
 def generate_roku_m3u():
     data = fetch_url('https://i.mjh.nz/Roku/.channels.json', is_json=True)
     if not data: return
+
+    channels = data.get('channels', {})
+
+    # Build group -> channels map using the first group tag per channel
+    group_map = {}
+    for c_id, ch in channels.items():
+        group = ch['groups'][0] if ch.get('groups') else 'Other'
+        group_map.setdefault(group, []).append((c_id, ch))
+
     output_lines = ['#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz"\n']
-    for c_id, ch in data['channels'].items():
-        output_lines.extend([format_extinf(c_id, c_id, ch.get('chno'), ch['name'], ch['logo'], "Roku", ch['name']), f"https://jmp2.uk/rok-{c_id}.m3u8\n"])
+    for group in sorted(group_map.keys()):
+        for c_id, ch in sorted(group_map[group], key=lambda x: x[1].get('name', '').lower()):
+            output_lines.extend([
+                format_extinf(c_id, c_id, ch.get('chno'), ch['name'], ch['logo'], group, ch['name']),
+                f"https://jmp2.uk/rok-{c_id}.m3u8\n"
+            ])
+
     write_m3u_file("roku_all.m3u", "".join(output_lines))
 
 # --- Tubi Scraping Logic ---
