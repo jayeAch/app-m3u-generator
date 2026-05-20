@@ -31,8 +31,6 @@ https://jmp2.uk/plu-6512d6a0a1217e00092c1214.m3u8
 https://jmp2.uk/plu-6486e8b48e3c0a0008e56914.m3u8
 #EXTINF:-1 channel-id="672e16f5daad7f0008929a0d" tvg-id="672e16f5daad7f0008929a0d" tvg-chno="1014" tvg-name="Becker" tvg-logo="https://images.pluto.tv/channels/672e16f5daad7f0008929a0d/colorLogoPNG_1731073889977.png" group-title="Sitcoms",Becker
 https://jmp2.uk/plu-672e16f5daad7f0008929a0d.m3u8
-#EXTINF:-1 channel-id="62792dbd5e237b0007f84642" tvg-id="62792dbd5e237b0007f84642" tvg-chno="132" tvg-name="Bellator MMA" tvg-logo="https://images.pluto.tv/channels/62792dbd5e237b0007f84642/colorLogoPNG.png" group-title="Sport",Bellator MMA
-https://jmp2.uk/plu-62792dbd5e237b0007f84642.m3u8
 #EXTINF:-1 channel-id="632afdf820e83e000710ea12" tvg-id="632afdf820e83e000710ea12" tvg-chno="452" tvg-name="Best of MTV" tvg-logo="https://images.pluto.tv/channels/632afdf820e83e000710ea12/colorLogoPNG_1767773819301.png" group-title="Det bästa från MTV",Best of MTV
 https://jmp2.uk/plu-632afdf820e83e000710ea12.m3u8
 #EXTINF:-1 channel-id="65e97d41f7f0af0008da2543" tvg-id="65e97d41f7f0af0008da2543" tvg-chno="25" tvg-name="Best of Paradise Hotel: Finalveckan" tvg-logo="https://images.pluto.tv/channels/65e97d41f7f0af0008da2543/colorLogoPNG.png" group-title="Paradise Hotel",Best of Paradise Hotel: Finalveckan
@@ -229,8 +227,6 @@ https://jmp2.uk/plu-619e4833244e500007564d5a.m3u8
 https://jmp2.uk/plu-63dbe8a1c111bc0008dec8b8.m3u8
 #EXTINF:-1 channel-id="62cdad7b5c38c00007f566c2" tvg-id="62cdad7b5c38c00007f566c2" tvg-chno="724" tvg-name="On the Case" tvg-logo="https://images.pluto.tv/channels/62cdad7b5c38c00007f566c2/colorLogoPNG.png" group-title="True Crime",On the Case
 https://jmp2.uk/plu-62cdad7b5c38c00007f566c2.m3u8
-#EXTINF:-1 channel-id="65b8f9d4d77d450008a3ef8f" tvg-id="65b8f9d4d77d450008a3ef8f" tvg-chno="134" tvg-name="PFL MMA" tvg-logo="https://images.pluto.tv/channels/65b8f9d4d77d450008a3ef8f/colorLogoPNG.png" group-title="Sport",PFL MMA
-https://jmp2.uk/plu-65b8f9d4d77d450008a3ef8f.m3u8
 #EXTINF:-1 channel-id="66c86fed85e28d0008f8a9ec" tvg-id="66c86fed85e28d0008f8a9ec" tvg-chno="148" tvg-name="PGA TOUR" tvg-logo="https://images.pluto.tv/channels/66c86fed85e28d0008f8a9ec/colorLogoPNG.png" group-title="Sport",PGA TOUR
 https://jmp2.uk/plu-66c86fed85e28d0008f8a9ec.m3u8
 #EXTINF:-1 channel-id="6380c73f76e43f000721f73b" tvg-id="6380c73f76e43f000721f73b" tvg-chno="30" tvg-name="Paradise" tvg-logo="https://images.pluto.tv/channels/6380c73f76e43f000721f73b/colorLogoPNG.png" group-title="Paradise Hotel",Paradise
