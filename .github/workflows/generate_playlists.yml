@@ -36,7 +36,6 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          # Added urllib3 as it's required by your script's SSL configuration
           pip install requests beautifulsoup4 lxml urllib3
 
       - name: Run Playlist Generation Script
@@ -44,31 +43,24 @@ jobs:
 
       - name: Fix Tubi EPG URL (The TiviMate Fix)
         run: |
-          # Dynamically builds the full URL to your XML file on GitHub
-          GITHUB_RAW_URL="https://raw.githubusercontent.com/${{ github.repository }}/main/playlists/tubi_epg.xml"
-          
-          echo "Updating M3U to use full EPG URL: $GITHUB_RAW_URL"
-          
-          # Replace the local filename with the full URL in the M3U header
+          RELEASE_BASE="https://github.com/${{ github.repository }}/releases/download/playlists-latest"
+          echo "Updating M3U to use release asset EPG URL: $RELEASE_BASE/tubi_epg.xml"
           if [ -f "playlists/tubi_all.m3u" ]; then
-            sed -i "s|url-tvg=\"tubi_epg.xml\"|url-tvg=\"$GITHUB_RAW_URL\"|g" playlists/tubi_all.m3u
+            sed -i "s|url-tvg=\"tubi_epg.xml\"|url-tvg=\"$RELEASE_BASE/tubi_epg.xml\"|g" playlists/tubi_all.m3u
           fi
 
-      - name: Commit and Push Changes
+      - name: Publish Playlists as Release Assets
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          
-          mkdir -p playlists
-          git add -A playlists/
-          
-          # Only commit if there are changes to avoid workflow errors
-          if [ -n "$(git status --porcelain playlists/)" ]; then
-            git commit -m "🔄 Updated FAST playlists"
-            git push origin main
-          else
-            echo "No changes to playlists. Skipping commit."
-          fi
+          TAG="playlists-latest"
 
+          # Delete the existing release and tag (if any) for a clean re-upload
+          gh release delete "$TAG" --yes --cleanup-tag 2>/dev/null || true
 
-
+          # Re-create the release
+          gh release create "$TAG" \
+            --title "Latest Playlists" \
+            --notes "Auto-generated FAST channel playlists. Updated $(date -u '+%Y-%m-%d %H:%M UTC')" \
+            --latest=false \
+            playlists/*
